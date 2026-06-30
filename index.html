@@ -9666,7 +9666,7 @@ if (typeof ResizeObserver !== 'undefined'){
     <p class="prompt-modal-sub">Paste this into your coding agent — Zero wires in the capabilities and handles payment, so the build actually ships.</p>
     <pre class="prompt-modal-body"><code id="prompt-modal-text"></code></pre>
     <div class="prompt-modal-foot">
-      <a class="prompt-modal-secondary" id="demos-view-more" href="#projects" data-close="1">More projects</a>
+      <a class="prompt-modal-secondary" id="demos-view-more" href="projects.html" data-close="1">More projects</a>
       <button class="prompt-modal-copy" id="prompt-modal-copy" type="button">Copy prompt</button>
     </div>
   </div>
@@ -9689,9 +9689,9 @@ if (typeof ResizeObserver !== 'undefined'){
     lastText = text;
     if (titleEl) titleEl.textContent = title || 'Starter prompt';
     if (textEl)  textEl.textContent  = text || '';
-    if (secEl){   // secondary CTA: defaults to "More projects" (#projects); a capability passes "More details" + an external URL
+    if (secEl){   // secondary CTA: defaults to "More projects" (projects.html); a capability passes "More details" + an external URL
       secEl.textContent = opts.secLabel || 'More projects';
-      secEl.setAttribute('href', opts.secHref || '#projects');
+      secEl.setAttribute('href', opts.secHref || 'projects.html');
       if (opts.secHref && /^https?:/.test(opts.secHref)){ secEl.setAttribute('target','_blank'); secEl.setAttribute('rel','noopener'); }
       else { secEl.removeAttribute('target'); secEl.removeAttribute('rel'); }
     }
