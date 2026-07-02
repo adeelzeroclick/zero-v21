@@ -1,0 +1,10262 @@
+[
+ {
+  "name": "Brain",
+  "slug": "brain",
+  "category": "AI"
+ },
+ {
+  "name": "Edit with ai",
+  "slug": "edit-with-ai",
+  "category": "AI"
+ },
+ {
+  "name": "Spark",
+  "slug": "spark",
+  "category": "AI"
+ },
+ {
+  "name": "Summarize with ai",
+  "slug": "summarize-with-ai",
+  "category": "AI"
+ },
+ {
+  "name": "Account",
+  "slug": "account",
+  "category": "Commerce"
+ },
+ {
+  "name": "Apple",
+  "slug": "apple",
+  "category": "Commerce"
+ },
+ {
+  "name": "Apple--dash",
+  "slug": "apple--dash",
+  "category": "Commerce"
+ },
+ {
+  "name": "Basketball",
+  "slug": "basketball",
+  "category": "Commerce"
+ },
+ {
+  "name": "Bat",
+  "slug": "bat",
+  "category": "Commerce"
+ },
+ {
+  "name": "Bee-bat",
+  "slug": "bee-bat",
+  "category": "Commerce"
+ },
+ {
+  "name": "Bottles--01",
+  "slug": "bottles--01",
+  "category": "Commerce"
+ },
+ {
+  "name": "Bottles--01--dash",
+  "slug": "bottles--01--dash",
+  "category": "Commerce"
+ },
+ {
+  "name": "Bottles--02",
+  "slug": "bottles--02",
+  "category": "Commerce"
+ },
+ {
+  "name": "Bottles--02--dash",
+  "slug": "bottles--02--dash",
+  "category": "Commerce"
+ },
+ {
+  "name": "Bottles--container",
+  "slug": "bottles--container",
+  "category": "Commerce"
+ },
+ {
+  "name": "Building",
+  "slug": "building",
+  "category": "Commerce"
+ },
+ {
+  "name": "Corn",
+  "slug": "corn",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency",
+  "slug": "currency",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--baht",
+  "slug": "currency--baht",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--dollar",
+  "slug": "currency--dollar",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--euro",
+  "slug": "currency--euro",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--lira",
+  "slug": "currency--lira",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--pound",
+  "slug": "currency--pound",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--ruble",
+  "slug": "currency--ruble",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--rupee",
+  "slug": "currency--rupee",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--shekel",
+  "slug": "currency--shekel",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--won",
+  "slug": "currency--won",
+  "category": "Commerce"
+ },
+ {
+  "name": "Currency--yen",
+  "slug": "currency--yen",
+  "category": "Commerce"
+ },
+ {
+  "name": "Delivery",
+  "slug": "delivery",
+  "category": "Commerce"
+ },
+ {
+  "name": "Delivery--add",
+  "slug": "delivery--add",
+  "category": "Commerce"
+ },
+ {
+  "name": "Delivery--parcel",
+  "slug": "delivery--parcel",
+  "category": "Commerce"
+ },
+ {
+  "name": "Drink--01",
+  "slug": "drink--01",
+  "category": "Commerce"
+ },
+ {
+  "name": "Drink--02",
+  "slug": "drink--02",
+  "category": "Commerce"
+ },
+ {
+  "name": "Enterprise",
+  "slug": "enterprise",
+  "category": "Commerce"
+ },
+ {
+  "name": "Finance",
+  "slug": "finance",
+  "category": "Commerce"
+ },
+ {
+  "name": "Fish",
+  "slug": "fish",
+  "category": "Commerce"
+ },
+ {
+  "name": "Fish--multiple",
+  "slug": "fish--multiple",
+  "category": "Commerce"
+ },
+ {
+  "name": "Fragile",
+  "slug": "fragile",
+  "category": "Commerce"
+ },
+ {
+  "name": "Fruit-bowl",
+  "slug": "fruit-bowl",
+  "category": "Commerce"
+ },
+ {
+  "name": "Gift",
+  "slug": "gift",
+  "category": "Commerce"
+ },
+ {
+  "name": "Industry",
+  "slug": "industry",
+  "category": "Commerce"
+ },
+ {
+  "name": "Inventory-management",
+  "slug": "inventory-management",
+  "category": "Commerce"
+ },
+ {
+  "name": "Keep-dry",
+  "slug": "keep-dry",
+  "category": "Commerce"
+ },
+ {
+  "name": "Money",
+  "slug": "money",
+  "category": "Commerce"
+ },
+ {
+  "name": "Monster",
+  "slug": "monster",
+  "category": "Commerce"
+ },
+ {
+  "name": "Noodle-bowl",
+  "slug": "noodle-bowl",
+  "category": "Commerce"
+ },
+ {
+  "name": "Piggy-bank",
+  "slug": "piggy-bank",
+  "category": "Commerce"
+ },
+ {
+  "name": "Piggy-bank--slot",
+  "slug": "piggy-bank--slot",
+  "category": "Commerce"
+ },
+ {
+  "name": "Pricing--consumption",
+  "slug": "pricing--consumption",
+  "category": "Commerce"
+ },
+ {
+  "name": "Pricing--container",
+  "slug": "pricing--container",
+  "category": "Commerce"
+ },
+ {
+  "name": "Pricing--quick-proposal",
+  "slug": "pricing--quick-proposal",
+  "category": "Commerce"
+ },
+ {
+  "name": "Pricing--tailored",
+  "slug": "pricing--tailored",
+  "category": "Commerce"
+ },
+ {
+  "name": "Pricing--traditional",
+  "slug": "pricing--traditional",
+  "category": "Commerce"
+ },
+ {
+  "name": "Purchase",
+  "slug": "purchase",
+  "category": "Commerce"
+ },
+ {
+  "name": "Receipt",
+  "slug": "receipt",
+  "category": "Commerce"
+ },
+ {
+  "name": "Recycle",
+  "slug": "recycle",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--bag",
+  "slug": "shopping--bag",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--cart",
+  "slug": "shopping--cart",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--cart--arrow-down",
+  "slug": "shopping--cart--arrow-down",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--cart--arrow-up",
+  "slug": "shopping--cart--arrow-up",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--cart--clear",
+  "slug": "shopping--cart--clear",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--cart--error",
+  "slug": "shopping--cart--error",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--cart--minus",
+  "slug": "shopping--cart--minus",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--cart--plus",
+  "slug": "shopping--cart--plus",
+  "category": "Commerce"
+ },
+ {
+  "name": "Shopping--catalog",
+  "slug": "shopping--catalog",
+  "category": "Commerce"
+ },
+ {
+  "name": "Soccer",
+  "slug": "soccer",
+  "category": "Commerce"
+ },
+ {
+  "name": "Sprout",
+  "slug": "sprout",
+  "category": "Commerce"
+ },
+ {
+  "name": "Stack-limitation",
+  "slug": "stack-limitation",
+  "category": "Commerce"
+ },
+ {
+  "name": "Store",
+  "slug": "store",
+  "category": "Commerce"
+ },
+ {
+  "name": "Strawberry",
+  "slug": "strawberry",
+  "category": "Commerce"
+ },
+ {
+  "name": "Sustainability",
+  "slug": "sustainability",
+  "category": "Commerce"
+ },
+ {
+  "name": "Tennis",
+  "slug": "tennis",
+  "category": "Commerce"
+ },
+ {
+  "name": "Tennis-ball",
+  "slug": "tennis-ball",
+  "category": "Commerce"
+ },
+ {
+  "name": "This-side-up",
+  "slug": "this-side-up",
+  "category": "Commerce"
+ },
+ {
+  "name": "Tree",
+  "slug": "tree",
+  "category": "Commerce"
+ },
+ {
+  "name": "Two-person-lift",
+  "slug": "two-person-lift",
+  "category": "Commerce"
+ },
+ {
+  "name": "Wallet",
+  "slug": "wallet",
+  "category": "Commerce"
+ },
+ {
+  "name": "Wheat",
+  "slug": "wheat",
+  "category": "Commerce"
+ },
+ {
+  "name": "Wireless-checkout",
+  "slug": "wireless-checkout",
+  "category": "Commerce"
+ },
+ {
+  "name": "Bottom-panel--close",
+  "slug": "bottom-panel--close",
+  "category": "Controls"
+ },
+ {
+  "name": "Bottom-panel--close--filled",
+  "slug": "bottom-panel--close--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Bottom-panel--open",
+  "slug": "bottom-panel--open",
+  "category": "Controls"
+ },
+ {
+  "name": "Bottom-panel--open--filled",
+  "slug": "bottom-panel--open--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Center-to-fit",
+  "slug": "center-to-fit",
+  "category": "Controls"
+ },
+ {
+  "name": "Continue",
+  "slug": "continue",
+  "category": "Controls"
+ },
+ {
+  "name": "Continue--filled",
+  "slug": "continue--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Dashboard",
+  "slug": "dashboard",
+  "category": "Controls"
+ },
+ {
+  "name": "Dashboard--reference",
+  "slug": "dashboard--reference",
+  "category": "Controls"
+ },
+ {
+  "name": "Fit-to-height",
+  "slug": "fit-to-height",
+  "category": "Controls"
+ },
+ {
+  "name": "Fit-to-screen",
+  "slug": "fit-to-screen",
+  "category": "Controls"
+ },
+ {
+  "name": "Fit-to-width1",
+  "slug": "fit-to-width1",
+  "category": "Controls"
+ },
+ {
+  "name": "Forward--10",
+  "slug": "forward--10",
+  "category": "Controls"
+ },
+ {
+  "name": "Forward--30",
+  "slug": "forward--30",
+  "category": "Controls"
+ },
+ {
+  "name": "Forward--5",
+  "slug": "forward--5",
+  "category": "Controls"
+ },
+ {
+  "name": "Next--filled",
+  "slug": "next--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Next--outline",
+  "slug": "next--outline",
+  "category": "Controls"
+ },
+ {
+  "name": "Open-panel--bottom",
+  "slug": "open-panel--bottom",
+  "category": "Controls"
+ },
+ {
+  "name": "Open-panel--filled--bottom",
+  "slug": "open-panel--filled--bottom",
+  "category": "Controls"
+ },
+ {
+  "name": "Open-panel--filled--left",
+  "slug": "open-panel--filled--left",
+  "category": "Controls"
+ },
+ {
+  "name": "Open-panel--filled--right",
+  "slug": "open-panel--filled--right",
+  "category": "Controls"
+ },
+ {
+  "name": "Open-panel--filled--top",
+  "slug": "open-panel--filled--top",
+  "category": "Controls"
+ },
+ {
+  "name": "Open-panel--left",
+  "slug": "open-panel--left",
+  "category": "Controls"
+ },
+ {
+  "name": "Open-panel--right",
+  "slug": "open-panel--right",
+  "category": "Controls"
+ },
+ {
+  "name": "Open-panel--top",
+  "slug": "open-panel--top",
+  "category": "Controls"
+ },
+ {
+  "name": "Pause",
+  "slug": "pause",
+  "category": "Controls"
+ },
+ {
+  "name": "Pause--filled",
+  "slug": "pause--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Pause--outline",
+  "slug": "pause--outline",
+  "category": "Controls"
+ },
+ {
+  "name": "Pause--outline--filled",
+  "slug": "pause--outline--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Play",
+  "slug": "play",
+  "category": "Controls"
+ },
+ {
+  "name": "Play--filled",
+  "slug": "play--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Play--filled--alt",
+  "slug": "play--filled--alt",
+  "category": "Controls"
+ },
+ {
+  "name": "Play--outline",
+  "slug": "play--outline",
+  "category": "Controls"
+ },
+ {
+  "name": "Play--outline--filled",
+  "slug": "play--outline--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Power",
+  "slug": "power",
+  "category": "Controls"
+ },
+ {
+  "name": "Previous--filled",
+  "slug": "previous--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Previous--outline",
+  "slug": "previous--outline",
+  "category": "Controls"
+ },
+ {
+  "name": "Recording",
+  "slug": "recording",
+  "category": "Controls"
+ },
+ {
+  "name": "Recording--filled",
+  "slug": "recording--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Recording--filled--alt",
+  "slug": "recording--filled--alt",
+  "category": "Controls"
+ },
+ {
+  "name": "Rewind--10",
+  "slug": "rewind--10",
+  "category": "Controls"
+ },
+ {
+  "name": "Rewind--30",
+  "slug": "rewind--30",
+  "category": "Controls"
+ },
+ {
+  "name": "Rewind--5",
+  "slug": "rewind--5",
+  "category": "Controls"
+ },
+ {
+  "name": "Right-panel--close",
+  "slug": "right-panel--close",
+  "category": "Controls"
+ },
+ {
+  "name": "Right-panel--close--filled",
+  "slug": "right-panel--close--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Right-panel--open",
+  "slug": "right-panel--open",
+  "category": "Controls"
+ },
+ {
+  "name": "Right-panel--open--filled",
+  "slug": "right-panel--open--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Settings",
+  "slug": "settings",
+  "category": "Controls"
+ },
+ {
+  "name": "Settings--adjust",
+  "slug": "settings--adjust",
+  "category": "Controls"
+ },
+ {
+  "name": "Settings--check",
+  "slug": "settings--check",
+  "category": "Controls"
+ },
+ {
+  "name": "Settings--edit",
+  "slug": "settings--edit",
+  "category": "Controls"
+ },
+ {
+  "name": "Settings--services",
+  "slug": "settings--services",
+  "category": "Controls"
+ },
+ {
+  "name": "Settings--view",
+  "slug": "settings--view",
+  "category": "Controls"
+ },
+ {
+  "name": "Shrink-screen",
+  "slug": "shrink-screen",
+  "category": "Controls"
+ },
+ {
+  "name": "Shrink-screen--filled",
+  "slug": "shrink-screen--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Side-panel--close",
+  "slug": "side-panel--close",
+  "category": "Controls"
+ },
+ {
+  "name": "Side-panel--close--filled",
+  "slug": "side-panel--close--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Side-panel--open",
+  "slug": "side-panel--open",
+  "category": "Controls"
+ },
+ {
+  "name": "Side-panel--open--filled",
+  "slug": "side-panel--open--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--back",
+  "slug": "skip--back",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--back--filled",
+  "slug": "skip--back--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--back--outline",
+  "slug": "skip--back--outline",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--back--outline--filled",
+  "slug": "skip--back--outline--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--back--outline--solid",
+  "slug": "skip--back--outline--solid",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--back--solid--filled",
+  "slug": "skip--back--solid--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--forward",
+  "slug": "skip--forward",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--forward--filled",
+  "slug": "skip--forward--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--forward--outline",
+  "slug": "skip--forward--outline",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--forward--outline--filled",
+  "slug": "skip--forward--outline--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--forward--outline--solid",
+  "slug": "skip--forward--outline--solid",
+  "category": "Controls"
+ },
+ {
+  "name": "Skip--forward--solid--filled",
+  "slug": "skip--forward--solid--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Stop",
+  "slug": "stop",
+  "category": "Controls"
+ },
+ {
+  "name": "Stop--filled",
+  "slug": "stop--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Stop--filled--alt",
+  "slug": "stop--filled--alt",
+  "category": "Controls"
+ },
+ {
+  "name": "Stop--outline",
+  "slug": "stop--outline",
+  "category": "Controls"
+ },
+ {
+  "name": "Stop--outline--filled",
+  "slug": "stop--outline--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Video--add",
+  "slug": "video--add",
+  "category": "Controls"
+ },
+ {
+  "name": "Video--chat",
+  "slug": "video--chat",
+  "category": "Controls"
+ },
+ {
+  "name": "Video-player",
+  "slug": "video-player",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--down",
+  "slug": "volume--down",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--down--alt",
+  "slug": "volume--down--alt",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--down--filled",
+  "slug": "volume--down--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--down--filled--alt",
+  "slug": "volume--down--filled--alt",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--mute",
+  "slug": "volume--mute",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--mute--filled",
+  "slug": "volume--mute--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--up",
+  "slug": "volume--up",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--up--alt",
+  "slug": "volume--up--alt",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--up--filled",
+  "slug": "volume--up--filled",
+  "category": "Controls"
+ },
+ {
+  "name": "Volume--up--filled--alt",
+  "slug": "volume--up--filled--alt",
+  "category": "Controls"
+ },
+ {
+  "name": "Activity",
+  "slug": "activity",
+  "category": "Data"
+ },
+ {
+  "name": "Analytics",
+  "slug": "analytics",
+  "category": "Data"
+ },
+ {
+  "name": "Analytics--custom",
+  "slug": "analytics--custom",
+  "category": "Data"
+ },
+ {
+  "name": "Analytics--reference",
+  "slug": "analytics--reference",
+  "category": "Data"
+ },
+ {
+  "name": "App-connectivity",
+  "slug": "app-connectivity",
+  "category": "Data"
+ },
+ {
+  "name": "Archive",
+  "slug": "archive",
+  "category": "Data"
+ },
+ {
+  "name": "Blockchain",
+  "slug": "blockchain",
+  "category": "Data"
+ },
+ {
+  "name": "Boolean",
+  "slug": "boolean",
+  "category": "Data"
+ },
+ {
+  "name": "Boot-volume",
+  "slug": "boot-volume",
+  "category": "Data"
+ },
+ {
+  "name": "Boot-volume--alt",
+  "slug": "boot-volume--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Box-plot",
+  "slug": "box-plot",
+  "category": "Data"
+ },
+ {
+  "name": "Calculation",
+  "slug": "calculation",
+  "category": "Data"
+ },
+ {
+  "name": "Calculation--alt",
+  "slug": "calculation--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Calendar--heat-map",
+  "slug": "calendar--heat-map",
+  "category": "Data"
+ },
+ {
+  "name": "Character-patterns",
+  "slug": "character-patterns",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--3d",
+  "slug": "chart--3d",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--area",
+  "slug": "chart--area",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--area-smooth",
+  "slug": "chart--area-smooth",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--area-stepper",
+  "slug": "chart--area-stepper",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--average",
+  "slug": "chart--average",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--bar",
+  "slug": "chart--bar",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--bar-floating",
+  "slug": "chart--bar-floating",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--bar-overlay",
+  "slug": "chart--bar-overlay",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--bar-stacked",
+  "slug": "chart--bar-stacked",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--bar-target",
+  "slug": "chart--bar-target",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--bubble",
+  "slug": "chart--bubble",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--bubble-packed",
+  "slug": "chart--bubble-packed",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--bullet",
+  "slug": "chart--bullet",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--candlestick",
+  "slug": "chart--candlestick",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--cluster-bar",
+  "slug": "chart--cluster-bar",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--column",
+  "slug": "chart--column",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--column-floating",
+  "slug": "chart--column-floating",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--column-target",
+  "slug": "chart--column-target",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--combo",
+  "slug": "chart--combo",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--combo-stacked",
+  "slug": "chart--combo-stacked",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--custom",
+  "slug": "chart--custom",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--dual-y-axis",
+  "slug": "chart--dual-y-axis",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--error-bar",
+  "slug": "chart--error-bar",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--error-bar--alt",
+  "slug": "chart--error-bar--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--evaluation",
+  "slug": "chart--evaluation",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--high-low",
+  "slug": "chart--high-low",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--histogram",
+  "slug": "chart--histogram",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--line",
+  "slug": "chart--line",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--line--data",
+  "slug": "chart--line--data",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--line-smooth",
+  "slug": "chart--line-smooth",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--logistic-regression",
+  "slug": "chart--logistic-regression",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--marimekko",
+  "slug": "chart--marimekko",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--maximum",
+  "slug": "chart--maximum",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--median",
+  "slug": "chart--median",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--minimum",
+  "slug": "chart--minimum",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--multi-line",
+  "slug": "chart--multi-line",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--multitype",
+  "slug": "chart--multitype",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--network",
+  "slug": "chart--network",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--parallel",
+  "slug": "chart--parallel",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--pie",
+  "slug": "chart--pie",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--planning-waterfall",
+  "slug": "chart--planning-waterfall",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--point",
+  "slug": "chart--point",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--population",
+  "slug": "chart--population",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--radar",
+  "slug": "chart--radar",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--radial",
+  "slug": "chart--radial",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--relationship",
+  "slug": "chart--relationship",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--ring",
+  "slug": "chart--ring",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--river",
+  "slug": "chart--river",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--rose",
+  "slug": "chart--rose",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--scatter",
+  "slug": "chart--scatter",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--spiral",
+  "slug": "chart--spiral",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--stacked",
+  "slug": "chart--stacked",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--stepper",
+  "slug": "chart--stepper",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--sunburst",
+  "slug": "chart--sunburst",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--t-sne",
+  "slug": "chart--t-sne",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--treemap",
+  "slug": "chart--treemap",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--venn-diagram",
+  "slug": "chart--venn-diagram",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--violin-plot",
+  "slug": "chart--violin-plot",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--waterfall",
+  "slug": "chart--waterfall",
+  "category": "Data"
+ },
+ {
+  "name": "Chart--win-loss",
+  "slug": "chart--win-loss",
+  "category": "Data"
+ },
+ {
+  "name": "Choropleth-map",
+  "slug": "choropleth-map",
+  "category": "Data"
+ },
+ {
+  "name": "Circle--filled",
+  "slug": "circle--filled",
+  "category": "Data"
+ },
+ {
+  "name": "Circle-packing",
+  "slug": "circle-packing",
+  "category": "Data"
+ },
+ {
+  "name": "Classifier--language",
+  "slug": "classifier--language",
+  "category": "Data"
+ },
+ {
+  "name": "Column-dependency",
+  "slug": "column-dependency",
+  "category": "Data"
+ },
+ {
+  "name": "Concept",
+  "slug": "concept",
+  "category": "Data"
+ },
+ {
+  "name": "Container-software",
+  "slug": "container-software",
+  "category": "Data"
+ },
+ {
+  "name": "Cost",
+  "slug": "cost",
+  "category": "Data"
+ },
+ {
+  "name": "Cost--total",
+  "slug": "cost--total",
+  "category": "Data"
+ },
+ {
+  "name": "Covariate",
+  "slug": "covariate",
+  "category": "Data"
+ },
+ {
+  "name": "Cross-tab",
+  "slug": "cross-tab",
+  "category": "Data"
+ },
+ {
+  "name": "Data--1",
+  "slug": "data--1",
+  "category": "Data"
+ },
+ {
+  "name": "Data--2",
+  "slug": "data--2",
+  "category": "Data"
+ },
+ {
+  "name": "Data--base",
+  "slug": "data--base",
+  "category": "Data"
+ },
+ {
+  "name": "Data--base--alt",
+  "slug": "data--base--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Data--categorical",
+  "slug": "data--categorical",
+  "category": "Data"
+ },
+ {
+  "name": "Data--check",
+  "slug": "data--check",
+  "category": "Data"
+ },
+ {
+  "name": "Data--connected",
+  "slug": "data--connected",
+  "category": "Data"
+ },
+ {
+  "name": "Data--error",
+  "slug": "data--error",
+  "category": "Data"
+ },
+ {
+  "name": "Data--format",
+  "slug": "data--format",
+  "category": "Data"
+ },
+ {
+  "name": "Data--reference",
+  "slug": "data--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Data--regular",
+  "slug": "data--regular",
+  "category": "Data"
+ },
+ {
+  "name": "Data--set",
+  "slug": "data--set",
+  "category": "Data"
+ },
+ {
+  "name": "Data--structured",
+  "slug": "data--structured",
+  "category": "Data"
+ },
+ {
+  "name": "Data--unreal",
+  "slug": "data--unreal",
+  "category": "Data"
+ },
+ {
+  "name": "Data--unstructured",
+  "slug": "data--unstructured",
+  "category": "Data"
+ },
+ {
+  "name": "Data--view",
+  "slug": "data--view",
+  "category": "Data"
+ },
+ {
+  "name": "Data--view--alt",
+  "slug": "data--view--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Data-analytics",
+  "slug": "data-analytics",
+  "category": "Data"
+ },
+ {
+  "name": "Data-bin",
+  "slug": "data-bin",
+  "category": "Data"
+ },
+ {
+  "name": "Data-class",
+  "slug": "data-class",
+  "category": "Data"
+ },
+ {
+  "name": "Data-collection",
+  "slug": "data-collection",
+  "category": "Data"
+ },
+ {
+  "name": "Data-definition",
+  "slug": "data-definition",
+  "category": "Data"
+ },
+ {
+  "name": "Data-enrichment",
+  "slug": "data-enrichment",
+  "category": "Data"
+ },
+ {
+  "name": "Data-enrichment--add",
+  "slug": "data-enrichment--add",
+  "category": "Data"
+ },
+ {
+  "name": "Data-player",
+  "slug": "data-player",
+  "category": "Data"
+ },
+ {
+  "name": "Data-quality-definition",
+  "slug": "data-quality-definition",
+  "category": "Data"
+ },
+ {
+  "name": "Data-refinery",
+  "slug": "data-refinery",
+  "category": "Data"
+ },
+ {
+  "name": "Data-refinery--reference",
+  "slug": "data-refinery--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Data-share",
+  "slug": "data-share",
+  "category": "Data"
+ },
+ {
+  "name": "Data-table",
+  "slug": "data-table",
+  "category": "Data"
+ },
+ {
+  "name": "Data-table--reference",
+  "slug": "data-table--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Data-vis--1",
+  "slug": "data-vis--1",
+  "category": "Data"
+ },
+ {
+  "name": "Data-vis--2",
+  "slug": "data-vis--2",
+  "category": "Data"
+ },
+ {
+  "name": "Data-vis--3",
+  "slug": "data-vis--3",
+  "category": "Data"
+ },
+ {
+  "name": "Data-vis--4",
+  "slug": "data-vis--4",
+  "category": "Data"
+ },
+ {
+  "name": "Data-volume",
+  "slug": "data-volume",
+  "category": "Data"
+ },
+ {
+  "name": "Data-volume--alt",
+  "slug": "data-volume--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Database--messaging",
+  "slug": "database--messaging",
+  "category": "Data"
+ },
+ {
+  "name": "Datastore",
+  "slug": "datastore",
+  "category": "Data"
+ },
+ {
+  "name": "Decision-tree",
+  "slug": "decision-tree",
+  "category": "Data"
+ },
+ {
+  "name": "Diagram",
+  "slug": "diagram",
+  "category": "Data"
+ },
+ {
+  "name": "Diagram--reference",
+  "slug": "diagram--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Document-sentiment",
+  "slug": "document-sentiment",
+  "category": "Data"
+ },
+ {
+  "name": "Double-integer",
+  "slug": "double-integer",
+  "category": "Data"
+ },
+ {
+  "name": "Downstream",
+  "slug": "downstream",
+  "category": "Data"
+ },
+ {
+  "name": "Driver-analysis",
+  "slug": "driver-analysis",
+  "category": "Data"
+ },
+ {
+  "name": "Factor",
+  "slug": "factor",
+  "category": "Data"
+ },
+ {
+  "name": "Flow",
+  "slug": "flow",
+  "category": "Data"
+ },
+ {
+  "name": "Flow--connection",
+  "slug": "flow--connection",
+  "category": "Data"
+ },
+ {
+  "name": "Flow--data",
+  "slug": "flow--data",
+  "category": "Data"
+ },
+ {
+  "name": "Flow--modeler",
+  "slug": "flow--modeler",
+  "category": "Data"
+ },
+ {
+  "name": "Flow--stream",
+  "slug": "flow--stream",
+  "category": "Data"
+ },
+ {
+  "name": "Flow--stream--reference",
+  "slug": "flow--stream--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Global-loan-and-trial",
+  "slug": "global-loan-and-trial",
+  "category": "Data"
+ },
+ {
+  "name": "Graphical-data-flow",
+  "slug": "graphical-data-flow",
+  "category": "Data"
+ },
+ {
+  "name": "Growth",
+  "slug": "growth",
+  "category": "Data"
+ },
+ {
+  "name": "Hashtag",
+  "slug": "hashtag",
+  "category": "Data"
+ },
+ {
+  "name": "Heat-map",
+  "slug": "heat-map",
+  "category": "Data"
+ },
+ {
+  "name": "Heat-map--02",
+  "slug": "heat-map--02",
+  "category": "Data"
+ },
+ {
+  "name": "Heat-map--03",
+  "slug": "heat-map--03",
+  "category": "Data"
+ },
+ {
+  "name": "Heat-map--stocks",
+  "slug": "heat-map--stocks",
+  "category": "Data"
+ },
+ {
+  "name": "Hybrid-networking",
+  "slug": "hybrid-networking",
+  "category": "Data"
+ },
+ {
+  "name": "Improve-relevance",
+  "slug": "improve-relevance",
+  "category": "Data"
+ },
+ {
+  "name": "Increase-level",
+  "slug": "increase-level",
+  "category": "Data"
+ },
+ {
+  "name": "Interactions",
+  "slug": "interactions",
+  "category": "Data"
+ },
+ {
+  "name": "Join--full",
+  "slug": "join--full",
+  "category": "Data"
+ },
+ {
+  "name": "Join--inner",
+  "slug": "join--inner",
+  "category": "Data"
+ },
+ {
+  "name": "Join--left",
+  "slug": "join--left",
+  "category": "Data"
+ },
+ {
+  "name": "Join--outer",
+  "slug": "join--outer",
+  "category": "Data"
+ },
+ {
+  "name": "Join--right",
+  "slug": "join--right",
+  "category": "Data"
+ },
+ {
+  "name": "Kubernetes--ip-address",
+  "slug": "kubernetes--ip-address",
+  "category": "Data"
+ },
+ {
+  "name": "Kubernetes--pod",
+  "slug": "kubernetes--pod",
+  "category": "Data"
+ },
+ {
+  "name": "Linux",
+  "slug": "linux",
+  "category": "Data"
+ },
+ {
+  "name": "Linux--alt",
+  "slug": "linux--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Managed-solutions",
+  "slug": "managed-solutions",
+  "category": "Data"
+ },
+ {
+  "name": "Math-curve",
+  "slug": "math-curve",
+  "category": "Data"
+ },
+ {
+  "name": "Model-builder",
+  "slug": "model-builder",
+  "category": "Data"
+ },
+ {
+  "name": "Model-builder--reference",
+  "slug": "model-builder--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Name-space",
+  "slug": "name-space",
+  "category": "Data"
+ },
+ {
+  "name": "Network--1",
+  "slug": "network--1",
+  "category": "Data"
+ },
+ {
+  "name": "Network--2",
+  "slug": "network--2",
+  "category": "Data"
+ },
+ {
+  "name": "Network--3",
+  "slug": "network--3",
+  "category": "Data"
+ },
+ {
+  "name": "Network--3--reference",
+  "slug": "network--3--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Network--4",
+  "slug": "network--4",
+  "category": "Data"
+ },
+ {
+  "name": "Network--4--reference",
+  "slug": "network--4--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Nominal",
+  "slug": "nominal",
+  "category": "Data"
+ },
+ {
+  "name": "Object-storage",
+  "slug": "object-storage",
+  "category": "Data"
+ },
+ {
+  "name": "Ordinal",
+  "slug": "ordinal",
+  "category": "Data"
+ },
+ {
+  "name": "Parameter",
+  "slug": "parameter",
+  "category": "Data"
+ },
+ {
+  "name": "Parent-child",
+  "slug": "parent-child",
+  "category": "Data"
+ },
+ {
+  "name": "Partition--auto",
+  "slug": "partition--auto",
+  "category": "Data"
+ },
+ {
+  "name": "Partition--collection",
+  "slug": "partition--collection",
+  "category": "Data"
+ },
+ {
+  "name": "Partition--repartition",
+  "slug": "partition--repartition",
+  "category": "Data"
+ },
+ {
+  "name": "Partition--same",
+  "slug": "partition--same",
+  "category": "Data"
+ },
+ {
+  "name": "Partition--specific",
+  "slug": "partition--specific",
+  "category": "Data"
+ },
+ {
+  "name": "Phrase-sentiment",
+  "slug": "phrase-sentiment",
+  "category": "Data"
+ },
+ {
+  "name": "Presentation-file",
+  "slug": "presentation-file",
+  "category": "Data"
+ },
+ {
+  "name": "Progress-bar",
+  "slug": "progress-bar",
+  "category": "Data"
+ },
+ {
+  "name": "Progress-bar--round",
+  "slug": "progress-bar--round",
+  "category": "Data"
+ },
+ {
+  "name": "Qq-plot",
+  "slug": "qq-plot",
+  "category": "Data"
+ },
+ {
+  "name": "Quadrant-plot",
+  "slug": "quadrant-plot",
+  "category": "Data"
+ },
+ {
+  "name": "Query-queue",
+  "slug": "query-queue",
+  "category": "Data"
+ },
+ {
+  "name": "Report",
+  "slug": "report",
+  "category": "Data"
+ },
+ {
+  "name": "Report--data",
+  "slug": "report--data",
+  "category": "Data"
+ },
+ {
+  "name": "Row--collapse",
+  "slug": "row--collapse",
+  "category": "Data"
+ },
+ {
+  "name": "Row--expand",
+  "slug": "row--expand",
+  "category": "Data"
+ },
+ {
+  "name": "Sankey-diagram",
+  "slug": "sankey-diagram",
+  "category": "Data"
+ },
+ {
+  "name": "Sankey-diagram--alt",
+  "slug": "sankey-diagram--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Scatter-matrix",
+  "slug": "scatter-matrix",
+  "category": "Data"
+ },
+ {
+  "name": "Schematics",
+  "slug": "schematics",
+  "category": "Data"
+ },
+ {
+  "name": "Service-levels",
+  "slug": "service-levels",
+  "category": "Data"
+ },
+ {
+  "name": "Share-knowledge",
+  "slug": "share-knowledge",
+  "category": "Data"
+ },
+ {
+  "name": "Show-data--cards",
+  "slug": "show-data--cards",
+  "category": "Data"
+ },
+ {
+  "name": "Skill-level",
+  "slug": "skill-level",
+  "category": "Data"
+ },
+ {
+  "name": "Skill-level--advanced",
+  "slug": "skill-level--advanced",
+  "category": "Data"
+ },
+ {
+  "name": "Skill-level--basic",
+  "slug": "skill-level--basic",
+  "category": "Data"
+ },
+ {
+  "name": "Skill-level--intermediate",
+  "slug": "skill-level--intermediate",
+  "category": "Data"
+ },
+ {
+  "name": "Stem-leaf-plot",
+  "slug": "stem-leaf-plot",
+  "category": "Data"
+ },
+ {
+  "name": "Storage-pool",
+  "slug": "storage-pool",
+  "category": "Data"
+ },
+ {
+  "name": "Storage-request",
+  "slug": "storage-request",
+  "category": "Data"
+ },
+ {
+  "name": "Subflow",
+  "slug": "subflow",
+  "category": "Data"
+ },
+ {
+  "name": "Subflow--local",
+  "slug": "subflow--local",
+  "category": "Data"
+ },
+ {
+  "name": "Summary--KPI--mirror",
+  "slug": "summary--kpi--mirror",
+  "category": "Data"
+ },
+ {
+  "name": "Summary--kpi",
+  "slug": "summary--kpi",
+  "category": "Data"
+ },
+ {
+  "name": "Support-vector-machine",
+  "slug": "support-vector-machine",
+  "category": "Data"
+ },
+ {
+  "name": "Sys-provision",
+  "slug": "sys-provision",
+  "category": "Data"
+ },
+ {
+  "name": "Table",
+  "slug": "table",
+  "category": "Data"
+ },
+ {
+  "name": "Table--alias",
+  "slug": "table--alias",
+  "category": "Data"
+ },
+ {
+  "name": "Table--built",
+  "slug": "table--built",
+  "category": "Data"
+ },
+ {
+  "name": "Table--shortcut",
+  "slug": "table--shortcut",
+  "category": "Data"
+ },
+ {
+  "name": "Table--split",
+  "slug": "table--split",
+  "category": "Data"
+ },
+ {
+  "name": "Term",
+  "slug": "term",
+  "category": "Data"
+ },
+ {
+  "name": "Term--reference",
+  "slug": "term--reference",
+  "category": "Data"
+ },
+ {
+  "name": "Text-link",
+  "slug": "text-link",
+  "category": "Data"
+ },
+ {
+  "name": "Text-link--analysis",
+  "slug": "text-link--analysis",
+  "category": "Data"
+ },
+ {
+  "name": "Text-mining",
+  "slug": "text-mining",
+  "category": "Data"
+ },
+ {
+  "name": "Text-mining--applier",
+  "slug": "text-mining--applier",
+  "category": "Data"
+ },
+ {
+  "name": "Time-plot",
+  "slug": "time-plot",
+  "category": "Data"
+ },
+ {
+  "name": "Transform--binary",
+  "slug": "transform--binary",
+  "category": "Data"
+ },
+ {
+  "name": "Transform--code",
+  "slug": "transform--code",
+  "category": "Data"
+ },
+ {
+  "name": "Transform--instructions",
+  "slug": "transform--instructions",
+  "category": "Data"
+ },
+ {
+  "name": "Transform--language",
+  "slug": "transform--language",
+  "category": "Data"
+ },
+ {
+  "name": "Tree-view",
+  "slug": "tree-view",
+  "category": "Data"
+ },
+ {
+  "name": "Tree-view--alt",
+  "slug": "tree-view--alt",
+  "category": "Data"
+ },
+ {
+  "name": "Type-pattern",
+  "slug": "type-pattern",
+  "category": "Data"
+ },
+ {
+  "name": "Types",
+  "slug": "types",
+  "category": "Data"
+ },
+ {
+  "name": "Upstream",
+  "slug": "upstream",
+  "category": "Data"
+ },
+ {
+  "name": "Value--variable",
+  "slug": "value--variable",
+  "category": "Data"
+ },
+ {
+  "name": "Virtual-column",
+  "slug": "virtual-column",
+  "category": "Data"
+ },
+ {
+  "name": "Virtual-column--key",
+  "slug": "virtual-column--key",
+  "category": "Data"
+ },
+ {
+  "name": "Virtual-machine",
+  "slug": "virtual-machine",
+  "category": "Data"
+ },
+ {
+  "name": "Virtual-private-cloud",
+  "slug": "virtual-private-cloud",
+  "category": "Data"
+ },
+ {
+  "name": "Visual-recognition",
+  "slug": "visual-recognition",
+  "category": "Data"
+ },
+ {
+  "name": "Vmdk-disk",
+  "slug": "vmdk-disk",
+  "category": "Data"
+ },
+ {
+  "name": "Word-cloud",
+  "slug": "word-cloud",
+  "category": "Data"
+ },
+ {
+  "name": "Bitbucket",
+  "slug": "bitbucket",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--angular",
+  "slug": "logo--angular",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--ansible-community",
+  "slug": "logo--ansible-community",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--figma",
+  "slug": "logo--figma",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--gitlab",
+  "slug": "logo--gitlab",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--invision",
+  "slug": "logo--invision",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--jupyter",
+  "slug": "logo--jupyter",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--keybase",
+  "slug": "logo--keybase",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--kubernetes",
+  "slug": "logo--kubernetes",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--npm",
+  "slug": "logo--npm",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--openshift",
+  "slug": "logo--openshift",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--python",
+  "slug": "logo--python",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--r-script",
+  "slug": "logo--r-script",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--react",
+  "slug": "logo--react",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--red-hat-ansible",
+  "slug": "logo--red-hat-ansible",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--sketch",
+  "slug": "logo--sketch",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--svelte",
+  "slug": "logo--svelte",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--vmware",
+  "slug": "logo--vmware",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--vmware--alt",
+  "slug": "logo--vmware--alt",
+  "category": "Design and development"
+ },
+ {
+  "name": "Logo--vue",
+  "slug": "logo--vue",
+  "category": "Design and development"
+ },
+ {
+  "name": "apple-logo",
+  "slug": "apple-logo",
+  "category": "Design and development"
+ },
+ {
+  "name": "discord",
+  "slug": "discord",
+  "category": "Design and development"
+ },
+ {
+  "name": "gemini",
+  "slug": "gemini",
+  "category": "Design and development"
+ },
+ {
+  "name": "github-fill",
+  "slug": "github-fill",
+  "category": "Design and development"
+ },
+ {
+  "name": "google",
+  "slug": "google",
+  "category": "Design and development"
+ },
+ {
+  "name": "linkedin",
+  "slug": "linkedin",
+  "category": "Design and development"
+ },
+ {
+  "name": "twitter-x",
+  "slug": "twitter-x",
+  "category": "Design and development"
+ },
+ {
+  "name": "4k",
+  "slug": "4k",
+  "category": "File"
+ },
+ {
+  "name": "4k--filled",
+  "slug": "4k--filled",
+  "category": "File"
+ },
+ {
+  "name": "Api",
+  "slug": "api",
+  "category": "File"
+ },
+ {
+  "name": "Api--1",
+  "slug": "api--1",
+  "category": "File"
+ },
+ {
+  "name": "Api--key",
+  "slug": "api--key",
+  "category": "File"
+ },
+ {
+  "name": "App",
+  "slug": "app",
+  "category": "File"
+ },
+ {
+  "name": "Application",
+  "slug": "application",
+  "category": "File"
+ },
+ {
+  "name": "Badge",
+  "slug": "badge",
+  "category": "File"
+ },
+ {
+  "name": "Book",
+  "slug": "book",
+  "category": "File"
+ },
+ {
+  "name": "Cad",
+  "slug": "cad",
+  "category": "File"
+ },
+ {
+  "name": "Catalog",
+  "slug": "catalog",
+  "category": "File"
+ },
+ {
+  "name": "Categories",
+  "slug": "categories",
+  "category": "File"
+ },
+ {
+  "name": "Category",
+  "slug": "category",
+  "category": "File"
+ },
+ {
+  "name": "Category--add",
+  "slug": "category--add",
+  "category": "File"
+ },
+ {
+  "name": "Category--and",
+  "slug": "category--and",
+  "category": "File"
+ },
+ {
+  "name": "Category--new",
+  "slug": "category--new",
+  "category": "File"
+ },
+ {
+  "name": "Category--new-each",
+  "slug": "category--new-each",
+  "category": "File"
+ },
+ {
+  "name": "Cda",
+  "slug": "cda",
+  "category": "File"
+ },
+ {
+  "name": "Certificate",
+  "slug": "certificate",
+  "category": "File"
+ },
+ {
+  "name": "Certificate--check",
+  "slug": "certificate--check",
+  "category": "File"
+ },
+ {
+  "name": "Classification",
+  "slug": "classification",
+  "category": "File"
+ },
+ {
+  "name": "Closed-caption",
+  "slug": "closed-caption",
+  "category": "File"
+ },
+ {
+  "name": "Closed-caption--alt",
+  "slug": "closed-caption--alt",
+  "category": "File"
+ },
+ {
+  "name": "Closed-caption--filled",
+  "slug": "closed-caption--filled",
+  "category": "File"
+ },
+ {
+  "name": "Cloud-foundry--2",
+  "slug": "cloud-foundry--2",
+  "category": "File"
+ },
+ {
+  "name": "Content-view",
+  "slug": "content-view",
+  "category": "File"
+ },
+ {
+  "name": "Copy",
+  "slug": "copy",
+  "category": "File"
+ },
+ {
+  "name": "Copy--file",
+  "slug": "copy--file",
+  "category": "File"
+ },
+ {
+  "name": "Copy--link",
+  "slug": "copy--link",
+  "category": "File"
+ },
+ {
+  "name": "Course",
+  "slug": "course",
+  "category": "File"
+ },
+ {
+  "name": "Csv",
+  "slug": "csv",
+  "category": "File"
+ },
+ {
+  "name": "Cube",
+  "slug": "cube",
+  "category": "File"
+ },
+ {
+  "name": "Cube-view",
+  "slug": "cube-view",
+  "category": "File"
+ },
+ {
+  "name": "Doc",
+  "slug": "doc",
+  "category": "File"
+ },
+ {
+  "name": "Document",
+  "slug": "document",
+  "category": "File"
+ },
+ {
+  "name": "Document--add",
+  "slug": "document--add",
+  "category": "File"
+ },
+ {
+  "name": "Document--attachment",
+  "slug": "document--attachment",
+  "category": "File"
+ },
+ {
+  "name": "Document--audio",
+  "slug": "document--audio",
+  "category": "File"
+ },
+ {
+  "name": "Document--blank",
+  "slug": "document--blank",
+  "category": "File"
+ },
+ {
+  "name": "Document--comment",
+  "slug": "document--comment",
+  "category": "File"
+ },
+ {
+  "name": "Document--configuration",
+  "slug": "document--configuration",
+  "category": "File"
+ },
+ {
+  "name": "Document--download",
+  "slug": "document--download",
+  "category": "File"
+ },
+ {
+  "name": "Document--epdf",
+  "slug": "document--epdf",
+  "category": "File"
+ },
+ {
+  "name": "Document--export",
+  "slug": "document--export",
+  "category": "File"
+ },
+ {
+  "name": "Document--import",
+  "slug": "document--import",
+  "category": "File"
+ },
+ {
+  "name": "Document--multiple-01",
+  "slug": "document--multiple-01",
+  "category": "File"
+ },
+ {
+  "name": "Document--multiple-02",
+  "slug": "document--multiple-02",
+  "category": "File"
+ },
+ {
+  "name": "Document--pdf",
+  "slug": "document--pdf",
+  "category": "File"
+ },
+ {
+  "name": "Document--preliminary",
+  "slug": "document--preliminary",
+  "category": "File"
+ },
+ {
+  "name": "Document--protected",
+  "slug": "document--protected",
+  "category": "File"
+ },
+ {
+  "name": "Document--requirements",
+  "slug": "document--requirements",
+  "category": "File"
+ },
+ {
+  "name": "Document--security",
+  "slug": "document--security",
+  "category": "File"
+ },
+ {
+  "name": "Document--signed",
+  "slug": "document--signed",
+  "category": "File"
+ },
+ {
+  "name": "Document--sketch",
+  "slug": "document--sketch",
+  "category": "File"
+ },
+ {
+  "name": "Document--subject",
+  "slug": "document--subject",
+  "category": "File"
+ },
+ {
+  "name": "Document--subtract",
+  "slug": "document--subtract",
+  "category": "File"
+ },
+ {
+  "name": "Document--tasks",
+  "slug": "document--tasks",
+  "category": "File"
+ },
+ {
+  "name": "Document--unknown",
+  "slug": "document--unknown",
+  "category": "File"
+ },
+ {
+  "name": "Document--unprotected",
+  "slug": "document--unprotected",
+  "category": "File"
+ },
+ {
+  "name": "Document--video",
+  "slug": "document--video",
+  "category": "File"
+ },
+ {
+  "name": "Document--view",
+  "slug": "document--view",
+  "category": "File"
+ },
+ {
+  "name": "Document--word-processor",
+  "slug": "document--word-processor",
+  "category": "File"
+ },
+ {
+  "name": "Document--word-processor--reference",
+  "slug": "document--word-processor--reference",
+  "category": "File"
+ },
+ {
+  "name": "Download",
+  "slug": "download",
+  "category": "File"
+ },
+ {
+  "name": "Dvr",
+  "slug": "dvr",
+  "category": "File"
+ },
+ {
+  "name": "Export",
+  "slug": "export",
+  "category": "File"
+ },
+ {
+  "name": "Floorplan",
+  "slug": "floorplan",
+  "category": "File"
+ },
+ {
+  "name": "Folder",
+  "slug": "folder",
+  "category": "File"
+ },
+ {
+  "name": "Folder--add",
+  "slug": "folder--add",
+  "category": "File"
+ },
+ {
+  "name": "Folder--details",
+  "slug": "folder--details",
+  "category": "File"
+ },
+ {
+  "name": "Folder--details--reference",
+  "slug": "folder--details--reference",
+  "category": "File"
+ },
+ {
+  "name": "Folder--move-to",
+  "slug": "folder--move-to",
+  "category": "File"
+ },
+ {
+  "name": "Folder--off",
+  "slug": "folder--off",
+  "category": "File"
+ },
+ {
+  "name": "Folder--open",
+  "slug": "folder--open",
+  "category": "File"
+ },
+ {
+  "name": "Folder--parent",
+  "slug": "folder--parent",
+  "category": "File"
+ },
+ {
+  "name": "Folder--shared",
+  "slug": "folder--shared",
+  "category": "File"
+ },
+ {
+  "name": "Folders",
+  "slug": "folders",
+  "category": "File"
+ },
+ {
+  "name": "Gamification",
+  "slug": "gamification",
+  "category": "File"
+ },
+ {
+  "name": "Gem",
+  "slug": "gem",
+  "category": "File"
+ },
+ {
+  "name": "Gem--reference",
+  "slug": "gem--reference",
+  "category": "File"
+ },
+ {
+  "name": "Generate-pdf",
+  "slug": "generate-pdf",
+  "category": "File"
+ },
+ {
+  "name": "Gif",
+  "slug": "gif",
+  "category": "File"
+ },
+ {
+  "name": "Hd",
+  "slug": "hd",
+  "category": "File"
+ },
+ {
+  "name": "Hd--filled",
+  "slug": "hd--filled",
+  "category": "File"
+ },
+ {
+  "name": "Hdr",
+  "slug": "hdr",
+  "category": "File"
+ },
+ {
+  "name": "Html",
+  "slug": "html",
+  "category": "File"
+ },
+ {
+  "name": "Html--reference",
+  "slug": "html--reference",
+  "category": "File"
+ },
+ {
+  "name": "Http",
+  "slug": "http",
+  "category": "File"
+ },
+ {
+  "name": "IP",
+  "slug": "ip",
+  "category": "File"
+ },
+ {
+  "name": "Import-export",
+  "slug": "import-export",
+  "category": "File"
+ },
+ {
+  "name": "Iso",
+  "slug": "iso",
+  "category": "File"
+ },
+ {
+  "name": "Iso--filled",
+  "slug": "iso--filled",
+  "category": "File"
+ },
+ {
+  "name": "Iso--outline",
+  "slug": "iso--outline",
+  "category": "File"
+ },
+ {
+  "name": "Jpg",
+  "slug": "jpg",
+  "category": "File"
+ },
+ {
+  "name": "Json",
+  "slug": "json",
+  "category": "File"
+ },
+ {
+  "name": "Json--reference",
+  "slug": "json--reference",
+  "category": "File"
+ },
+ {
+  "name": "KEY",
+  "slug": "key",
+  "category": "File"
+ },
+ {
+  "name": "Legend",
+  "slug": "legend",
+  "category": "File"
+ },
+ {
+  "name": "License",
+  "slug": "license",
+  "category": "File"
+ },
+ {
+  "name": "License--draft",
+  "slug": "license--draft",
+  "category": "File"
+ },
+ {
+  "name": "License--global",
+  "slug": "license--global",
+  "category": "File"
+ },
+ {
+  "name": "License--maintenance",
+  "slug": "license--maintenance",
+  "category": "File"
+ },
+ {
+  "name": "License--maintenance-draft",
+  "slug": "license--maintenance-draft",
+  "category": "File"
+ },
+ {
+  "name": "License--third-party",
+  "slug": "license--third-party",
+  "category": "File"
+ },
+ {
+  "name": "License--third-party-draft",
+  "slug": "license--third-party-draft",
+  "category": "File"
+ },
+ {
+  "name": "List--dropdown",
+  "slug": "list--dropdown",
+  "category": "File"
+ },
+ {
+  "name": "MAC",
+  "slug": "mac",
+  "category": "File"
+ },
+ {
+  "name": "Media--library",
+  "slug": "media--library",
+  "category": "File"
+ },
+ {
+  "name": "Media--library--filled",
+  "slug": "media--library--filled",
+  "category": "File"
+ },
+ {
+  "name": "Model--alt",
+  "slug": "model--alt",
+  "category": "File"
+ },
+ {
+  "name": "Model--tuned",
+  "slug": "model--tuned",
+  "category": "File"
+ },
+ {
+  "name": "Mov",
+  "slug": "mov",
+  "category": "File"
+ },
+ {
+  "name": "Mp3",
+  "slug": "mp3",
+  "category": "File"
+ },
+ {
+  "name": "Mp4",
+  "slug": "mp4",
+  "category": "File"
+ },
+ {
+  "name": "Mpeg",
+  "slug": "mpeg",
+  "category": "File"
+ },
+ {
+  "name": "Mpg2",
+  "slug": "mpg2",
+  "category": "File"
+ },
+ {
+  "name": "Music",
+  "slug": "music",
+  "category": "File"
+ },
+ {
+  "name": "Music--add",
+  "slug": "music--add",
+  "category": "File"
+ },
+ {
+  "name": "Music--remove",
+  "slug": "music--remove",
+  "category": "File"
+ },
+ {
+  "name": "No-ticket",
+  "slug": "no-ticket",
+  "category": "File"
+ },
+ {
+  "name": "Non-certified",
+  "slug": "non-certified",
+  "category": "File"
+ },
+ {
+  "name": "Notebook",
+  "slug": "notebook",
+  "category": "File"
+ },
+ {
+  "name": "Notebook--reference",
+  "slug": "notebook--reference",
+  "category": "File"
+ },
+ {
+  "name": "Order-details",
+  "slug": "order-details",
+  "category": "File"
+ },
+ {
+  "name": "Package--text-analysis",
+  "slug": "package--text-analysis",
+  "category": "File"
+ },
+ {
+  "name": "Panel-expansion",
+  "slug": "panel-expansion",
+  "category": "File"
+ },
+ {
+  "name": "Paste",
+  "slug": "paste",
+  "category": "File"
+ },
+ {
+  "name": "Pdf",
+  "slug": "pdf",
+  "category": "File"
+ },
+ {
+  "name": "Pdf--reference",
+  "slug": "pdf--reference",
+  "category": "File"
+ },
+ {
+  "name": "Plan",
+  "slug": "plan",
+  "category": "File"
+ },
+ {
+  "name": "Playlist",
+  "slug": "playlist",
+  "category": "File"
+ },
+ {
+  "name": "Png",
+  "slug": "png",
+  "category": "File"
+ },
+ {
+  "name": "Policy",
+  "slug": "policy",
+  "category": "File"
+ },
+ {
+  "name": "Popup",
+  "slug": "popup",
+  "category": "File"
+ },
+ {
+  "name": "Ppt",
+  "slug": "ppt",
+  "category": "File"
+ },
+ {
+  "name": "Product",
+  "slug": "product",
+  "category": "File"
+ },
+ {
+  "name": "Raw",
+  "slug": "raw",
+  "category": "File"
+ },
+ {
+  "name": "Reference-architecture",
+  "slug": "reference-architecture",
+  "category": "File"
+ },
+ {
+  "name": "Repo--artifact",
+  "slug": "repo--artifact",
+  "category": "File"
+ },
+ {
+  "name": "Repo--source-code",
+  "slug": "repo--source-code",
+  "category": "File"
+ },
+ {
+  "name": "Result",
+  "slug": "result",
+  "category": "File"
+ },
+ {
+  "name": "Result--draft",
+  "slug": "result--draft",
+  "category": "File"
+ },
+ {
+  "name": "Result--new",
+  "slug": "result--new",
+  "category": "File"
+ },
+ {
+  "name": "Result--old",
+  "slug": "result--old",
+  "category": "File"
+ },
+ {
+  "name": "Roadmap",
+  "slug": "roadmap",
+  "category": "File"
+ },
+ {
+  "name": "Rule",
+  "slug": "rule",
+  "category": "File"
+ },
+ {
+  "name": "Rule--cancelled",
+  "slug": "rule--cancelled",
+  "category": "File"
+ },
+ {
+  "name": "Rule--data-quality",
+  "slug": "rule--data-quality",
+  "category": "File"
+ },
+ {
+  "name": "Rule--draft",
+  "slug": "rule--draft",
+  "category": "File"
+ },
+ {
+  "name": "Rule--filled",
+  "slug": "rule--filled",
+  "category": "File"
+ },
+ {
+  "name": "Rule--locked",
+  "slug": "rule--locked",
+  "category": "File"
+ },
+ {
+  "name": "Rule--partial",
+  "slug": "rule--partial",
+  "category": "File"
+ },
+ {
+  "name": "Rule--test",
+  "slug": "rule--test",
+  "category": "File"
+ },
+ {
+  "name": "SLM",
+  "slug": "slm",
+  "category": "File"
+ },
+ {
+  "name": "Scale",
+  "slug": "scale",
+  "category": "File"
+ },
+ {
+  "name": "Script",
+  "slug": "script",
+  "category": "File"
+ },
+ {
+  "name": "Script--reference",
+  "slug": "script--reference",
+  "category": "File"
+ },
+ {
+  "name": "Sdk",
+  "slug": "sdk",
+  "category": "File"
+ },
+ {
+  "name": "Security",
+  "slug": "security",
+  "category": "File"
+ },
+ {
+  "name": "Sql",
+  "slug": "sql",
+  "category": "File"
+ },
+ {
+  "name": "Star--review",
+  "slug": "star--review",
+  "category": "File"
+ },
+ {
+  "name": "Subdirectory",
+  "slug": "subdirectory",
+  "category": "File"
+ },
+ {
+  "name": "Svg",
+  "slug": "svg",
+  "category": "File"
+ },
+ {
+  "name": "Table-of-contents",
+  "slug": "table-of-contents",
+  "category": "File"
+ },
+ {
+  "name": "Task",
+  "slug": "task",
+  "category": "File"
+ },
+ {
+  "name": "Task--add",
+  "slug": "task--add",
+  "category": "File"
+ },
+ {
+  "name": "Task--approved",
+  "slug": "task--approved",
+  "category": "File"
+ },
+ {
+  "name": "Task--asset-view",
+  "slug": "task--asset-view",
+  "category": "File"
+ },
+ {
+  "name": "Task--complete",
+  "slug": "task--complete",
+  "category": "File"
+ },
+ {
+  "name": "Task--location",
+  "slug": "task--location",
+  "category": "File"
+ },
+ {
+  "name": "Task--remove",
+  "slug": "task--remove",
+  "category": "File"
+ },
+ {
+  "name": "Task--settings",
+  "slug": "task--settings",
+  "category": "File"
+ },
+ {
+  "name": "Task--star",
+  "slug": "task--star",
+  "category": "File"
+ },
+ {
+  "name": "Task--tools",
+  "slug": "task--tools",
+  "category": "File"
+ },
+ {
+  "name": "Task--view",
+  "slug": "task--view",
+  "category": "File"
+ },
+ {
+  "name": "Template",
+  "slug": "template",
+  "category": "File"
+ },
+ {
+  "name": "Ticket",
+  "slug": "ticket",
+  "category": "File"
+ },
+ {
+  "name": "Tif",
+  "slug": "tif",
+  "category": "File"
+ },
+ {
+  "name": "Tsv",
+  "slug": "tsv",
+  "category": "File"
+ },
+ {
+  "name": "Txt",
+  "slug": "txt",
+  "category": "File"
+ },
+ {
+  "name": "Txt--reference",
+  "slug": "txt--reference",
+  "category": "File"
+ },
+ {
+  "name": "URL",
+  "slug": "url",
+  "category": "File"
+ },
+ {
+  "name": "Upload",
+  "slug": "upload",
+  "category": "File"
+ },
+ {
+  "name": "Version",
+  "slug": "version",
+  "category": "File"
+ },
+ {
+  "name": "Version--major",
+  "slug": "version--major",
+  "category": "File"
+ },
+ {
+  "name": "Version--minor",
+  "slug": "version--minor",
+  "category": "File"
+ },
+ {
+  "name": "Version--patch",
+  "slug": "version--patch",
+  "category": "File"
+ },
+ {
+  "name": "Websheet",
+  "slug": "websheet",
+  "category": "File"
+ },
+ {
+  "name": "White-paper",
+  "slug": "white-paper",
+  "category": "File"
+ },
+ {
+  "name": "Wmv",
+  "slug": "wmv",
+  "category": "File"
+ },
+ {
+  "name": "Workspace",
+  "slug": "workspace",
+  "category": "File"
+ },
+ {
+  "name": "Xls",
+  "slug": "xls",
+  "category": "File"
+ },
+ {
+  "name": "Xml",
+  "slug": "xml",
+  "category": "File"
+ },
+ {
+  "name": "Zip",
+  "slug": "zip",
+  "category": "File"
+ },
+ {
+  "name": "Zip--reference",
+  "slug": "zip--reference",
+  "category": "File"
+ },
+ {
+  "name": "Align--horizontal-center",
+  "slug": "align--horizontal-center",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align--horizontal-left",
+  "slug": "align--horizontal-left",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align--horizontal-right",
+  "slug": "align--horizontal-right",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align--vertical-bottom",
+  "slug": "align--vertical-bottom",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align--vertical-center",
+  "slug": "align--vertical-center",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align--vertical-top",
+  "slug": "align--vertical-top",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--bottom-center",
+  "slug": "align-box--bottom-center",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--bottom-left",
+  "slug": "align-box--bottom-left",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--bottom-right",
+  "slug": "align-box--bottom-right",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--middle-center",
+  "slug": "align-box--middle-center",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--middle-left",
+  "slug": "align-box--middle-left",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--middle-right",
+  "slug": "align-box--middle-right",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--top-center",
+  "slug": "align-box--top-center",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--top-left",
+  "slug": "align-box--top-left",
+  "category": "Formatting"
+ },
+ {
+  "name": "Align-box--top-right",
+  "slug": "align-box--top-right",
+  "category": "Formatting"
+ },
+ {
+  "name": "Asterisk",
+  "slug": "asterisk",
+  "category": "Formatting"
+ },
+ {
+  "name": "Attachment",
+  "slug": "attachment",
+  "category": "Formatting"
+ },
+ {
+  "name": "Border--bottom",
+  "slug": "border--bottom",
+  "category": "Formatting"
+ },
+ {
+  "name": "Border--full",
+  "slug": "border--full",
+  "category": "Formatting"
+ },
+ {
+  "name": "Border--left",
+  "slug": "border--left",
+  "category": "Formatting"
+ },
+ {
+  "name": "Border--none",
+  "slug": "border--none",
+  "category": "Formatting"
+ },
+ {
+  "name": "Border--right",
+  "slug": "border--right",
+  "category": "Formatting"
+ },
+ {
+  "name": "Border--top",
+  "slug": "border--top",
+  "category": "Formatting"
+ },
+ {
+  "name": "Brightness-contrast",
+  "slug": "brightness-contrast",
+  "category": "Formatting"
+ },
+ {
+  "name": "Bring-forward",
+  "slug": "bring-forward",
+  "category": "Formatting"
+ },
+ {
+  "name": "Bring-to-front",
+  "slug": "bring-to-front",
+  "category": "Formatting"
+ },
+ {
+  "name": "Button--centered",
+  "slug": "button--centered",
+  "category": "Formatting"
+ },
+ {
+  "name": "Button--flush-left",
+  "slug": "button--flush-left",
+  "category": "Formatting"
+ },
+ {
+  "name": "Circle--outline",
+  "slug": "circle--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Circle--solid",
+  "slug": "circle--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Code-block",
+  "slug": "code-block",
+  "category": "Formatting"
+ },
+ {
+  "name": "Color-palette",
+  "slug": "color-palette",
+  "category": "Formatting"
+ },
+ {
+  "name": "Color-switch",
+  "slug": "color-switch",
+  "category": "Formatting"
+ },
+ {
+  "name": "Column--delete",
+  "slug": "column--delete",
+  "category": "Formatting"
+ },
+ {
+  "name": "Column--insert",
+  "slug": "column--insert",
+  "category": "Formatting"
+ },
+ {
+  "name": "Contrast",
+  "slug": "contrast",
+  "category": "Formatting"
+ },
+ {
+  "name": "Corner",
+  "slug": "corner",
+  "category": "Formatting"
+ },
+ {
+  "name": "Crop",
+  "slug": "crop",
+  "category": "Formatting"
+ },
+ {
+  "name": "Cut",
+  "slug": "cut",
+  "category": "Formatting"
+ },
+ {
+  "name": "Cut-out",
+  "slug": "cut-out",
+  "category": "Formatting"
+ },
+ {
+  "name": "Diamond--outline",
+  "slug": "diamond--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Diamond--solid",
+  "slug": "diamond--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Distribute--horizontal-center",
+  "slug": "distribute--horizontal-center",
+  "category": "Formatting"
+ },
+ {
+  "name": "Distribute--horizontal-left",
+  "slug": "distribute--horizontal-left",
+  "category": "Formatting"
+ },
+ {
+  "name": "Distribute--horizontal-right",
+  "slug": "distribute--horizontal-right",
+  "category": "Formatting"
+ },
+ {
+  "name": "Distribute--vertical-bottom",
+  "slug": "distribute--vertical-bottom",
+  "category": "Formatting"
+ },
+ {
+  "name": "Distribute--vertical-center",
+  "slug": "distribute--vertical-center",
+  "category": "Formatting"
+ },
+ {
+  "name": "Distribute--vertical-top",
+  "slug": "distribute--vertical-top",
+  "category": "Formatting"
+ },
+ {
+  "name": "Document--horizontal",
+  "slug": "document--horizontal",
+  "category": "Formatting"
+ },
+ {
+  "name": "Document--vertical",
+  "slug": "document--vertical",
+  "category": "Formatting"
+ },
+ {
+  "name": "Dot-mark",
+  "slug": "dot-mark",
+  "category": "Formatting"
+ },
+ {
+  "name": "Draw",
+  "slug": "draw",
+  "category": "Formatting"
+ },
+ {
+  "name": "Drop-photo",
+  "slug": "drop-photo",
+  "category": "Formatting"
+ },
+ {
+  "name": "Drop-photo--filled",
+  "slug": "drop-photo--filled",
+  "category": "Formatting"
+ },
+ {
+  "name": "Edit",
+  "slug": "edit",
+  "category": "Formatting"
+ },
+ {
+  "name": "Edit--off",
+  "slug": "edit--off",
+  "category": "Formatting"
+ },
+ {
+  "name": "Erase",
+  "slug": "erase",
+  "category": "Formatting"
+ },
+ {
+  "name": "Eyedropper",
+  "slug": "eyedropper",
+  "category": "Formatting"
+ },
+ {
+  "name": "Gradient",
+  "slug": "gradient",
+  "category": "Formatting"
+ },
+ {
+  "name": "Group-objects",
+  "slug": "group-objects",
+  "category": "Formatting"
+ },
+ {
+  "name": "Group-objects--new",
+  "slug": "group-objects--new",
+  "category": "Formatting"
+ },
+ {
+  "name": "Group-objects--save",
+  "slug": "group-objects--save",
+  "category": "Formatting"
+ },
+ {
+  "name": "Hexagon--outline",
+  "slug": "hexagon--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Hexagon--solid",
+  "slug": "hexagon--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Hexagon--vertical--outline",
+  "slug": "hexagon--vertical--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Hexagon--vertical--solid",
+  "slug": "hexagon--vertical--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Horizontal-view",
+  "slug": "horizontal-view",
+  "category": "Formatting"
+ },
+ {
+  "name": "Image",
+  "slug": "image",
+  "category": "Formatting"
+ },
+ {
+  "name": "Image--copy",
+  "slug": "image--copy",
+  "category": "Formatting"
+ },
+ {
+  "name": "Image--reference",
+  "slug": "image--reference",
+  "category": "Formatting"
+ },
+ {
+  "name": "Label",
+  "slug": "label",
+  "category": "Formatting"
+ },
+ {
+  "name": "Language",
+  "slug": "language",
+  "category": "Formatting"
+ },
+ {
+  "name": "Lasso",
+  "slug": "lasso",
+  "category": "Formatting"
+ },
+ {
+  "name": "Lasso--polygon",
+  "slug": "lasso--polygon",
+  "category": "Formatting"
+ },
+ {
+  "name": "Link",
+  "slug": "link",
+  "category": "Formatting"
+ },
+ {
+  "name": "List--boxes",
+  "slug": "list--boxes",
+  "category": "Formatting"
+ },
+ {
+  "name": "List--bulleted",
+  "slug": "list--bulleted",
+  "category": "Formatting"
+ },
+ {
+  "name": "List--checked",
+  "slug": "list--checked",
+  "category": "Formatting"
+ },
+ {
+  "name": "List--checked--mirror",
+  "slug": "list--checked--mirror",
+  "category": "Formatting"
+ },
+ {
+  "name": "List--numbered",
+  "slug": "list--numbered",
+  "category": "Formatting"
+ },
+ {
+  "name": "List--numbered--mirror",
+  "slug": "list--numbered--mirror",
+  "category": "Formatting"
+ },
+ {
+  "name": "Magic-wand",
+  "slug": "magic-wand",
+  "category": "Formatting"
+ },
+ {
+  "name": "Magic-wand--filled",
+  "slug": "magic-wand--filled",
+  "category": "Formatting"
+ },
+ {
+  "name": "No-image",
+  "slug": "no-image",
+  "category": "Formatting"
+ },
+ {
+  "name": "Opacity",
+  "slug": "opacity",
+  "category": "Formatting"
+ },
+ {
+  "name": "Page-break",
+  "slug": "page-break",
+  "category": "Formatting"
+ },
+ {
+  "name": "Page-number",
+  "slug": "page-number",
+  "category": "Formatting"
+ },
+ {
+  "name": "Paint-brush",
+  "slug": "paint-brush",
+  "category": "Formatting"
+ },
+ {
+  "name": "Paint-brush--alt",
+  "slug": "paint-brush--alt",
+  "category": "Formatting"
+ },
+ {
+  "name": "Paragraph",
+  "slug": "paragraph",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pen",
+  "slug": "pen",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pen--fountain",
+  "slug": "pen--fountain",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pentagon--down--outline",
+  "slug": "pentagon--down--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pentagon--down--solid",
+  "slug": "pentagon--down--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pentagon--left--outline",
+  "slug": "pentagon--left--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pentagon--left--solid",
+  "slug": "pentagon--left--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pentagon--outline",
+  "slug": "pentagon--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pentagon--right--outline",
+  "slug": "pentagon--right--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pentagon--right--solid",
+  "slug": "pentagon--right--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Pentagon--solid",
+  "slug": "pentagon--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Percentage",
+  "slug": "percentage",
+  "category": "Formatting"
+ },
+ {
+  "name": "Percentage--filled",
+  "slug": "percentage--filled",
+  "category": "Formatting"
+ },
+ {
+  "name": "Quotes",
+  "slug": "quotes",
+  "category": "Formatting"
+ },
+ {
+  "name": "Reflect--horizontal",
+  "slug": "reflect--horizontal",
+  "category": "Formatting"
+ },
+ {
+  "name": "Reflect--vertical",
+  "slug": "reflect--vertical",
+  "category": "Formatting"
+ },
+ {
+  "name": "Rotate--clockwise",
+  "slug": "rotate--clockwise",
+  "category": "Formatting"
+ },
+ {
+  "name": "Rotate--clockwise--alt",
+  "slug": "rotate--clockwise--alt",
+  "category": "Formatting"
+ },
+ {
+  "name": "Rotate--clockwise--alt--filled",
+  "slug": "rotate--clockwise--alt--filled",
+  "category": "Formatting"
+ },
+ {
+  "name": "Rotate--clockwise--filled",
+  "slug": "rotate--clockwise--filled",
+  "category": "Formatting"
+ },
+ {
+  "name": "Rotate--counterclockwise",
+  "slug": "rotate--counterclockwise",
+  "category": "Formatting"
+ },
+ {
+  "name": "Rotate--counterclockwise--alt",
+  "slug": "rotate--counterclockwise--alt",
+  "category": "Formatting"
+ },
+ {
+  "name": "Rotate--counterclockwise--alt--filled",
+  "slug": "rotate--counterclockwise--alt--filled",
+  "category": "Formatting"
+ },
+ {
+  "name": "Rotate--counterclockwise--filled",
+  "slug": "rotate--counterclockwise--filled",
+  "category": "Formatting"
+ },
+ {
+  "name": "Row--delete",
+  "slug": "row--delete",
+  "category": "Formatting"
+ },
+ {
+  "name": "Row--insert",
+  "slug": "row--insert",
+  "category": "Formatting"
+ },
+ {
+  "name": "Save",
+  "slug": "save",
+  "category": "Formatting"
+ },
+ {
+  "name": "Select--01",
+  "slug": "select--01",
+  "category": "Formatting"
+ },
+ {
+  "name": "Select--02",
+  "slug": "select--02",
+  "category": "Formatting"
+ },
+ {
+  "name": "Send-backward",
+  "slug": "send-backward",
+  "category": "Formatting"
+ },
+ {
+  "name": "Send-to-back",
+  "slug": "send-to-back",
+  "category": "Formatting"
+ },
+ {
+  "name": "Shape--except",
+  "slug": "shape--except",
+  "category": "Formatting"
+ },
+ {
+  "name": "Shape--exclude",
+  "slug": "shape--exclude",
+  "category": "Formatting"
+ },
+ {
+  "name": "Shape--intersect",
+  "slug": "shape--intersect",
+  "category": "Formatting"
+ },
+ {
+  "name": "Shape--join",
+  "slug": "shape--join",
+  "category": "Formatting"
+ },
+ {
+  "name": "Shape--unite",
+  "slug": "shape--unite",
+  "category": "Formatting"
+ },
+ {
+  "name": "Spell-check",
+  "slug": "spell-check",
+  "category": "Formatting"
+ },
+ {
+  "name": "Spray-paint",
+  "slug": "spray-paint",
+  "category": "Formatting"
+ },
+ {
+  "name": "Square--outline",
+  "slug": "square--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Square--solid",
+  "slug": "square--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--align--center",
+  "slug": "text--align--center",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--align--justify",
+  "slug": "text--align--justify",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--align--left",
+  "slug": "text--align--left",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--align--mixed",
+  "slug": "text--align--mixed",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--align--right",
+  "slug": "text--align--right",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--all-caps",
+  "slug": "text--all-caps",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--bold",
+  "slug": "text--bold",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--clear-format",
+  "slug": "text--clear-format",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--color",
+  "slug": "text--color",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--creation",
+  "slug": "text--creation",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--fill",
+  "slug": "text--fill",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--font",
+  "slug": "text--font",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--footnote",
+  "slug": "text--footnote",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--highlight",
+  "slug": "text--highlight",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--indent",
+  "slug": "text--indent",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--indent--less",
+  "slug": "text--indent--less",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--indent--more",
+  "slug": "text--indent--more",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--italic",
+  "slug": "text--italic",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--kerning",
+  "slug": "text--kerning",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--leading",
+  "slug": "text--leading",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--line-spacing",
+  "slug": "text--line-spacing",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--long-paragraph",
+  "slug": "text--long-paragraph",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--new-line",
+  "slug": "text--new-line",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--scale",
+  "slug": "text--scale",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--selection",
+  "slug": "text--selection",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--short-paragraph",
+  "slug": "text--short-paragraph",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--small-caps",
+  "slug": "text--small-caps",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--strikethrough",
+  "slug": "text--strikethrough",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--subscript",
+  "slug": "text--subscript",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--superscript",
+  "slug": "text--superscript",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--tracking",
+  "slug": "text--tracking",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--underline",
+  "slug": "text--underline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--vertical-alignment",
+  "slug": "text--vertical-alignment",
+  "category": "Formatting"
+ },
+ {
+  "name": "Text--wrap",
+  "slug": "text--wrap",
+  "category": "Formatting"
+ },
+ {
+  "name": "Trash-can",
+  "slug": "trash-can",
+  "category": "Formatting"
+ },
+ {
+  "name": "Triangle--down--outline",
+  "slug": "triangle--down--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Triangle--down--solid",
+  "slug": "triangle--down--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Triangle--left--outline",
+  "slug": "triangle--left--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Triangle--left--solid",
+  "slug": "triangle--left--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Triangle--outline",
+  "slug": "triangle--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Triangle--right--outline",
+  "slug": "triangle--right--outline",
+  "category": "Formatting"
+ },
+ {
+  "name": "Triangle--right--solid",
+  "slug": "triangle--right--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Triangle--solid",
+  "slug": "triangle--solid",
+  "category": "Formatting"
+ },
+ {
+  "name": "Ungroup-objects",
+  "slug": "ungroup-objects",
+  "category": "Formatting"
+ },
+ {
+  "name": "Unlink",
+  "slug": "unlink",
+  "category": "Formatting"
+ },
+ {
+  "name": "Unsaved",
+  "slug": "unsaved",
+  "category": "Formatting"
+ },
+ {
+  "name": "Vertical-view",
+  "slug": "vertical-view",
+  "category": "Formatting"
+ },
+ {
+  "name": "3d-cursor",
+  "slug": "3d-cursor",
+  "category": "Health"
+ },
+ {
+  "name": "3d-cursor--alt",
+  "slug": "3d-cursor--alt",
+  "category": "Health"
+ },
+ {
+  "name": "3d-curve--auto-colon",
+  "slug": "3d-curve--auto-colon",
+  "category": "Health"
+ },
+ {
+  "name": "3d-curve--auto-vessels",
+  "slug": "3d-curve--auto-vessels",
+  "category": "Health"
+ },
+ {
+  "name": "3d-curve--manual",
+  "slug": "3d-curve--manual",
+  "category": "Health"
+ },
+ {
+  "name": "3d-ica",
+  "slug": "3d-ica",
+  "category": "Health"
+ },
+ {
+  "name": "3d-mpr-toggle",
+  "slug": "3d-mpr-toggle",
+  "category": "Health"
+ },
+ {
+  "name": "3d-print-mesh",
+  "slug": "3d-print-mesh",
+  "category": "Health"
+ },
+ {
+  "name": "3d-software",
+  "slug": "3d-software",
+  "category": "Health"
+ },
+ {
+  "name": "3rd-party-connected",
+  "slug": "3rd-party-connected",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-results",
+  "slug": "ai-results",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-results--high",
+  "slug": "ai-results--high",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-results--low",
+  "slug": "ai-results--low",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-results--medium",
+  "slug": "ai-results--medium",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-results--urgent",
+  "slug": "ai-results--urgent",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-results--very-high",
+  "slug": "ai-results--very-high",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-status",
+  "slug": "ai-status",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-status--complete",
+  "slug": "ai-status--complete",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-status--failed",
+  "slug": "ai-status--failed",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-status--in-progress",
+  "slug": "ai-status--in-progress",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-status--queued",
+  "slug": "ai-status--queued",
+  "category": "Health"
+ },
+ {
+  "name": "Ai-status--rejected",
+  "slug": "ai-status--rejected",
+  "category": "Health"
+ },
+ {
+  "name": "Angle",
+  "slug": "angle",
+  "category": "Health"
+ },
+ {
+  "name": "Annotation-visibility",
+  "slug": "annotation-visibility",
+  "category": "Health"
+ },
+ {
+  "name": "Arrow--annotation",
+  "slug": "arrow--annotation",
+  "category": "Health"
+ },
+ {
+  "name": "Auto-scroll",
+  "slug": "auto-scroll",
+  "category": "Health"
+ },
+ {
+  "name": "Brush-freehand",
+  "slug": "brush-freehand",
+  "category": "Health"
+ },
+ {
+  "name": "Brush-polygon",
+  "slug": "brush-polygon",
+  "category": "Health"
+ },
+ {
+  "name": "Cd--archive",
+  "slug": "cd--archive",
+  "category": "Health"
+ },
+ {
+  "name": "Cd--create-archive",
+  "slug": "cd--create-archive",
+  "category": "Health"
+ },
+ {
+  "name": "Cd--create-exchange",
+  "slug": "cd--create-exchange",
+  "category": "Health"
+ },
+ {
+  "name": "Chemistry",
+  "slug": "chemistry",
+  "category": "Health"
+ },
+ {
+  "name": "Chemistry--reference",
+  "slug": "chemistry--reference",
+  "category": "Health"
+ },
+ {
+  "name": "Circle-measurement",
+  "slug": "circle-measurement",
+  "category": "Health"
+ },
+ {
+  "name": "Cobb-angle",
+  "slug": "cobb-angle",
+  "category": "Health"
+ },
+ {
+  "name": "Contour--draw",
+  "slug": "contour--draw",
+  "category": "Health"
+ },
+ {
+  "name": "Contour--edit",
+  "slug": "contour--edit",
+  "category": "Health"
+ },
+ {
+  "name": "Contour-finding",
+  "slug": "contour-finding",
+  "category": "Health"
+ },
+ {
+  "name": "Coronavirus",
+  "slug": "coronavirus",
+  "category": "Health"
+ },
+ {
+  "name": "Cross-reference",
+  "slug": "cross-reference",
+  "category": "Health"
+ },
+ {
+  "name": "Cut-in-half",
+  "slug": "cut-in-half",
+  "category": "Health"
+ },
+ {
+  "name": "Denominate",
+  "slug": "denominate",
+  "category": "Health"
+ },
+ {
+  "name": "Dicom--6000",
+  "slug": "dicom--6000",
+  "category": "Health"
+ },
+ {
+  "name": "Dicom--overlay",
+  "slug": "dicom--overlay",
+  "category": "Health"
+ },
+ {
+  "name": "Dna",
+  "slug": "dna",
+  "category": "Health"
+ },
+ {
+  "name": "Download-study",
+  "slug": "download-study",
+  "category": "Health"
+ },
+ {
+  "name": "Edge-enhancement",
+  "slug": "edge-enhancement",
+  "category": "Health"
+ },
+ {
+  "name": "Edge-enhancement--01",
+  "slug": "edge-enhancement--01",
+  "category": "Health"
+ },
+ {
+  "name": "Edge-enhancement--02",
+  "slug": "edge-enhancement--02",
+  "category": "Health"
+ },
+ {
+  "name": "Edge-enhancement--03",
+  "slug": "edge-enhancement--03",
+  "category": "Health"
+ },
+ {
+  "name": "Erase--3d",
+  "slug": "erase--3d",
+  "category": "Health"
+ },
+ {
+  "name": "Exam-mode",
+  "slug": "exam-mode",
+  "category": "Health"
+ },
+ {
+  "name": "Fusion-blender",
+  "slug": "fusion-blender",
+  "category": "Health"
+ },
+ {
+  "name": "HL7-attributes",
+  "slug": "hl7-attributes",
+  "category": "Health"
+ },
+ {
+  "name": "Hanging-protocol",
+  "slug": "hanging-protocol",
+  "category": "Health"
+ },
+ {
+  "name": "Health-cross",
+  "slug": "health-cross",
+  "category": "Health"
+ },
+ {
+  "name": "Hole-filling",
+  "slug": "hole-filling",
+  "category": "Health"
+ },
+ {
+  "name": "Hole-filling--cursor",
+  "slug": "hole-filling--cursor",
+  "category": "Health"
+ },
+ {
+  "name": "Ica-2d",
+  "slug": "ica-2d",
+  "category": "Health"
+ },
+ {
+  "name": "Image--medical",
+  "slug": "image--medical",
+  "category": "Health"
+ },
+ {
+  "name": "Image-availability--local",
+  "slug": "image-availability--local",
+  "category": "Health"
+ },
+ {
+  "name": "Image-availability--retrieving",
+  "slug": "image-availability--retrieving",
+  "category": "Health"
+ },
+ {
+  "name": "Image-availability--unavailable",
+  "slug": "image-availability--unavailable",
+  "category": "Health"
+ },
+ {
+  "name": "Interactive-segmentation-cursor",
+  "slug": "interactive-segmentation-cursor",
+  "category": "Health"
+ },
+ {
+  "name": "Launch-study--1",
+  "slug": "launch-study--1",
+  "category": "Health"
+ },
+ {
+  "name": "Launch-study--2",
+  "slug": "launch-study--2",
+  "category": "Health"
+ },
+ {
+  "name": "Launch-study--3",
+  "slug": "launch-study--3",
+  "category": "Health"
+ },
+ {
+  "name": "Magnify",
+  "slug": "magnify",
+  "category": "Health"
+ },
+ {
+  "name": "Mammogram",
+  "slug": "mammogram",
+  "category": "Health"
+ },
+ {
+  "name": "Medication",
+  "slug": "medication",
+  "category": "Health"
+ },
+ {
+  "name": "Medication--alert",
+  "slug": "medication--alert",
+  "category": "Health"
+ },
+ {
+  "name": "Medication--reminder",
+  "slug": "medication--reminder",
+  "category": "Health"
+ },
+ {
+  "name": "Nominate",
+  "slug": "nominate",
+  "category": "Health"
+ },
+ {
+  "name": "Page-scroll",
+  "slug": "page-scroll",
+  "category": "Health"
+ },
+ {
+  "name": "Pet-image--b",
+  "slug": "pet-image--b",
+  "category": "Health"
+ },
+ {
+  "name": "Pet-image--o",
+  "slug": "pet-image--o",
+  "category": "Health"
+ },
+ {
+  "name": "Pills",
+  "slug": "pills",
+  "category": "Health"
+ },
+ {
+  "name": "Pills--add",
+  "slug": "pills--add",
+  "category": "Health"
+ },
+ {
+  "name": "Pills--subtract",
+  "slug": "pills--subtract",
+  "category": "Health"
+ },
+ {
+  "name": "Pointer-text",
+  "slug": "pointer-text",
+  "category": "Health"
+ },
+ {
+  "name": "QC-launch",
+  "slug": "qc-launch",
+  "category": "Health"
+ },
+ {
+  "name": "Region-analysis--area",
+  "slug": "region-analysis--area",
+  "category": "Health"
+ },
+ {
+  "name": "Region-analysis--volume",
+  "slug": "region-analysis--volume",
+  "category": "Health"
+ },
+ {
+  "name": "Registration",
+  "slug": "registration",
+  "category": "Health"
+ },
+ {
+  "name": "Rotate--180",
+  "slug": "rotate--180",
+  "category": "Health"
+ },
+ {
+  "name": "Rotate--360",
+  "slug": "rotate--360",
+  "category": "Health"
+ },
+ {
+  "name": "Save--annotation",
+  "slug": "save--annotation",
+  "category": "Health"
+ },
+ {
+  "name": "Save--image",
+  "slug": "save--image",
+  "category": "Health"
+ },
+ {
+  "name": "Save--series",
+  "slug": "save--series",
+  "category": "Health"
+ },
+ {
+  "name": "Scalpel--cursor",
+  "slug": "scalpel--cursor",
+  "category": "Health"
+ },
+ {
+  "name": "Scalpel--lasso",
+  "slug": "scalpel--lasso",
+  "category": "Health"
+ },
+ {
+  "name": "Scalpel--select",
+  "slug": "scalpel--select",
+  "category": "Health"
+ },
+ {
+  "name": "Smoothing",
+  "slug": "smoothing",
+  "category": "Health"
+ },
+ {
+  "name": "Smoothing--cursor",
+  "slug": "smoothing--cursor",
+  "category": "Health"
+ },
+ {
+  "name": "Spine-label",
+  "slug": "spine-label",
+  "category": "Health"
+ },
+ {
+  "name": "Split--discard",
+  "slug": "split--discard",
+  "category": "Health"
+ },
+ {
+  "name": "Stacked-move",
+  "slug": "stacked-move",
+  "category": "Health"
+ },
+ {
+  "name": "Stacked-scrolling--1",
+  "slug": "stacked-scrolling--1",
+  "category": "Health"
+ },
+ {
+  "name": "Stacked-scrolling--2",
+  "slug": "stacked-scrolling--2",
+  "category": "Health"
+ },
+ {
+  "name": "Status--acknowledge",
+  "slug": "status--acknowledge",
+  "category": "Health"
+ },
+ {
+  "name": "Status--partial-fail",
+  "slug": "status--partial-fail",
+  "category": "Health"
+ },
+ {
+  "name": "Status--resolved",
+  "slug": "status--resolved",
+  "category": "Health"
+ },
+ {
+  "name": "Stress-breath-editor",
+  "slug": "stress-breath-editor",
+  "category": "Health"
+ },
+ {
+  "name": "Study--next",
+  "slug": "study--next",
+  "category": "Health"
+ },
+ {
+  "name": "Study--previous",
+  "slug": "study--previous",
+  "category": "Health"
+ },
+ {
+  "name": "Study--read",
+  "slug": "study--read",
+  "category": "Health"
+ },
+ {
+  "name": "Study--skip",
+  "slug": "study--skip",
+  "category": "Health"
+ },
+ {
+  "name": "Study--transfer",
+  "slug": "study--transfer",
+  "category": "Health"
+ },
+ {
+  "name": "Study--unread",
+  "slug": "study--unread",
+  "category": "Health"
+ },
+ {
+  "name": "Study--view",
+  "slug": "study--view",
+  "category": "Health"
+ },
+ {
+  "name": "Sub-volume",
+  "slug": "sub-volume",
+  "category": "Health"
+ },
+ {
+  "name": "Text-annotation-toggle",
+  "slug": "text-annotation-toggle",
+  "category": "Health"
+ },
+ {
+  "name": "Threshold",
+  "slug": "threshold",
+  "category": "Health"
+ },
+ {
+  "name": "Thumbnail-preview",
+  "slug": "thumbnail-preview",
+  "category": "Health"
+ },
+ {
+  "name": "Window--auto",
+  "slug": "window--auto",
+  "category": "Health"
+ },
+ {
+  "name": "Window--base",
+  "slug": "window--base",
+  "category": "Health"
+ },
+ {
+  "name": "Window--black-saturation",
+  "slug": "window--black-saturation",
+  "category": "Health"
+ },
+ {
+  "name": "Window--overlay",
+  "slug": "window--overlay",
+  "category": "Health"
+ },
+ {
+  "name": "Window--preset",
+  "slug": "window--preset",
+  "category": "Health"
+ },
+ {
+  "name": "Zoom-pan",
+  "slug": "zoom-pan",
+  "category": "Health"
+ },
+ {
+  "name": "Binoculars",
+  "slug": "binoculars",
+  "category": "Instruments"
+ },
+ {
+  "name": "Box",
+  "slug": "box",
+  "category": "Instruments"
+ },
+ {
+  "name": "Bullhorn",
+  "slug": "bullhorn",
+  "category": "Instruments"
+ },
+ {
+  "name": "Calibrate",
+  "slug": "calibrate",
+  "category": "Instruments"
+ },
+ {
+  "name": "Cursor--1",
+  "slug": "cursor--1",
+  "category": "Instruments"
+ },
+ {
+  "name": "Cursor--2",
+  "slug": "cursor--2",
+  "category": "Instruments"
+ },
+ {
+  "name": "Expand",
+  "slug": "expand",
+  "category": "Instruments"
+ },
+ {
+  "name": "Meter",
+  "slug": "meter",
+  "category": "Instruments"
+ },
+ {
+  "name": "Meter--alt",
+  "slug": "meter--alt",
+  "category": "Instruments"
+ },
+ {
+  "name": "Microscope",
+  "slug": "microscope",
+  "category": "Instruments"
+ },
+ {
+  "name": "Portfolio",
+  "slug": "portfolio",
+  "category": "Instruments"
+ },
+ {
+  "name": "Radar",
+  "slug": "radar",
+  "category": "Instruments"
+ },
+ {
+  "name": "Ruler",
+  "slug": "ruler",
+  "category": "Instruments"
+ },
+ {
+  "name": "Ruler--alt",
+  "slug": "ruler--alt",
+  "category": "Instruments"
+ },
+ {
+  "name": "Scales",
+  "slug": "scales",
+  "category": "Instruments"
+ },
+ {
+  "name": "Scales--tipped",
+  "slug": "scales--tipped",
+  "category": "Instruments"
+ },
+ {
+  "name": "Scalpel",
+  "slug": "scalpel",
+  "category": "Instruments"
+ },
+ {
+  "name": "Stamp",
+  "slug": "stamp",
+  "category": "Instruments"
+ },
+ {
+  "name": "Stethoscope",
+  "slug": "stethoscope",
+  "category": "Instruments"
+ },
+ {
+  "name": "Tool-box",
+  "slug": "tool-box",
+  "category": "Instruments"
+ },
+ {
+  "name": "Tool-kit",
+  "slug": "tool-kit",
+  "category": "Instruments"
+ },
+ {
+  "name": "Tools",
+  "slug": "tools",
+  "category": "Instruments"
+ },
+ {
+  "name": "Tools--alt",
+  "slug": "tools--alt",
+  "category": "Instruments"
+ },
+ {
+  "name": "Umbrella",
+  "slug": "umbrella",
+  "category": "Instruments"
+ },
+ {
+  "name": "Add",
+  "slug": "add",
+  "category": "Navigation"
+ },
+ {
+  "name": "Add--alt",
+  "slug": "add--alt",
+  "category": "Navigation"
+ },
+ {
+  "name": "Add--filled",
+  "slug": "add--filled",
+  "category": "Navigation"
+ },
+ {
+  "name": "Add--large",
+  "slug": "add--large",
+  "category": "Navigation"
+ },
+ {
+  "name": "Apps",
+  "slug": "apps",
+  "category": "Navigation"
+ },
+ {
+  "name": "Arrow--down",
+  "slug": "arrow--down",
+  "category": "Navigation"
+ },
+ {
+  "name": "Arrow--down-left",
+  "slug": "arrow--down-left",
+  "category": "Navigation"
+ },
+ {
+  "name": "Arrow--down-right",
+  "slug": "arrow--down-right",
+  "category": "Navigation"
+ },
+ {
+  "name": "Arrow--left",
+  "slug": "arrow--left",
+  "category": "Navigation"
+ },
+ {
+  "name": "Arrow--right",
+  "slug": "arrow--right",
+  "category": "Navigation"
+ },
+ {
+  "name": "Arrow--up",
+  "slug": "arrow--up",
+  "category": "Navigation"
+ },
+ {
+  "name": "Arrow--up-left",
+  "slug": "arrow--up-left",
+  "category": "Navigation"
+ },
+ {
+  "name": "Arrow--up-right",
+  "slug": "arrow--up-right",
+  "category": "Navigation"
+ },
+ {
+  "name": "Caret--down",
+  "slug": "caret--down",
+  "category": "Navigation"
+ },
+ {
+  "name": "Caret--left",
+  "slug": "caret--left",
+  "category": "Navigation"
+ },
+ {
+  "name": "Caret--right",
+  "slug": "caret--right",
+  "category": "Navigation"
+ },
+ {
+  "name": "Caret--up",
+  "slug": "caret--up",
+  "category": "Navigation"
+ },
+ {
+  "name": "Chevron--down",
+  "slug": "chevron--down",
+  "category": "Navigation"
+ },
+ {
+  "name": "Chevron--down--outline",
+  "slug": "chevron--down--outline",
+  "category": "Navigation"
+ },
+ {
+  "name": "Chevron--left",
+  "slug": "chevron--left",
+  "category": "Navigation"
+ },
+ {
+  "name": "Chevron--right",
+  "slug": "chevron--right",
+  "category": "Navigation"
+ },
+ {
+  "name": "Chevron--up",
+  "slug": "chevron--up",
+  "category": "Navigation"
+ },
+ {
+  "name": "Chevron--up--outline",
+  "slug": "chevron--up--outline",
+  "category": "Navigation"
+ },
+ {
+  "name": "Close",
+  "slug": "close",
+  "category": "Navigation"
+ },
+ {
+  "name": "Close--filled",
+  "slug": "close--filled",
+  "category": "Navigation"
+ },
+ {
+  "name": "Close--large",
+  "slug": "close--large",
+  "category": "Navigation"
+ },
+ {
+  "name": "Close--outline",
+  "slug": "close--outline",
+  "category": "Navigation"
+ },
+ {
+  "name": "Down-to-bottom",
+  "slug": "down-to-bottom",
+  "category": "Navigation"
+ },
+ {
+  "name": "Draggable",
+  "slug": "draggable",
+  "category": "Navigation"
+ },
+ {
+  "name": "Home",
+  "slug": "home",
+  "category": "Navigation"
+ },
+ {
+  "name": "Menu",
+  "slug": "menu",
+  "category": "Navigation"
+ },
+ {
+  "name": "Menu--collapsed",
+  "slug": "menu--collapsed",
+  "category": "Navigation"
+ },
+ {
+  "name": "Menu--open",
+  "slug": "menu--open",
+  "category": "Navigation"
+ },
+ {
+  "name": "Notification-counter",
+  "slug": "notification-counter",
+  "category": "Navigation"
+ },
+ {
+  "name": "Overflow-menu--horizontal",
+  "slug": "overflow-menu--horizontal",
+  "category": "Navigation"
+ },
+ {
+  "name": "Overflow-menu--vertical",
+  "slug": "overflow-menu--vertical",
+  "category": "Navigation"
+ },
+ {
+  "name": "Page--first",
+  "slug": "page--first",
+  "category": "Navigation"
+ },
+ {
+  "name": "Page--last",
+  "slug": "page--last",
+  "category": "Navigation"
+ },
+ {
+  "name": "Select--window",
+  "slug": "select--window",
+  "category": "Navigation"
+ },
+ {
+  "name": "Subtract",
+  "slug": "subtract",
+  "category": "Navigation"
+ },
+ {
+  "name": "Subtract--alt",
+  "slug": "subtract--alt",
+  "category": "Navigation"
+ },
+ {
+  "name": "Subtract--filled",
+  "slug": "subtract--filled",
+  "category": "Navigation"
+ },
+ {
+  "name": "Subtract--large",
+  "slug": "subtract--large",
+  "category": "Navigation"
+ },
+ {
+  "name": "Switcher",
+  "slug": "switcher",
+  "category": "Navigation"
+ },
+ {
+  "name": "Up-to-top",
+  "slug": "up-to-top",
+  "category": "Navigation"
+ },
+ {
+  "name": "Zoom--area",
+  "slug": "zoom--area",
+  "category": "Navigation"
+ },
+ {
+  "name": "Zoom--fit",
+  "slug": "zoom--fit",
+  "category": "Navigation"
+ },
+ {
+  "name": "Zoom--in",
+  "slug": "zoom--in",
+  "category": "Navigation"
+ },
+ {
+  "name": "Zoom--in-area",
+  "slug": "zoom--in-area",
+  "category": "Navigation"
+ },
+ {
+  "name": "Zoom--out",
+  "slug": "zoom--out",
+  "category": "Navigation"
+ },
+ {
+  "name": "Zoom--out-area",
+  "slug": "zoom--out-area",
+  "category": "Navigation"
+ },
+ {
+  "name": "Zoom--reset",
+  "slug": "zoom--reset",
+  "category": "Navigation"
+ },
+ {
+  "name": "Add-comment",
+  "slug": "add-comment",
+  "category": "Operations"
+ },
+ {
+  "name": "Area",
+  "slug": "area",
+  "category": "Operations"
+ },
+ {
+  "name": "Area--custom",
+  "slug": "area--custom",
+  "category": "Operations"
+ },
+ {
+  "name": "Arithmetic-mean",
+  "slug": "arithmetic-mean",
+  "category": "Operations"
+ },
+ {
+  "name": "Arithmetic-median",
+  "slug": "arithmetic-median",
+  "category": "Operations"
+ },
+ {
+  "name": "Arrange--horizontal",
+  "slug": "arrange--horizontal",
+  "category": "Operations"
+ },
+ {
+  "name": "Arrange--vertical",
+  "slug": "arrange--vertical",
+  "category": "Operations"
+ },
+ {
+  "name": "Arrow-shift-down",
+  "slug": "arrow-shift-down",
+  "category": "Operations"
+ },
+ {
+  "name": "Arrows--horizontal",
+  "slug": "arrows--horizontal",
+  "category": "Operations"
+ },
+ {
+  "name": "Arrows--vertical",
+  "slug": "arrows--vertical",
+  "category": "Operations"
+ },
+ {
+  "name": "Automatic",
+  "slug": "automatic",
+  "category": "Operations"
+ },
+ {
+  "name": "Bookmark",
+  "slug": "bookmark",
+  "category": "Operations"
+ },
+ {
+  "name": "Bookmark--add",
+  "slug": "bookmark--add",
+  "category": "Operations"
+ },
+ {
+  "name": "Bookmark--filled",
+  "slug": "bookmark--filled",
+  "category": "Operations"
+ },
+ {
+  "name": "Branch",
+  "slug": "branch",
+  "category": "Operations"
+ },
+ {
+  "name": "Build-tool",
+  "slug": "build-tool",
+  "category": "Operations"
+ },
+ {
+  "name": "Calls",
+  "slug": "calls",
+  "category": "Operations"
+ },
+ {
+  "name": "Calls--all",
+  "slug": "calls--all",
+  "category": "Operations"
+ },
+ {
+  "name": "Calls--incoming",
+  "slug": "calls--incoming",
+  "category": "Operations"
+ },
+ {
+  "name": "Caret--sort",
+  "slug": "caret--sort",
+  "category": "Operations"
+ },
+ {
+  "name": "Caret--sort--down",
+  "slug": "caret--sort--down",
+  "category": "Operations"
+ },
+ {
+  "name": "Caret--sort--up",
+  "slug": "caret--sort--up",
+  "category": "Operations"
+ },
+ {
+  "name": "Catalog--publish",
+  "slug": "catalog--publish",
+  "category": "Operations"
+ },
+ {
+  "name": "Center--circle",
+  "slug": "center--circle",
+  "category": "Operations"
+ },
+ {
+  "name": "Center--square",
+  "slug": "center--square",
+  "category": "Operations"
+ },
+ {
+  "name": "Change-catalog",
+  "slug": "change-catalog",
+  "category": "Operations"
+ },
+ {
+  "name": "Chat",
+  "slug": "chat",
+  "category": "Operations"
+ },
+ {
+  "name": "Chat--launch",
+  "slug": "chat--launch",
+  "category": "Operations"
+ },
+ {
+  "name": "Chat--off",
+  "slug": "chat--off",
+  "category": "Operations"
+ },
+ {
+  "name": "Chevron--mini",
+  "slug": "chevron--mini",
+  "category": "Operations"
+ },
+ {
+  "name": "Chevron--sort",
+  "slug": "chevron--sort",
+  "category": "Operations"
+ },
+ {
+  "name": "Chevron--sort--down",
+  "slug": "chevron--sort--down",
+  "category": "Operations"
+ },
+ {
+  "name": "Chevron--sort--up",
+  "slug": "chevron--sort--up",
+  "category": "Operations"
+ },
+ {
+  "name": "Choices",
+  "slug": "choices",
+  "category": "Operations"
+ },
+ {
+  "name": "Choose-item",
+  "slug": "choose-item",
+  "category": "Operations"
+ },
+ {
+  "name": "Circle-dash",
+  "slug": "circle-dash",
+  "category": "Operations"
+ },
+ {
+  "name": "Clean",
+  "slug": "clean",
+  "category": "Operations"
+ },
+ {
+  "name": "Collapse-all",
+  "slug": "collapse-all",
+  "category": "Operations"
+ },
+ {
+  "name": "Collapse-categories",
+  "slug": "collapse-categories",
+  "category": "Operations"
+ },
+ {
+  "name": "Commit",
+  "slug": "commit",
+  "category": "Operations"
+ },
+ {
+  "name": "Compare",
+  "slug": "compare",
+  "category": "Operations"
+ },
+ {
+  "name": "Connect",
+  "slug": "connect",
+  "category": "Operations"
+ },
+ {
+  "name": "Connect--recursive",
+  "slug": "connect--recursive",
+  "category": "Operations"
+ },
+ {
+  "name": "Connect--reference",
+  "slug": "connect--reference",
+  "category": "Operations"
+ },
+ {
+  "name": "Connect--source",
+  "slug": "connect--source",
+  "category": "Operations"
+ },
+ {
+  "name": "Connect--target",
+  "slug": "connect--target",
+  "category": "Operations"
+ },
+ {
+  "name": "Continuous-deployment",
+  "slug": "continuous-deployment",
+  "category": "Operations"
+ },
+ {
+  "name": "Continuous-integration",
+  "slug": "continuous-integration",
+  "category": "Operations"
+ },
+ {
+  "name": "Convert-to-cloud",
+  "slug": "convert-to-cloud",
+  "category": "Operations"
+ },
+ {
+  "name": "Delete",
+  "slug": "delete",
+  "category": "Operations"
+ },
+ {
+  "name": "Demo",
+  "slug": "demo",
+  "category": "Operations"
+ },
+ {
+  "name": "Deploy",
+  "slug": "deploy",
+  "category": "Operations"
+ },
+ {
+  "name": "Deploy-rules",
+  "slug": "deploy-rules",
+  "category": "Operations"
+ },
+ {
+  "name": "Drag--horizontal",
+  "slug": "drag--horizontal",
+  "category": "Operations"
+ },
+ {
+  "name": "Drag--vertical",
+  "slug": "drag--vertical",
+  "category": "Operations"
+ },
+ {
+  "name": "Drill-back",
+  "slug": "drill-back",
+  "category": "Operations"
+ },
+ {
+  "name": "Drill-down",
+  "slug": "drill-down",
+  "category": "Operations"
+ },
+ {
+  "name": "Drill-through",
+  "slug": "drill-through",
+  "category": "Operations"
+ },
+ {
+  "name": "Equal--approximately",
+  "slug": "equal--approximately",
+  "category": "Operations"
+ },
+ {
+  "name": "Exit",
+  "slug": "exit",
+  "category": "Operations"
+ },
+ {
+  "name": "Expand-all",
+  "slug": "expand-all",
+  "category": "Operations"
+ },
+ {
+  "name": "Expand-categories",
+  "slug": "expand-categories",
+  "category": "Operations"
+ },
+ {
+  "name": "Explore",
+  "slug": "explore",
+  "category": "Operations"
+ },
+ {
+  "name": "Fade",
+  "slug": "fade",
+  "category": "Operations"
+ },
+ {
+  "name": "Filter",
+  "slug": "filter",
+  "category": "Operations"
+ },
+ {
+  "name": "Filter--edit",
+  "slug": "filter--edit",
+  "category": "Operations"
+ },
+ {
+  "name": "Filter--remove",
+  "slug": "filter--remove",
+  "category": "Operations"
+ },
+ {
+  "name": "Filter--reset",
+  "slug": "filter--reset",
+  "category": "Operations"
+ },
+ {
+  "name": "Flag",
+  "slug": "flag",
+  "category": "Operations"
+ },
+ {
+  "name": "Flag--filled",
+  "slug": "flag--filled",
+  "category": "Operations"
+ },
+ {
+  "name": "Fork",
+  "slug": "fork",
+  "category": "Operations"
+ },
+ {
+  "name": "Function-math",
+  "slug": "function-math",
+  "category": "Operations"
+ },
+ {
+  "name": "Gears",
+  "slug": "gears",
+  "category": "Operations"
+ },
+ {
+  "name": "Image--search",
+  "slug": "image--search",
+  "category": "Operations"
+ },
+ {
+  "name": "Image--search--alt",
+  "slug": "image--search--alt",
+  "category": "Operations"
+ },
+ {
+  "name": "Infinity-symbol",
+  "slug": "infinity-symbol",
+  "category": "Operations"
+ },
+ {
+  "name": "Insert",
+  "slug": "insert",
+  "category": "Operations"
+ },
+ {
+  "name": "Insert--page",
+  "slug": "insert--page",
+  "category": "Operations"
+ },
+ {
+  "name": "Insert-syntax",
+  "slug": "insert-syntax",
+  "category": "Operations"
+ },
+ {
+  "name": "Inspection",
+  "slug": "inspection",
+  "category": "Operations"
+ },
+ {
+  "name": "Intersect",
+  "slug": "intersect",
+  "category": "Operations"
+ },
+ {
+  "name": "Jump-link",
+  "slug": "jump-link",
+  "category": "Operations"
+ },
+ {
+  "name": "Launch",
+  "slug": "launch",
+  "category": "Operations"
+ },
+ {
+  "name": "Layers",
+  "slug": "layers",
+  "category": "Operations"
+ },
+ {
+  "name": "Login",
+  "slug": "login",
+  "category": "Operations"
+ },
+ {
+  "name": "Logout",
+  "slug": "logout",
+  "category": "Operations"
+ },
+ {
+  "name": "Loop",
+  "slug": "loop",
+  "category": "Operations"
+ },
+ {
+  "name": "Mac--command",
+  "slug": "mac--command",
+  "category": "Operations"
+ },
+ {
+  "name": "Mac--option",
+  "slug": "mac--option",
+  "category": "Operations"
+ },
+ {
+  "name": "Mac--shift",
+  "slug": "mac--shift",
+  "category": "Operations"
+ },
+ {
+  "name": "Manage-protection",
+  "slug": "manage-protection",
+  "category": "Operations"
+ },
+ {
+  "name": "Maximize",
+  "slug": "maximize",
+  "category": "Operations"
+ },
+ {
+  "name": "Merge",
+  "slug": "merge",
+  "category": "Operations"
+ },
+ {
+  "name": "Migrate",
+  "slug": "migrate",
+  "category": "Operations"
+ },
+ {
+  "name": "Migrate--alt",
+  "slug": "migrate--alt",
+  "category": "Operations"
+ },
+ {
+  "name": "Minimize",
+  "slug": "minimize",
+  "category": "Operations"
+ },
+ {
+  "name": "Move",
+  "slug": "move",
+  "category": "Operations"
+ },
+ {
+  "name": "New-tab",
+  "slug": "new-tab",
+  "category": "Operations"
+ },
+ {
+  "name": "Not-sent",
+  "slug": "not-sent",
+  "category": "Operations"
+ },
+ {
+  "name": "Not-sent--filled",
+  "slug": "not-sent--filled",
+  "category": "Operations"
+ },
+ {
+  "name": "Operations--field",
+  "slug": "operations--field",
+  "category": "Operations"
+ },
+ {
+  "name": "Operations--record",
+  "slug": "operations--record",
+  "category": "Operations"
+ },
+ {
+  "name": "Overlay",
+  "slug": "overlay",
+  "category": "Operations"
+ },
+ {
+  "name": "Package",
+  "slug": "package",
+  "category": "Operations"
+ },
+ {
+  "name": "Pan--horizontal",
+  "slug": "pan--horizontal",
+  "category": "Operations"
+ },
+ {
+  "name": "Pan--vertical",
+  "slug": "pan--vertical",
+  "category": "Operations"
+ },
+ {
+  "name": "Pause-future",
+  "slug": "pause-future",
+  "category": "Operations"
+ },
+ {
+  "name": "Pause-past",
+  "slug": "pause-past",
+  "category": "Operations"
+ },
+ {
+  "name": "Pin",
+  "slug": "pin",
+  "category": "Operations"
+ },
+ {
+  "name": "Pin--filled",
+  "slug": "pin--filled",
+  "category": "Operations"
+ },
+ {
+  "name": "Process",
+  "slug": "process",
+  "category": "Operations"
+ },
+ {
+  "name": "Process-automate",
+  "slug": "process-automate",
+  "category": "Operations"
+ },
+ {
+  "name": "Promote",
+  "slug": "promote",
+  "category": "Operations"
+ },
+ {
+  "name": "Pull-request",
+  "slug": "pull-request",
+  "category": "Operations"
+ },
+ {
+  "name": "Query",
+  "slug": "query",
+  "category": "Operations"
+ },
+ {
+  "name": "Recently-viewed",
+  "slug": "recently-viewed",
+  "category": "Operations"
+ },
+ {
+  "name": "Recommend",
+  "slug": "recommend",
+  "category": "Operations"
+ },
+ {
+  "name": "Redo",
+  "slug": "redo",
+  "category": "Operations"
+ },
+ {
+  "name": "Renew",
+  "slug": "renew",
+  "category": "Operations"
+ },
+ {
+  "name": "Repeat",
+  "slug": "repeat",
+  "category": "Operations"
+ },
+ {
+  "name": "Repeat--one",
+  "slug": "repeat--one",
+  "category": "Operations"
+ },
+ {
+  "name": "Replicate",
+  "slug": "replicate",
+  "category": "Operations"
+ },
+ {
+  "name": "Reply",
+  "slug": "reply",
+  "category": "Operations"
+ },
+ {
+  "name": "Reply--all",
+  "slug": "reply--all",
+  "category": "Operations"
+ },
+ {
+  "name": "Request-quote",
+  "slug": "request-quote",
+  "category": "Operations"
+ },
+ {
+  "name": "Reset",
+  "slug": "reset",
+  "category": "Operations"
+ },
+ {
+  "name": "Reset--alt",
+  "slug": "reset--alt",
+  "category": "Operations"
+ },
+ {
+  "name": "Restart",
+  "slug": "restart",
+  "category": "Operations"
+ },
+ {
+  "name": "Retry--failed",
+  "slug": "retry--failed",
+  "category": "Operations"
+ },
+ {
+  "name": "Return",
+  "slug": "return",
+  "category": "Operations"
+ },
+ {
+  "name": "Review",
+  "slug": "review",
+  "category": "Operations"
+ },
+ {
+  "name": "Rotate",
+  "slug": "rotate",
+  "category": "Operations"
+ },
+ {
+  "name": "Run",
+  "slug": "run",
+  "category": "Operations"
+ },
+ {
+  "name": "Run--mirror",
+  "slug": "run--mirror",
+  "category": "Operations"
+ },
+ {
+  "name": "Save--model",
+  "slug": "save--model",
+  "category": "Operations"
+ },
+ {
+  "name": "Scan",
+  "slug": "scan",
+  "category": "Operations"
+ },
+ {
+  "name": "Scan--alt",
+  "slug": "scan--alt",
+  "category": "Operations"
+ },
+ {
+  "name": "Scan--disabled",
+  "slug": "scan--disabled",
+  "category": "Operations"
+ },
+ {
+  "name": "Search",
+  "slug": "search",
+  "category": "Operations"
+ },
+ {
+  "name": "Search--advanced",
+  "slug": "search--advanced",
+  "category": "Operations"
+ },
+ {
+  "name": "Search--locate",
+  "slug": "search--locate",
+  "category": "Operations"
+ },
+ {
+  "name": "Search--locate--mirror",
+  "slug": "search--locate--mirror",
+  "category": "Operations"
+ },
+ {
+  "name": "Send",
+  "slug": "send",
+  "category": "Operations"
+ },
+ {
+  "name": "Send--alt",
+  "slug": "send--alt",
+  "category": "Operations"
+ },
+ {
+  "name": "Send--alt--filled",
+  "slug": "send--alt--filled",
+  "category": "Operations"
+ },
+ {
+  "name": "Send--filled",
+  "slug": "send--filled",
+  "category": "Operations"
+ },
+ {
+  "name": "Shuffle",
+  "slug": "shuffle",
+  "category": "Operations"
+ },
+ {
+  "name": "Sort--ascending",
+  "slug": "sort--ascending",
+  "category": "Operations"
+ },
+ {
+  "name": "Sort--descending",
+  "slug": "sort--descending",
+  "category": "Operations"
+ },
+ {
+  "name": "Sort--remove",
+  "slug": "sort--remove",
+  "category": "Operations"
+ },
+ {
+  "name": "Split",
+  "slug": "split",
+  "category": "Operations"
+ },
+ {
+  "name": "Split-screen",
+  "slug": "split-screen",
+  "category": "Operations"
+ },
+ {
+  "name": "Strategy-play",
+  "slug": "strategy-play",
+  "category": "Operations"
+ },
+ {
+  "name": "Sync-settings",
+  "slug": "sync-settings",
+  "category": "Operations"
+ },
+ {
+  "name": "Tag",
+  "slug": "tag",
+  "category": "Operations"
+ },
+ {
+  "name": "Tag--edit",
+  "slug": "tag--edit",
+  "category": "Operations"
+ },
+ {
+  "name": "Tag--export",
+  "slug": "tag--export",
+  "category": "Operations"
+ },
+ {
+  "name": "Tag--group",
+  "slug": "tag--group",
+  "category": "Operations"
+ },
+ {
+  "name": "Tag--import",
+  "slug": "tag--import",
+  "category": "Operations"
+ },
+ {
+  "name": "Tag--none",
+  "slug": "tag--none",
+  "category": "Operations"
+ },
+ {
+  "name": "Test-tool",
+  "slug": "test-tool",
+  "category": "Operations"
+ },
+ {
+  "name": "Timing-belt",
+  "slug": "timing-belt",
+  "category": "Operations"
+ },
+ {
+  "name": "Tour",
+  "slug": "tour",
+  "category": "Operations"
+ },
+ {
+  "name": "Translate",
+  "slug": "translate",
+  "category": "Operations"
+ },
+ {
+  "name": "Transpose",
+  "slug": "transpose",
+  "category": "Operations"
+ },
+ {
+  "name": "Undo",
+  "slug": "undo",
+  "category": "Operations"
+ },
+ {
+  "name": "Update-now",
+  "slug": "update-now",
+  "category": "Operations"
+ },
+ {
+  "name": "Upgrade",
+  "slug": "upgrade",
+  "category": "Operations"
+ },
+ {
+  "name": "View-next",
+  "slug": "view-next",
+  "category": "Operations"
+ },
+ {
+  "name": "Workspace--import",
+  "slug": "workspace--import",
+  "category": "Operations"
+ },
+ {
+  "name": "X-axis",
+  "slug": "x-axis",
+  "category": "Operations"
+ },
+ {
+  "name": "Y-axis",
+  "slug": "y-axis",
+  "category": "Operations"
+ },
+ {
+  "name": "Z-axis",
+  "slug": "z-axis",
+  "category": "Operations"
+ },
+ {
+  "name": "Automation--decision",
+  "slug": "automation--decision",
+  "category": "Social"
+ },
+ {
+  "name": "Gear",
+  "slug": "gear",
+  "category": "Social"
+ },
+ {
+  "name": "Subsecond",
+  "slug": "subsecond",
+  "category": "Social"
+ },
+ {
+  "name": "Windows-hosting",
+  "slug": "windows-hosting",
+  "category": "Social"
+ },
+ {
+  "name": "Async",
+  "slug": "async",
+  "category": "Status"
+ },
+ {
+  "name": "Caution",
+  "slug": "caution",
+  "category": "Status"
+ },
+ {
+  "name": "Caution-inverted",
+  "slug": "caution-inverted",
+  "category": "Status"
+ },
+ {
+  "name": "Checkmark",
+  "slug": "checkmark",
+  "category": "Status"
+ },
+ {
+  "name": "Checkmark--filled",
+  "slug": "checkmark--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Checkmark--filled--error",
+  "slug": "checkmark--filled--error",
+  "category": "Status"
+ },
+ {
+  "name": "Checkmark--filled--warning",
+  "slug": "checkmark--filled--warning",
+  "category": "Status"
+ },
+ {
+  "name": "Checkmark--outline",
+  "slug": "checkmark--outline",
+  "category": "Status"
+ },
+ {
+  "name": "Checkmark--outline--error",
+  "slug": "checkmark--outline--error",
+  "category": "Status"
+ },
+ {
+  "name": "Checkmark--outline--warning",
+  "slug": "checkmark--outline--warning",
+  "category": "Status"
+ },
+ {
+  "name": "Circle-fill",
+  "slug": "circle-fill",
+  "category": "Status"
+ },
+ {
+  "name": "Circle-stroke",
+  "slug": "circle-stroke",
+  "category": "Status"
+ },
+ {
+  "name": "Condition--point",
+  "slug": "condition--point",
+  "category": "Status"
+ },
+ {
+  "name": "Condition--wait-point",
+  "slug": "condition--wait-point",
+  "category": "Status"
+ },
+ {
+  "name": "Critical",
+  "slug": "critical",
+  "category": "Status"
+ },
+ {
+  "name": "Critical-severity",
+  "slug": "critical-severity",
+  "category": "Status"
+ },
+ {
+  "name": "Diamond-fill",
+  "slug": "diamond-fill",
+  "category": "Status"
+ },
+ {
+  "name": "Error",
+  "slug": "error",
+  "category": "Status"
+ },
+ {
+  "name": "Error--filled",
+  "slug": "error--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Error--outline",
+  "slug": "error--outline",
+  "category": "Status"
+ },
+ {
+  "name": "Event--change",
+  "slug": "event--change",
+  "category": "Status"
+ },
+ {
+  "name": "Event--incident",
+  "slug": "event--incident",
+  "category": "Status"
+ },
+ {
+  "name": "Event--warning",
+  "slug": "event--warning",
+  "category": "Status"
+ },
+ {
+  "name": "Help",
+  "slug": "help",
+  "category": "Status"
+ },
+ {
+  "name": "Help--filled",
+  "slug": "help--filled",
+  "category": "Status"
+ },
+ {
+  "name": "In-progress",
+  "slug": "in-progress",
+  "category": "Status"
+ },
+ {
+  "name": "In-progress--error",
+  "slug": "in-progress--error",
+  "category": "Status"
+ },
+ {
+  "name": "In-progress--warning",
+  "slug": "in-progress--warning",
+  "category": "Status"
+ },
+ {
+  "name": "Incomplete",
+  "slug": "incomplete",
+  "category": "Status"
+ },
+ {
+  "name": "Incomplete--cancel",
+  "slug": "incomplete--cancel",
+  "category": "Status"
+ },
+ {
+  "name": "Incomplete--error",
+  "slug": "incomplete--error",
+  "category": "Status"
+ },
+ {
+  "name": "Incomplete--normal",
+  "slug": "incomplete--normal",
+  "category": "Status"
+ },
+ {
+  "name": "Incomplete--warning",
+  "slug": "incomplete--warning",
+  "category": "Status"
+ },
+ {
+  "name": "Information",
+  "slug": "information",
+  "category": "Status"
+ },
+ {
+  "name": "Information--disabled",
+  "slug": "information--disabled",
+  "category": "Status"
+ },
+ {
+  "name": "Information--filled",
+  "slug": "information--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Information--square",
+  "slug": "information--square",
+  "category": "Status"
+ },
+ {
+  "name": "Information--square--filled",
+  "slug": "information--square--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Js-error",
+  "slug": "js-error",
+  "category": "Status"
+ },
+ {
+  "name": "Low-severity",
+  "slug": "low-severity",
+  "category": "Status"
+ },
+ {
+  "name": "Misuse",
+  "slug": "misuse",
+  "category": "Status"
+ },
+ {
+  "name": "Misuse--outline",
+  "slug": "misuse--outline",
+  "category": "Status"
+ },
+ {
+  "name": "Pending",
+  "slug": "pending",
+  "category": "Status"
+ },
+ {
+  "name": "Pending--filled",
+  "slug": "pending--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Queued",
+  "slug": "queued",
+  "category": "Status"
+ },
+ {
+  "name": "Undefined",
+  "slug": "undefined",
+  "category": "Status"
+ },
+ {
+  "name": "Undefined--filled",
+  "slug": "undefined--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Unknown",
+  "slug": "unknown",
+  "category": "Status"
+ },
+ {
+  "name": "Unknown--filled",
+  "slug": "unknown--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Warning",
+  "slug": "warning",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--alt",
+  "slug": "warning--alt",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--alt--filled",
+  "slug": "warning--alt--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--alt-inverted",
+  "slug": "warning--alt-inverted",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--alt-inverted--filled",
+  "slug": "warning--alt-inverted--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--diamond",
+  "slug": "warning--diamond",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--filled",
+  "slug": "warning--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--hex",
+  "slug": "warning--hex",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--hex--filled",
+  "slug": "warning--hex--filled",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--multiple",
+  "slug": "warning--multiple",
+  "category": "Status"
+ },
+ {
+  "name": "Warning--other",
+  "slug": "warning--other",
+  "category": "Status"
+ },
+ {
+  "name": "Warning-square",
+  "slug": "warning-square",
+  "category": "Status"
+ },
+ {
+  "name": "Warning-square--filled",
+  "slug": "warning-square--filled",
+  "category": "Status"
+ },
+ {
+  "name": "todo",
+  "slug": "todo",
+  "category": "Status"
+ },
+ {
+  "name": "Accept-action--usage",
+  "slug": "accept-action--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Action--definition",
+  "slug": "action--definition",
+  "category": "Systems"
+ },
+ {
+  "name": "Action--usage",
+  "slug": "action--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Anchor",
+  "slug": "anchor",
+  "category": "Systems"
+ },
+ {
+  "name": "Application--mobile",
+  "slug": "application--mobile",
+  "category": "Systems"
+ },
+ {
+  "name": "Application--virtual",
+  "slug": "application--virtual",
+  "category": "Systems"
+ },
+ {
+  "name": "Application--web",
+  "slug": "application--web",
+  "category": "Systems"
+ },
+ {
+  "name": "Assembly",
+  "slug": "assembly",
+  "category": "Systems"
+ },
+ {
+  "name": "Assembly--cluster",
+  "slug": "assembly--cluster",
+  "category": "Systems"
+ },
+ {
+  "name": "Assembly--reference",
+  "slug": "assembly--reference",
+  "category": "Systems"
+ },
+ {
+  "name": "Bare-metal-server",
+  "slug": "bare-metal-server",
+  "category": "Systems"
+ },
+ {
+  "name": "Bare-metal-server--01",
+  "slug": "bare-metal-server--01",
+  "category": "Systems"
+ },
+ {
+  "name": "Bare-metal-server--02",
+  "slug": "bare-metal-server--02",
+  "category": "Systems"
+ },
+ {
+  "name": "Bastion-host",
+  "slug": "bastion-host",
+  "category": "Systems"
+ },
+ {
+  "name": "Batch-job",
+  "slug": "batch-job",
+  "category": "Systems"
+ },
+ {
+  "name": "Batch-job--step",
+  "slug": "batch-job--step",
+  "category": "Systems"
+ },
+ {
+  "name": "Binding--01",
+  "slug": "binding--01",
+  "category": "Systems"
+ },
+ {
+  "name": "Binding--02",
+  "slug": "binding--02",
+  "category": "Systems"
+ },
+ {
+  "name": "Block-storage--alt",
+  "slug": "block-storage--alt",
+  "category": "Systems"
+ },
+ {
+  "name": "Box--extra-large",
+  "slug": "box--extra-large",
+  "category": "Systems"
+ },
+ {
+  "name": "Box--large",
+  "slug": "box--large",
+  "category": "Systems"
+ },
+ {
+  "name": "Box--medium",
+  "slug": "box--medium",
+  "category": "Systems"
+ },
+ {
+  "name": "Box--small",
+  "slug": "box--small",
+  "category": "Systems"
+ },
+ {
+  "name": "Chat--operational",
+  "slug": "chat--operational",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--cmas",
+  "slug": "cics--cmas",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--db2-connection",
+  "slug": "cics--db2-connection",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--explorer",
+  "slug": "cics--explorer",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--program",
+  "slug": "cics--program",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--sit",
+  "slug": "cics--sit",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--sit-overrides",
+  "slug": "cics--sit-overrides",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--system-group",
+  "slug": "cics--system-group",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--transaction-server-zos",
+  "slug": "cics--transaction-server-zos",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics--wui-region",
+  "slug": "cics--wui-region",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics-region",
+  "slug": "cics-region",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics-region--alt",
+  "slug": "cics-region--alt",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics-region--routing",
+  "slug": "cics-region--routing",
+  "category": "Systems"
+ },
+ {
+  "name": "Cics-region--target",
+  "slug": "cics-region--target",
+  "category": "Systems"
+ },
+ {
+  "name": "Cicsplex",
+  "slug": "cicsplex",
+  "category": "Systems"
+ },
+ {
+  "name": "Cloud--alerting",
+  "slug": "cloud--alerting",
+  "category": "Systems"
+ },
+ {
+  "name": "Cloud--data-ops",
+  "slug": "cloud--data-ops",
+  "category": "Systems"
+ },
+ {
+  "name": "Cloud--service-management",
+  "slug": "cloud--service-management",
+  "category": "Systems"
+ },
+ {
+  "name": "Cloud-services",
+  "slug": "cloud-services",
+  "category": "Systems"
+ },
+ {
+  "name": "Code-signing-service",
+  "slug": "code-signing-service",
+  "category": "Systems"
+ },
+ {
+  "name": "Communication--unified",
+  "slug": "communication--unified",
+  "category": "Systems"
+ },
+ {
+  "name": "Connection--usage",
+  "slug": "connection--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Connection-flow--usage",
+  "slug": "connection-flow--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Constraint",
+  "slug": "constraint",
+  "category": "Systems"
+ },
+ {
+  "name": "Container--engine",
+  "slug": "container--engine",
+  "category": "Systems"
+ },
+ {
+  "name": "Container--image",
+  "slug": "container--image",
+  "category": "Systems"
+ },
+ {
+  "name": "Container--runtime",
+  "slug": "container--runtime",
+  "category": "Systems"
+ },
+ {
+  "name": "Container--runtime-monitor",
+  "slug": "container--runtime-monitor",
+  "category": "Systems"
+ },
+ {
+  "name": "Container-image--pull",
+  "slug": "container-image--pull",
+  "category": "Systems"
+ },
+ {
+  "name": "Container-image--push",
+  "slug": "container-image--push",
+  "category": "Systems"
+ },
+ {
+  "name": "Container-image--push-pull",
+  "slug": "container-image--push-pull",
+  "category": "Systems"
+ },
+ {
+  "name": "Container-registry",
+  "slug": "container-registry",
+  "category": "Systems"
+ },
+ {
+  "name": "Container-services",
+  "slug": "container-services",
+  "category": "Systems"
+ },
+ {
+  "name": "Data--center",
+  "slug": "data--center",
+  "category": "Systems"
+ },
+ {
+  "name": "Data-accessor",
+  "slug": "data-accessor",
+  "category": "Systems"
+ },
+ {
+  "name": "Data-backup",
+  "slug": "data-backup",
+  "category": "Systems"
+ },
+ {
+  "name": "Data-blob",
+  "slug": "data-blob",
+  "category": "Systems"
+ },
+ {
+  "name": "Data-diode",
+  "slug": "data-diode",
+  "category": "Systems"
+ },
+ {
+  "name": "Db2--buffer-pool",
+  "slug": "db2--buffer-pool",
+  "category": "Systems"
+ },
+ {
+  "name": "Db2--data-sharing-group",
+  "slug": "db2--data-sharing-group",
+  "category": "Systems"
+ },
+ {
+  "name": "Db2--database",
+  "slug": "db2--database",
+  "category": "Systems"
+ },
+ {
+  "name": "Decision-node",
+  "slug": "decision-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Deployment-unit--data",
+  "slug": "deployment-unit--data",
+  "category": "Systems"
+ },
+ {
+  "name": "Deployment-unit--execution",
+  "slug": "deployment-unit--execution",
+  "category": "Systems"
+ },
+ {
+  "name": "Deployment-unit--installation1",
+  "slug": "deployment-unit--installation1",
+  "category": "Systems"
+ },
+ {
+  "name": "Deployment-unit--presentation",
+  "slug": "deployment-unit--presentation",
+  "category": "Systems"
+ },
+ {
+  "name": "Deployment-unit--technical--data",
+  "slug": "deployment-unit--technical--data",
+  "category": "Systems"
+ },
+ {
+  "name": "Deployment-unit--technical--execution",
+  "slug": "deployment-unit--technical--execution",
+  "category": "Systems"
+ },
+ {
+  "name": "Deployment-unit--technical--installation",
+  "slug": "deployment-unit--technical--installation",
+  "category": "Systems"
+ },
+ {
+  "name": "Deployment-unit--technical--presentation",
+  "slug": "deployment-unit--technical--presentation",
+  "category": "Systems"
+ },
+ {
+  "name": "Directory-domain",
+  "slug": "directory-domain",
+  "category": "Systems"
+ },
+ {
+  "name": "Edge-node--alt",
+  "slug": "edge-node--alt",
+  "category": "Systems"
+ },
+ {
+  "name": "Encryption",
+  "slug": "encryption",
+  "category": "Systems"
+ },
+ {
+  "name": "Enumeration--definition",
+  "slug": "enumeration--definition",
+  "category": "Systems"
+ },
+ {
+  "name": "Enumeration--usage",
+  "slug": "enumeration--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Executable-program",
+  "slug": "executable-program",
+  "category": "Systems"
+ },
+ {
+  "name": "Feature-membership",
+  "slug": "feature-membership",
+  "category": "Systems"
+ },
+ {
+  "name": "Feature-membership--filled",
+  "slug": "feature-membership--filled",
+  "category": "Systems"
+ },
+ {
+  "name": "Feature-typing",
+  "slug": "feature-typing",
+  "category": "Systems"
+ },
+ {
+  "name": "File-storage",
+  "slug": "file-storage",
+  "category": "Systems"
+ },
+ {
+  "name": "Firewall",
+  "slug": "firewall",
+  "category": "Systems"
+ },
+ {
+  "name": "Firewall--classic",
+  "slug": "firewall--classic",
+  "category": "Systems"
+ },
+ {
+  "name": "Floating-ip",
+  "slug": "floating-ip",
+  "category": "Systems"
+ },
+ {
+  "name": "Fork-node",
+  "slug": "fork-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Gateway",
+  "slug": "gateway",
+  "category": "Systems"
+ },
+ {
+  "name": "Gateway--api",
+  "slug": "gateway--api",
+  "category": "Systems"
+ },
+ {
+  "name": "Gateway--mail",
+  "slug": "gateway--mail",
+  "category": "Systems"
+ },
+ {
+  "name": "Gateway--public",
+  "slug": "gateway--public",
+  "category": "Systems"
+ },
+ {
+  "name": "Gateway--security",
+  "slug": "gateway--security",
+  "category": "Systems"
+ },
+ {
+  "name": "Gateway--user-access",
+  "slug": "gateway--user-access",
+  "category": "Systems"
+ },
+ {
+  "name": "Gateway--vpn",
+  "slug": "gateway--vpn",
+  "category": "Systems"
+ },
+ {
+  "name": "Group--access",
+  "slug": "group--access",
+  "category": "Systems"
+ },
+ {
+  "name": "Group--account",
+  "slug": "group--account",
+  "category": "Systems"
+ },
+ {
+  "name": "Group--resource",
+  "slug": "group--resource",
+  "category": "Systems"
+ },
+ {
+  "name": "Group--security",
+  "slug": "group--security",
+  "category": "Systems"
+ },
+ {
+  "name": "Gui",
+  "slug": "gui",
+  "category": "Systems"
+ },
+ {
+  "name": "Gui--management",
+  "slug": "gui--management",
+  "category": "Systems"
+ },
+ {
+  "name": "Hardware-security-module",
+  "slug": "hardware-security-module",
+  "category": "Systems"
+ },
+ {
+  "name": "Hybrid-networking--alt",
+  "slug": "hybrid-networking--alt",
+  "category": "Systems"
+ },
+ {
+  "name": "Id-management",
+  "slug": "id-management",
+  "category": "Systems"
+ },
+ {
+  "name": "Image-service",
+  "slug": "image-service",
+  "category": "Systems"
+ },
+ {
+  "name": "Image-store--local",
+  "slug": "image-store--local",
+  "category": "Systems"
+ },
+ {
+  "name": "Instance--bx",
+  "slug": "instance--bx",
+  "category": "Systems"
+ },
+ {
+  "name": "Instance--classic",
+  "slug": "instance--classic",
+  "category": "Systems"
+ },
+ {
+  "name": "Instance--cx",
+  "slug": "instance--cx",
+  "category": "Systems"
+ },
+ {
+  "name": "Instance--mx",
+  "slug": "instance--mx",
+  "category": "Systems"
+ },
+ {
+  "name": "Instance--virtual",
+  "slug": "instance--virtual",
+  "category": "Systems"
+ },
+ {
+  "name": "Intent-request--active",
+  "slug": "intent-request--active",
+  "category": "Systems"
+ },
+ {
+  "name": "Intent-request--create",
+  "slug": "intent-request--create",
+  "category": "Systems"
+ },
+ {
+  "name": "Intent-request--heal",
+  "slug": "intent-request--heal",
+  "category": "Systems"
+ },
+ {
+  "name": "Intent-request--inactive",
+  "slug": "intent-request--inactive",
+  "category": "Systems"
+ },
+ {
+  "name": "Intent-request--scale-in",
+  "slug": "intent-request--scale-in",
+  "category": "Systems"
+ },
+ {
+  "name": "Intent-request--scale-out",
+  "slug": "intent-request--scale-out",
+  "category": "Systems"
+ },
+ {
+  "name": "Intent-request--uninstall",
+  "slug": "intent-request--uninstall",
+  "category": "Systems"
+ },
+ {
+  "name": "Interface--usage",
+  "slug": "interface--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Intrusion-prevention",
+  "slug": "intrusion-prevention",
+  "category": "Systems"
+ },
+ {
+  "name": "Join-node",
+  "slug": "join-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Kubelet",
+  "slug": "kubelet",
+  "category": "Systems"
+ },
+ {
+  "name": "Kubernetes",
+  "slug": "kubernetes",
+  "category": "Systems"
+ },
+ {
+  "name": "Kubernetes--control-plane-node",
+  "slug": "kubernetes--control-plane-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Kubernetes--operator",
+  "slug": "kubernetes--operator",
+  "category": "Systems"
+ },
+ {
+  "name": "Kubernetes--worker-node",
+  "slug": "kubernetes--worker-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Layers--external",
+  "slug": "layers--external",
+  "category": "Systems"
+ },
+ {
+  "name": "Linux--namespace",
+  "slug": "linux--namespace",
+  "category": "Systems"
+ },
+ {
+  "name": "Load-balancer--application",
+  "slug": "load-balancer--application",
+  "category": "Systems"
+ },
+ {
+  "name": "Load-balancer--classic",
+  "slug": "load-balancer--classic",
+  "category": "Systems"
+ },
+ {
+  "name": "Load-balancer--global",
+  "slug": "load-balancer--global",
+  "category": "Systems"
+ },
+ {
+  "name": "Load-balancer--listener",
+  "slug": "load-balancer--listener",
+  "category": "Systems"
+ },
+ {
+  "name": "Load-balancer--local",
+  "slug": "load-balancer--local",
+  "category": "Systems"
+ },
+ {
+  "name": "Load-balancer--network",
+  "slug": "load-balancer--network",
+  "category": "Systems"
+ },
+ {
+  "name": "Load-balancer--pool",
+  "slug": "load-balancer--pool",
+  "category": "Systems"
+ },
+ {
+  "name": "Logical-partition",
+  "slug": "logical-partition",
+  "category": "Systems"
+ },
+ {
+  "name": "Merge-node",
+  "slug": "merge-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Message-queue",
+  "slug": "message-queue",
+  "category": "Systems"
+ },
+ {
+  "name": "Microservices--1",
+  "slug": "microservices--1",
+  "category": "Systems"
+ },
+ {
+  "name": "Microservices--2",
+  "slug": "microservices--2",
+  "category": "Systems"
+ },
+ {
+  "name": "Mobility--services",
+  "slug": "mobility--services",
+  "category": "Systems"
+ },
+ {
+  "name": "Network--admin-control",
+  "slug": "network--admin-control",
+  "category": "Systems"
+ },
+ {
+  "name": "Network--enterprise",
+  "slug": "network--enterprise",
+  "category": "Systems"
+ },
+ {
+  "name": "Network--overlay",
+  "slug": "network--overlay",
+  "category": "Systems"
+ },
+ {
+  "name": "Network--public",
+  "slug": "network--public",
+  "category": "Systems"
+ },
+ {
+  "name": "Network-interface",
+  "slug": "network-interface",
+  "category": "Systems"
+ },
+ {
+  "name": "Object-storage--alt",
+  "slug": "object-storage--alt",
+  "category": "Systems"
+ },
+ {
+  "name": "Package-node",
+  "slug": "package-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Part--definition",
+  "slug": "part--definition",
+  "category": "Systems"
+ },
+ {
+  "name": "Part--usage",
+  "slug": "part--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Pcn--e-node",
+  "slug": "pcn--e-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Pcn--military",
+  "slug": "pcn--military",
+  "category": "Systems"
+ },
+ {
+  "name": "Pcn--p-node",
+  "slug": "pcn--p-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Pcn--z-node",
+  "slug": "pcn--z-node",
+  "category": "Systems"
+ },
+ {
+  "name": "Point-of-presence",
+  "slug": "point-of-presence",
+  "category": "Systems"
+ },
+ {
+  "name": "Port--definition",
+  "slug": "port--definition",
+  "category": "Systems"
+ },
+ {
+  "name": "Port--usage",
+  "slug": "port--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Property-relationship",
+  "slug": "property-relationship",
+  "category": "Systems"
+ },
+ {
+  "name": "Requirement--definition",
+  "slug": "requirement--definition",
+  "category": "Systems"
+ },
+ {
+  "name": "Requirement--usage",
+  "slug": "requirement--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Router",
+  "slug": "router",
+  "category": "Systems"
+ },
+ {
+  "name": "Router--voice",
+  "slug": "router--voice",
+  "category": "Systems"
+ },
+ {
+  "name": "Router--wifi",
+  "slug": "router--wifi",
+  "category": "Systems"
+ },
+ {
+  "name": "Satisfy--definition",
+  "slug": "satisfy--definition",
+  "category": "Systems"
+ },
+ {
+  "name": "Satisfy--usage",
+  "slug": "satisfy--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Screen-map",
+  "slug": "screen-map",
+  "category": "Systems"
+ },
+ {
+  "name": "Screen-map--set",
+  "slug": "screen-map--set",
+  "category": "Systems"
+ },
+ {
+  "name": "Security-services",
+  "slug": "security-services",
+  "category": "Systems"
+ },
+ {
+  "name": "Send-action--usage",
+  "slug": "send-action--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Server--dns",
+  "slug": "server--dns",
+  "category": "Systems"
+ },
+ {
+  "name": "Server--proxy",
+  "slug": "server--proxy",
+  "category": "Systems"
+ },
+ {
+  "name": "Server--time",
+  "slug": "server--time",
+  "category": "Systems"
+ },
+ {
+  "name": "Session-border-control",
+  "slug": "session-border-control",
+  "category": "Systems"
+ },
+ {
+  "name": "Shapes",
+  "slug": "shapes",
+  "category": "Systems"
+ },
+ {
+  "name": "Slisor",
+  "slug": "slisor",
+  "category": "Systems"
+ },
+ {
+  "name": "Software-resource",
+  "slug": "software-resource",
+  "category": "Systems"
+ },
+ {
+  "name": "Software-resource--cluster",
+  "slug": "software-resource--cluster",
+  "category": "Systems"
+ },
+ {
+  "name": "Software-resource--resource",
+  "slug": "software-resource--resource",
+  "category": "Systems"
+ },
+ {
+  "name": "Subclassification",
+  "slug": "subclassification",
+  "category": "Systems"
+ },
+ {
+  "name": "Subject--definition",
+  "slug": "subject--definition",
+  "category": "Systems"
+ },
+ {
+  "name": "Subject--usage",
+  "slug": "subject--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Subnet-acl-rules",
+  "slug": "subnet-acl-rules",
+  "category": "Systems"
+ },
+ {
+  "name": "Succession",
+  "slug": "succession",
+  "category": "Systems"
+ },
+ {
+  "name": "Switch-layer-2",
+  "slug": "switch-layer-2",
+  "category": "Systems"
+ },
+ {
+  "name": "Switch-layer-3",
+  "slug": "switch-layer-3",
+  "category": "Systems"
+ },
+ {
+  "name": "Sysplex--distributor",
+  "slug": "sysplex--distributor",
+  "category": "Systems"
+ },
+ {
+  "name": "Tcp-ip-service",
+  "slug": "tcp-ip-service",
+  "category": "Systems"
+ },
+ {
+  "name": "Terminal--3270",
+  "slug": "terminal--3270",
+  "category": "Systems"
+ },
+ {
+  "name": "Tsq",
+  "slug": "tsq",
+  "category": "Systems"
+ },
+ {
+  "name": "Two-factor-authentication",
+  "slug": "two-factor-authentication",
+  "category": "Systems"
+ },
+ {
+  "name": "Usage--included-use-case",
+  "slug": "usage--included-use-case",
+  "category": "Systems"
+ },
+ {
+  "name": "Use-case--definition",
+  "slug": "use-case--definition",
+  "category": "Systems"
+ },
+ {
+  "name": "Use-case--usage",
+  "slug": "use-case--usage",
+  "category": "Systems"
+ },
+ {
+  "name": "Vehicle--api",
+  "slug": "vehicle--api",
+  "category": "Systems"
+ },
+ {
+  "name": "Vehicle--connected",
+  "slug": "vehicle--connected",
+  "category": "Systems"
+ },
+ {
+  "name": "Vehicle--insights",
+  "slug": "vehicle--insights",
+  "category": "Systems"
+ },
+ {
+  "name": "Vehicle--services",
+  "slug": "vehicle--services",
+  "category": "Systems"
+ },
+ {
+  "name": "Virtual-desktop",
+  "slug": "virtual-desktop",
+  "category": "Systems"
+ },
+ {
+  "name": "Vlan",
+  "slug": "vlan",
+  "category": "Systems"
+ },
+ {
+  "name": "Volume--block-storage",
+  "slug": "volume--block-storage",
+  "category": "Systems"
+ },
+ {
+  "name": "Volume--file-storage",
+  "slug": "volume--file-storage",
+  "category": "Systems"
+ },
+ {
+  "name": "Volume--object-storage",
+  "slug": "volume--object-storage",
+  "category": "Systems"
+ },
+ {
+  "name": "Vpn--connection",
+  "slug": "vpn--connection",
+  "category": "Systems"
+ },
+ {
+  "name": "Vpn--policy",
+  "slug": "vpn--policy",
+  "category": "Systems"
+ },
+ {
+  "name": "Wifi--not-secure",
+  "slug": "wifi--not-secure",
+  "category": "Systems"
+ },
+ {
+  "name": "Wifi--secure",
+  "slug": "wifi--secure",
+  "category": "Systems"
+ },
+ {
+  "name": "Wifi-bridge",
+  "slug": "wifi-bridge",
+  "category": "Systems"
+ },
+ {
+  "name": "Wifi-bridge--alt",
+  "slug": "wifi-bridge--alt",
+  "category": "Systems"
+ },
+ {
+  "name": "Workflow-automation",
+  "slug": "workflow-automation",
+  "category": "Systems"
+ },
+ {
+  "name": "Z--lpar",
+  "slug": "z--lpar",
+  "category": "Systems"
+ },
+ {
+  "name": "Z--systems",
+  "slug": "z--systems",
+  "category": "Systems"
+ },
+ {
+  "name": "Zos",
+  "slug": "zos",
+  "category": "Systems"
+ },
+ {
+  "name": "Zos--sysplex",
+  "slug": "zos--sysplex",
+  "category": "Systems"
+ },
+ {
+  "name": "Airplay",
+  "slug": "airplay",
+  "category": "Technology"
+ },
+ {
+  "name": "Airplay--filled",
+  "slug": "airplay--filled",
+  "category": "Technology"
+ },
+ {
+  "name": "Aperture",
+  "slug": "aperture",
+  "category": "Technology"
+ },
+ {
+  "name": "Asset",
+  "slug": "asset",
+  "category": "Technology"
+ },
+ {
+  "name": "Asset--confirm",
+  "slug": "asset--confirm",
+  "category": "Technology"
+ },
+ {
+  "name": "Asset--digital-twin",
+  "slug": "asset--digital-twin",
+  "category": "Technology"
+ },
+ {
+  "name": "Asset--view",
+  "slug": "asset--view",
+  "category": "Technology"
+ },
+ {
+  "name": "At",
+  "slug": "at",
+  "category": "Technology"
+ },
+ {
+  "name": "Audio-console",
+  "slug": "audio-console",
+  "category": "Technology"
+ },
+ {
+  "name": "Augmented-reality",
+  "slug": "augmented-reality",
+  "category": "Technology"
+ },
+ {
+  "name": "Barcode",
+  "slug": "barcode",
+  "category": "Technology"
+ },
+ {
+  "name": "Battery--charging",
+  "slug": "battery--charging",
+  "category": "Technology"
+ },
+ {
+  "name": "Battery--empty",
+  "slug": "battery--empty",
+  "category": "Technology"
+ },
+ {
+  "name": "Battery--full",
+  "slug": "battery--full",
+  "category": "Technology"
+ },
+ {
+  "name": "Battery--half",
+  "slug": "battery--half",
+  "category": "Technology"
+ },
+ {
+  "name": "Battery--low",
+  "slug": "battery--low",
+  "category": "Technology"
+ },
+ {
+  "name": "Battery--quarter",
+  "slug": "battery--quarter",
+  "category": "Technology"
+ },
+ {
+  "name": "Blog",
+  "slug": "blog",
+  "category": "Technology"
+ },
+ {
+  "name": "Bluetooth",
+  "slug": "bluetooth",
+  "category": "Technology"
+ },
+ {
+  "name": "Bluetooth--off",
+  "slug": "bluetooth--off",
+  "category": "Technology"
+ },
+ {
+  "name": "Bot",
+  "slug": "bot",
+  "category": "Technology"
+ },
+ {
+  "name": "Breaking-change",
+  "slug": "breaking-change",
+  "category": "Technology"
+ },
+ {
+  "name": "Building--insights-1",
+  "slug": "building--insights-1",
+  "category": "Technology"
+ },
+ {
+  "name": "Building--insights-2",
+  "slug": "building--insights-2",
+  "category": "Technology"
+ },
+ {
+  "name": "Building--insights-3",
+  "slug": "building--insights-3",
+  "category": "Technology"
+ },
+ {
+  "name": "Business-processes",
+  "slug": "business-processes",
+  "category": "Technology"
+ },
+ {
+  "name": "Calculator",
+  "slug": "calculator",
+  "category": "Technology"
+ },
+ {
+  "name": "Calculator--check",
+  "slug": "calculator--check",
+  "category": "Technology"
+ },
+ {
+  "name": "Camera",
+  "slug": "camera",
+  "category": "Technology"
+ },
+ {
+  "name": "Camera--action",
+  "slug": "camera--action",
+  "category": "Technology"
+ },
+ {
+  "name": "Cell-tower",
+  "slug": "cell-tower",
+  "category": "Technology"
+ },
+ {
+  "name": "Chat-bot",
+  "slug": "chat-bot",
+  "category": "Technology"
+ },
+ {
+  "name": "Chip",
+  "slug": "chip",
+  "category": "Technology"
+ },
+ {
+  "name": "Cloud--download",
+  "slug": "cloud--download",
+  "category": "Technology"
+ },
+ {
+  "name": "Cloud--offline",
+  "slug": "cloud--offline",
+  "category": "Technology"
+ },
+ {
+  "name": "Cloud--upload",
+  "slug": "cloud--upload",
+  "category": "Technology"
+ },
+ {
+  "name": "Code",
+  "slug": "code",
+  "category": "Technology"
+ },
+ {
+  "name": "Code--hide",
+  "slug": "code--hide",
+  "category": "Technology"
+ },
+ {
+  "name": "Code--reference",
+  "slug": "code--reference",
+  "category": "Technology"
+ },
+ {
+  "name": "Connection--receive",
+  "slug": "connection--receive",
+  "category": "Technology"
+ },
+ {
+  "name": "Connection--send",
+  "slug": "connection--send",
+  "category": "Technology"
+ },
+ {
+  "name": "Connection--two-way",
+  "slug": "connection--two-way",
+  "category": "Technology"
+ },
+ {
+  "name": "Connection-signal",
+  "slug": "connection-signal",
+  "category": "Technology"
+ },
+ {
+  "name": "Connection-signal--off",
+  "slug": "connection-signal--off",
+  "category": "Technology"
+ },
+ {
+  "name": "Cookie",
+  "slug": "cookie",
+  "category": "Technology"
+ },
+ {
+  "name": "Debug",
+  "slug": "debug",
+  "category": "Technology"
+ },
+ {
+  "name": "Deployment-pattern",
+  "slug": "deployment-pattern",
+  "category": "Technology"
+ },
+ {
+  "name": "Deployment-policy",
+  "slug": "deployment-policy",
+  "category": "Technology"
+ },
+ {
+  "name": "Desk--adjustable",
+  "slug": "desk--adjustable",
+  "category": "Technology"
+ },
+ {
+  "name": "Development",
+  "slug": "development",
+  "category": "Technology"
+ },
+ {
+  "name": "Devices",
+  "slug": "devices",
+  "category": "Technology"
+ },
+ {
+  "name": "Devices--apps",
+  "slug": "devices--apps",
+  "category": "Technology"
+ },
+ {
+  "name": "Drone",
+  "slug": "drone",
+  "category": "Technology"
+ },
+ {
+  "name": "Drone--delivery",
+  "slug": "drone--delivery",
+  "category": "Technology"
+ },
+ {
+  "name": "Drone--front",
+  "slug": "drone--front",
+  "category": "Technology"
+ },
+ {
+  "name": "Drone--video",
+  "slug": "drone--video",
+  "category": "Technology"
+ },
+ {
+  "name": "Edge-cluster",
+  "slug": "edge-cluster",
+  "category": "Technology"
+ },
+ {
+  "name": "Edge-device",
+  "slug": "edge-device",
+  "category": "Technology"
+ },
+ {
+  "name": "Edge-node",
+  "slug": "edge-node",
+  "category": "Technology"
+ },
+ {
+  "name": "Edge-service",
+  "slug": "edge-service",
+  "category": "Technology"
+ },
+ {
+  "name": "Email",
+  "slug": "email",
+  "category": "Technology"
+ },
+ {
+  "name": "Email--new",
+  "slug": "email--new",
+  "category": "Technology"
+ },
+ {
+  "name": "Equalizer",
+  "slug": "equalizer",
+  "category": "Technology"
+ },
+ {
+  "name": "Fetch-upload",
+  "slug": "fetch-upload",
+  "category": "Technology"
+ },
+ {
+  "name": "Fetch-upload--cloud",
+  "slug": "fetch-upload--cloud",
+  "category": "Technology"
+ },
+ {
+  "name": "Fingerprint-recognition",
+  "slug": "fingerprint-recognition",
+  "category": "Technology"
+ },
+ {
+  "name": "Forum",
+  "slug": "forum",
+  "category": "Technology"
+ },
+ {
+  "name": "Function",
+  "slug": "function",
+  "category": "Technology"
+ },
+ {
+  "name": "Game--console",
+  "slug": "game--console",
+  "category": "Technology"
+ },
+ {
+  "name": "Game--wireless",
+  "slug": "game--wireless",
+  "category": "Technology"
+ },
+ {
+  "name": "Headphones",
+  "slug": "headphones",
+  "category": "Technology"
+ },
+ {
+  "name": "Headset",
+  "slug": "headset",
+  "category": "Technology"
+ },
+ {
+  "name": "Integration",
+  "slug": "integration",
+  "category": "Technology"
+ },
+ {
+  "name": "Iot--connect",
+  "slug": "iot--connect",
+  "category": "Technology"
+ },
+ {
+  "name": "Iot--platform",
+  "slug": "iot--platform",
+  "category": "Technology"
+ },
+ {
+  "name": "Keyboard",
+  "slug": "keyboard",
+  "category": "Technology"
+ },
+ {
+  "name": "Laptop",
+  "slug": "laptop",
+  "category": "Technology"
+ },
+ {
+  "name": "Location--current",
+  "slug": "location--current",
+  "category": "Technology"
+ },
+ {
+  "name": "Mail--all",
+  "slug": "mail--all",
+  "category": "Technology"
+ },
+ {
+  "name": "Mail--reply",
+  "slug": "mail--reply",
+  "category": "Technology"
+ },
+ {
+  "name": "Media-cast",
+  "slug": "media-cast",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile",
+  "slug": "mobile",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--add",
+  "slug": "mobile--add",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--audio",
+  "slug": "mobile--audio",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--check",
+  "slug": "mobile--check",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--crash",
+  "slug": "mobile--crash",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--download",
+  "slug": "mobile--download",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--event",
+  "slug": "mobile--event",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--landscape",
+  "slug": "mobile--landscape",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--request",
+  "slug": "mobile--request",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--session",
+  "slug": "mobile--session",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--view",
+  "slug": "mobile--view",
+  "category": "Technology"
+ },
+ {
+  "name": "Mobile--view-orientation",
+  "slug": "mobile--view-orientation",
+  "category": "Technology"
+ },
+ {
+  "name": "Outage",
+  "slug": "outage",
+  "category": "Technology"
+ },
+ {
+  "name": "Password",
+  "slug": "password",
+  "category": "Technology"
+ },
+ {
+  "name": "Phone--ip",
+  "slug": "phone--ip",
+  "category": "Technology"
+ },
+ {
+  "name": "Platforms",
+  "slug": "platforms",
+  "category": "Technology"
+ },
+ {
+  "name": "Plug",
+  "slug": "plug",
+  "category": "Technology"
+ },
+ {
+  "name": "Plug--filled",
+  "slug": "plug--filled",
+  "category": "Technology"
+ },
+ {
+  "name": "Port--input",
+  "slug": "port--input",
+  "category": "Technology"
+ },
+ {
+  "name": "Port--output",
+  "slug": "port--output",
+  "category": "Technology"
+ },
+ {
+  "name": "Printer",
+  "slug": "printer",
+  "category": "Technology"
+ },
+ {
+  "name": "Qr-code",
+  "slug": "qr-code",
+  "category": "Technology"
+ },
+ {
+  "name": "Radio",
+  "slug": "radio",
+  "category": "Technology"
+ },
+ {
+  "name": "Radio--combat",
+  "slug": "radio--combat",
+  "category": "Technology"
+ },
+ {
+  "name": "Radio--push-to-talk",
+  "slug": "radio--push-to-talk",
+  "category": "Technology"
+ },
+ {
+  "name": "Rocket",
+  "slug": "rocket",
+  "category": "Technology"
+ },
+ {
+  "name": "Rss",
+  "slug": "rss",
+  "category": "Technology"
+ },
+ {
+  "name": "Satellite",
+  "slug": "satellite",
+  "category": "Technology"
+ },
+ {
+  "name": "Service-id",
+  "slug": "service-id",
+  "category": "Technology"
+ },
+ {
+  "name": "Share",
+  "slug": "share",
+  "category": "Technology"
+ },
+ {
+  "name": "Signal-strength",
+  "slug": "signal-strength",
+  "category": "Technology"
+ },
+ {
+  "name": "Sim-card",
+  "slug": "sim-card",
+  "category": "Technology"
+ },
+ {
+  "name": "Tablet",
+  "slug": "tablet",
+  "category": "Technology"
+ },
+ {
+  "name": "Tablet--landscape",
+  "slug": "tablet--landscape",
+  "category": "Technology"
+ },
+ {
+  "name": "Terminal",
+  "slug": "terminal",
+  "category": "Technology"
+ },
+ {
+  "name": "Transmission-lte",
+  "slug": "transmission-lte",
+  "category": "Technology"
+ },
+ {
+  "name": "Usb",
+  "slug": "usb",
+  "category": "Technology"
+ },
+ {
+  "name": "Voicemail",
+  "slug": "voicemail",
+  "category": "Technology"
+ },
+ {
+  "name": "Vpn",
+  "slug": "vpn",
+  "category": "Technology"
+ },
+ {
+  "name": "Watch",
+  "slug": "watch",
+  "category": "Technology"
+ },
+ {
+  "name": "Web-services--cluster",
+  "slug": "web-services--cluster",
+  "category": "Technology"
+ },
+ {
+  "name": "Web-services--container",
+  "slug": "web-services--container",
+  "category": "Technology"
+ },
+ {
+  "name": "Web-services--definition",
+  "slug": "web-services--definition",
+  "category": "Technology"
+ },
+ {
+  "name": "Web-services--service",
+  "slug": "web-services--service",
+  "category": "Technology"
+ },
+ {
+  "name": "Web-services--task",
+  "slug": "web-services--task",
+  "category": "Technology"
+ },
+ {
+  "name": "Web-services--task-definition-version",
+  "slug": "web-services--task-definition-version",
+  "category": "Technology"
+ },
+ {
+  "name": "Webhook",
+  "slug": "webhook",
+  "category": "Technology"
+ },
+ {
+  "name": "Wifi",
+  "slug": "wifi",
+  "category": "Technology"
+ },
+ {
+  "name": "Wifi--controller",
+  "slug": "wifi--controller",
+  "category": "Technology"
+ },
+ {
+  "name": "Wifi--off",
+  "slug": "wifi--off",
+  "category": "Technology"
+ },
+ {
+  "name": "Wikis",
+  "slug": "wikis",
+  "category": "Technology"
+ },
+ {
+  "name": "keyboard--off",
+  "slug": "keyboard--off",
+  "category": "Technology"
+ },
+ {
+  "name": "Alarm",
+  "slug": "alarm",
+  "category": "Time"
+ },
+ {
+  "name": "Alarm--add",
+  "slug": "alarm--add",
+  "category": "Time"
+ },
+ {
+  "name": "Alarm--subtract",
+  "slug": "alarm--subtract",
+  "category": "Time"
+ },
+ {
+  "name": "Calendar",
+  "slug": "calendar",
+  "category": "Time"
+ },
+ {
+  "name": "Calendar--add",
+  "slug": "calendar--add",
+  "category": "Time"
+ },
+ {
+  "name": "Calendar--add--alt",
+  "slug": "calendar--add--alt",
+  "category": "Time"
+ },
+ {
+  "name": "Calendar--settings",
+  "slug": "calendar--settings",
+  "category": "Time"
+ },
+ {
+  "name": "Calendar--tools",
+  "slug": "calendar--tools",
+  "category": "Time"
+ },
+ {
+  "name": "Event",
+  "slug": "event",
+  "category": "Time"
+ },
+ {
+  "name": "Event--schedule",
+  "slug": "event--schedule",
+  "category": "Time"
+ },
+ {
+  "name": "Hourglass",
+  "slug": "hourglass",
+  "category": "Time"
+ },
+ {
+  "name": "Reminder",
+  "slug": "reminder",
+  "category": "Time"
+ },
+ {
+  "name": "Reminder--medical",
+  "slug": "reminder--medical",
+  "category": "Time"
+ },
+ {
+  "name": "Snooze",
+  "slug": "snooze",
+  "category": "Time"
+ },
+ {
+  "name": "Time",
+  "slug": "time",
+  "category": "Time"
+ },
+ {
+  "name": "Time--filled",
+  "slug": "time--filled",
+  "category": "Time"
+ },
+ {
+  "name": "Timer",
+  "slug": "timer",
+  "category": "Time"
+ },
+ {
+  "name": "Asleep",
+  "slug": "asleep",
+  "category": "Toggle"
+ },
+ {
+  "name": "Asleep--filled",
+  "slug": "asleep--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Awake",
+  "slug": "awake",
+  "category": "Toggle"
+ },
+ {
+  "name": "Carousel--horizontal",
+  "slug": "carousel--horizontal",
+  "category": "Toggle"
+ },
+ {
+  "name": "Carousel--vertical",
+  "slug": "carousel--vertical",
+  "category": "Toggle"
+ },
+ {
+  "name": "Checkbox",
+  "slug": "checkbox",
+  "category": "Toggle"
+ },
+ {
+  "name": "Checkbox--checked",
+  "slug": "checkbox--checked",
+  "category": "Toggle"
+ },
+ {
+  "name": "Checkbox--checked--filled",
+  "slug": "checkbox--checked--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Checkbox--indeterminate",
+  "slug": "checkbox--indeterminate",
+  "category": "Toggle"
+ },
+ {
+  "name": "Checkbox--indeterminate--filled",
+  "slug": "checkbox--indeterminate--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Column",
+  "slug": "column",
+  "category": "Toggle"
+ },
+ {
+  "name": "Favorite",
+  "slug": "favorite",
+  "category": "Toggle"
+ },
+ {
+  "name": "Favorite--filled",
+  "slug": "favorite--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Favorite--half",
+  "slug": "favorite--half",
+  "category": "Toggle"
+ },
+ {
+  "name": "Flash",
+  "slug": "flash",
+  "category": "Toggle"
+ },
+ {
+  "name": "Flash--filled",
+  "slug": "flash--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Flash--off",
+  "slug": "flash--off",
+  "category": "Toggle"
+ },
+ {
+  "name": "Flash--off--filled",
+  "slug": "flash--off--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Grid",
+  "slug": "grid",
+  "category": "Toggle"
+ },
+ {
+  "name": "Light",
+  "slug": "light",
+  "category": "Toggle"
+ },
+ {
+  "name": "Light--filled",
+  "slug": "light--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "List",
+  "slug": "list",
+  "category": "Toggle"
+ },
+ {
+  "name": "Locked",
+  "slug": "locked",
+  "category": "Toggle"
+ },
+ {
+  "name": "Microphone",
+  "slug": "microphone",
+  "category": "Toggle"
+ },
+ {
+  "name": "Microphone--filled",
+  "slug": "microphone--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Microphone--off",
+  "slug": "microphone--off",
+  "category": "Toggle"
+ },
+ {
+  "name": "Microphone--off--filled",
+  "slug": "microphone--off--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Notification",
+  "slug": "notification",
+  "category": "Toggle"
+ },
+ {
+  "name": "Notification--filled",
+  "slug": "notification--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Notification--new",
+  "slug": "notification--new",
+  "category": "Toggle"
+ },
+ {
+  "name": "Notification--off",
+  "slug": "notification--off",
+  "category": "Toggle"
+ },
+ {
+  "name": "Notification--off--filled",
+  "slug": "notification--off--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone",
+  "slug": "phone",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--application",
+  "slug": "phone--application",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--block",
+  "slug": "phone--block",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--block--filled",
+  "slug": "phone--block--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--filled",
+  "slug": "phone--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--incoming",
+  "slug": "phone--incoming",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--incoming--filled",
+  "slug": "phone--incoming--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--off",
+  "slug": "phone--off",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--off--filled",
+  "slug": "phone--off--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--outgoing",
+  "slug": "phone--outgoing",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--outgoing--filled",
+  "slug": "phone--outgoing--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--settings",
+  "slug": "phone--settings",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--voice",
+  "slug": "phone--voice",
+  "category": "Toggle"
+ },
+ {
+  "name": "Phone--voice--filled",
+  "slug": "phone--voice--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Radio-button",
+  "slug": "radio-button",
+  "category": "Toggle"
+ },
+ {
+  "name": "Radio-button--checked",
+  "slug": "radio-button--checked",
+  "category": "Toggle"
+ },
+ {
+  "name": "Row",
+  "slug": "row",
+  "category": "Toggle"
+ },
+ {
+  "name": "Screen",
+  "slug": "screen",
+  "category": "Toggle"
+ },
+ {
+  "name": "Screen--off",
+  "slug": "screen--off",
+  "category": "Toggle"
+ },
+ {
+  "name": "Star",
+  "slug": "star",
+  "category": "Toggle"
+ },
+ {
+  "name": "Star--filled",
+  "slug": "star--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Star--half",
+  "slug": "star--half",
+  "category": "Toggle"
+ },
+ {
+  "name": "Thumbnail--1",
+  "slug": "thumbnail--1",
+  "category": "Toggle"
+ },
+ {
+  "name": "Thumbnail--2",
+  "slug": "thumbnail--2",
+  "category": "Toggle"
+ },
+ {
+  "name": "Thumbs-down",
+  "slug": "thumbs-down",
+  "category": "Toggle"
+ },
+ {
+  "name": "Thumbs-down--filled",
+  "slug": "thumbs-down--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Thumbs-up",
+  "slug": "thumbs-up",
+  "category": "Toggle"
+ },
+ {
+  "name": "Thumbs-up--filled",
+  "slug": "thumbs-up--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Trophy",
+  "slug": "trophy",
+  "category": "Toggle"
+ },
+ {
+  "name": "Trophy--filled",
+  "slug": "trophy--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Unlocked",
+  "slug": "unlocked",
+  "category": "Toggle"
+ },
+ {
+  "name": "Video",
+  "slug": "video",
+  "category": "Toggle"
+ },
+ {
+  "name": "Video--filled",
+  "slug": "video--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Video--off",
+  "slug": "video--off",
+  "category": "Toggle"
+ },
+ {
+  "name": "Video--off--filled",
+  "slug": "video--off--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "View",
+  "slug": "view",
+  "category": "Toggle"
+ },
+ {
+  "name": "View--filled",
+  "slug": "view--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "View--mode-1",
+  "slug": "view--mode-1",
+  "category": "Toggle"
+ },
+ {
+  "name": "View--mode-2",
+  "slug": "view--mode-2",
+  "category": "Toggle"
+ },
+ {
+  "name": "View--off",
+  "slug": "view--off",
+  "category": "Toggle"
+ },
+ {
+  "name": "View--off--filled",
+  "slug": "view--off--filled",
+  "category": "Toggle"
+ },
+ {
+  "name": "Airline--digital-gate",
+  "slug": "airline--digital-gate",
+  "category": "Travel"
+ },
+ {
+  "name": "Airline--manage-gates",
+  "slug": "airline--manage-gates",
+  "category": "Travel"
+ },
+ {
+  "name": "Airline--passenger-care",
+  "slug": "airline--passenger-care",
+  "category": "Travel"
+ },
+ {
+  "name": "Airline--rapid-board",
+  "slug": "airline--rapid-board",
+  "category": "Travel"
+ },
+ {
+  "name": "Airport--01",
+  "slug": "airport--01",
+  "category": "Travel"
+ },
+ {
+  "name": "Airport--02",
+  "slug": "airport--02",
+  "category": "Travel"
+ },
+ {
+  "name": "Airport-location",
+  "slug": "airport-location",
+  "category": "Travel"
+ },
+ {
+  "name": "Arrival",
+  "slug": "arrival",
+  "category": "Travel"
+ },
+ {
+  "name": "Baggage-claim",
+  "slug": "baggage-claim",
+  "category": "Travel"
+ },
+ {
+  "name": "Bar",
+  "slug": "bar",
+  "category": "Travel"
+ },
+ {
+  "name": "Bicycle",
+  "slug": "bicycle",
+  "category": "Travel"
+ },
+ {
+  "name": "Boot",
+  "slug": "boot",
+  "category": "Travel"
+ },
+ {
+  "name": "Bus",
+  "slug": "bus",
+  "category": "Travel"
+ },
+ {
+  "name": "Cabin-care",
+  "slug": "cabin-care",
+  "category": "Travel"
+ },
+ {
+  "name": "Cabin-care--alert",
+  "slug": "cabin-care--alert",
+  "category": "Travel"
+ },
+ {
+  "name": "Cabin-care--alt",
+  "slug": "cabin-care--alt",
+  "category": "Travel"
+ },
+ {
+  "name": "Cafe",
+  "slug": "cafe",
+  "category": "Travel"
+ },
+ {
+  "name": "Campsite",
+  "slug": "campsite",
+  "category": "Travel"
+ },
+ {
+  "name": "Car",
+  "slug": "car",
+  "category": "Travel"
+ },
+ {
+  "name": "Car--front",
+  "slug": "car--front",
+  "category": "Travel"
+ },
+ {
+  "name": "Charging-station",
+  "slug": "charging-station",
+  "category": "Travel"
+ },
+ {
+  "name": "Charging-station--filled",
+  "slug": "charging-station--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Compass",
+  "slug": "compass",
+  "category": "Travel"
+ },
+ {
+  "name": "Construction",
+  "slug": "construction",
+  "category": "Travel"
+ },
+ {
+  "name": "Crossroads",
+  "slug": "crossroads",
+  "category": "Travel"
+ },
+ {
+  "name": "Crowd-report",
+  "slug": "crowd-report",
+  "category": "Travel"
+ },
+ {
+  "name": "Crowd-report--filled",
+  "slug": "crowd-report--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Cyclist",
+  "slug": "cyclist",
+  "category": "Travel"
+ },
+ {
+  "name": "Delivery-truck",
+  "slug": "delivery-truck",
+  "category": "Travel"
+ },
+ {
+  "name": "Departure",
+  "slug": "departure",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--bear-right--01",
+  "slug": "direction--bear-right--01",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--bear-right--01--filled",
+  "slug": "direction--bear-right--01--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--bear-right--02",
+  "slug": "direction--bear-right--02",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--bear-right--02--filled",
+  "slug": "direction--bear-right--02--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--curve",
+  "slug": "direction--curve",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--curve--filled",
+  "slug": "direction--curve--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--fork",
+  "slug": "direction--fork",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--fork--filled",
+  "slug": "direction--fork--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--loop-left",
+  "slug": "direction--loop-left",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--loop-left--filled",
+  "slug": "direction--loop-left--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--loop-right",
+  "slug": "direction--loop-right",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--loop-right--filled",
+  "slug": "direction--loop-right--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--merge",
+  "slug": "direction--merge",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--merge--filled",
+  "slug": "direction--merge--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--right--01",
+  "slug": "direction--right--01",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--right--01--filled",
+  "slug": "direction--right--01--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--right--02",
+  "slug": "direction--right--02",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--right--02--filled",
+  "slug": "direction--right--02--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--rotary--first-right",
+  "slug": "direction--rotary--first-right",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--rotary--first-right--filled",
+  "slug": "direction--rotary--first-right--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--rotary--right",
+  "slug": "direction--rotary--right",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--rotary--right--filled",
+  "slug": "direction--rotary--right--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--rotary--straight",
+  "slug": "direction--rotary--straight",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--rotary--straight--filled",
+  "slug": "direction--rotary--straight--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--sharp-turn",
+  "slug": "direction--sharp-turn",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--sharp-turn--filled",
+  "slug": "direction--sharp-turn--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--straight",
+  "slug": "direction--straight",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--straight--filled",
+  "slug": "direction--straight--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--straight--right",
+  "slug": "direction--straight--right",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--straight--right--filled",
+  "slug": "direction--straight--right--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--u-turn",
+  "slug": "direction--u-turn",
+  "category": "Travel"
+ },
+ {
+  "name": "Direction--u-turn--filled",
+  "slug": "direction--u-turn--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Earth",
+  "slug": "earth",
+  "category": "Travel"
+ },
+ {
+  "name": "Earth--americas",
+  "slug": "earth--americas",
+  "category": "Travel"
+ },
+ {
+  "name": "Earth--americas--filled",
+  "slug": "earth--americas--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Earth--europe-africa",
+  "slug": "earth--europe-africa",
+  "category": "Travel"
+ },
+ {
+  "name": "Earth--europe-africa--filled",
+  "slug": "earth--europe-africa--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Earth--filled",
+  "slug": "earth--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Earth--southeast-asia",
+  "slug": "earth--southeast-asia",
+  "category": "Travel"
+ },
+ {
+  "name": "Earth--southeast-asia--filled",
+  "slug": "earth--southeast-asia--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Fire",
+  "slug": "fire",
+  "category": "Travel"
+ },
+ {
+  "name": "Flagging-taxi",
+  "slug": "flagging-taxi",
+  "category": "Travel"
+ },
+ {
+  "name": "Flight--international",
+  "slug": "flight--international",
+  "category": "Travel"
+ },
+ {
+  "name": "Flight--roster",
+  "slug": "flight--roster",
+  "category": "Travel"
+ },
+ {
+  "name": "Flight--schedule",
+  "slug": "flight--schedule",
+  "category": "Travel"
+ },
+ {
+  "name": "Gas-station",
+  "slug": "gas-station",
+  "category": "Travel"
+ },
+ {
+  "name": "Gas-station--filled",
+  "slug": "gas-station--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Globe",
+  "slug": "globe",
+  "category": "Travel"
+ },
+ {
+  "name": "Harbor",
+  "slug": "harbor",
+  "category": "Travel"
+ },
+ {
+  "name": "Helicopter",
+  "slug": "helicopter",
+  "category": "Travel"
+ },
+ {
+  "name": "Help-desk",
+  "slug": "help-desk",
+  "category": "Travel"
+ },
+ {
+  "name": "Hospital",
+  "slug": "hospital",
+  "category": "Travel"
+ },
+ {
+  "name": "Hospital-bed",
+  "slug": "hospital-bed",
+  "category": "Travel"
+ },
+ {
+  "name": "Hotel",
+  "slug": "hotel",
+  "category": "Travel"
+ },
+ {
+  "name": "Lifesaver",
+  "slug": "lifesaver",
+  "category": "Travel"
+ },
+ {
+  "name": "Location",
+  "slug": "location",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--company",
+  "slug": "location--company",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--company--filled",
+  "slug": "location--company--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--filled",
+  "slug": "location--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--hazard",
+  "slug": "location--hazard",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--hazard--filled",
+  "slug": "location--hazard--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--heart",
+  "slug": "location--heart",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--heart--filled",
+  "slug": "location--heart--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--info",
+  "slug": "location--info",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--info--filled",
+  "slug": "location--info--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--person",
+  "slug": "location--person",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--person--filled",
+  "slug": "location--person--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--save",
+  "slug": "location--save",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--star",
+  "slug": "location--star",
+  "category": "Travel"
+ },
+ {
+  "name": "Location--star--filled",
+  "slug": "location--star--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Map",
+  "slug": "map",
+  "category": "Travel"
+ },
+ {
+  "name": "Map--center",
+  "slug": "map--center",
+  "category": "Travel"
+ },
+ {
+  "name": "Map--identify",
+  "slug": "map--identify",
+  "category": "Travel"
+ },
+ {
+  "name": "Map-boundary",
+  "slug": "map-boundary",
+  "category": "Travel"
+ },
+ {
+  "name": "Milestone",
+  "slug": "milestone",
+  "category": "Travel"
+ },
+ {
+  "name": "Military-camp",
+  "slug": "military-camp",
+  "category": "Travel"
+ },
+ {
+  "name": "Monument",
+  "slug": "monument",
+  "category": "Travel"
+ },
+ {
+  "name": "Mountain",
+  "slug": "mountain",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--civil",
+  "slug": "navaid--civil",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--dme",
+  "slug": "navaid--dme",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--helipad",
+  "slug": "navaid--helipad",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--military",
+  "slug": "navaid--military",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--military-civil",
+  "slug": "navaid--military-civil",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--ndb",
+  "slug": "navaid--ndb",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--ndb-dme",
+  "slug": "navaid--ndb-dme",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--private",
+  "slug": "navaid--private",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--seaplane",
+  "slug": "navaid--seaplane",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--tacan",
+  "slug": "navaid--tacan",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--vhfor",
+  "slug": "navaid--vhfor",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--vor",
+  "slug": "navaid--vor",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--vordme",
+  "slug": "navaid--vordme",
+  "category": "Travel"
+ },
+ {
+  "name": "Navaid--vortac",
+  "slug": "navaid--vortac",
+  "category": "Travel"
+ },
+ {
+  "name": "Palm-tree",
+  "slug": "palm-tree",
+  "category": "Travel"
+ },
+ {
+  "name": "Passenger--drinks",
+  "slug": "passenger--drinks",
+  "category": "Travel"
+ },
+ {
+  "name": "Passenger--plus",
+  "slug": "passenger--plus",
+  "category": "Travel"
+ },
+ {
+  "name": "Pedestrian",
+  "slug": "pedestrian",
+  "category": "Travel"
+ },
+ {
+  "name": "Pedestrian--family",
+  "slug": "pedestrian--family",
+  "category": "Travel"
+ },
+ {
+  "name": "Pedestrian-child",
+  "slug": "pedestrian-child",
+  "category": "Travel"
+ },
+ {
+  "name": "Picnic-area",
+  "slug": "picnic-area",
+  "category": "Travel"
+ },
+ {
+  "name": "Plane",
+  "slug": "plane",
+  "category": "Travel"
+ },
+ {
+  "name": "Plane--private",
+  "slug": "plane--private",
+  "category": "Travel"
+ },
+ {
+  "name": "Plane--sea",
+  "slug": "plane--sea",
+  "category": "Travel"
+ },
+ {
+  "name": "Police",
+  "slug": "police",
+  "category": "Travel"
+ },
+ {
+  "name": "Restaurant",
+  "slug": "restaurant",
+  "category": "Travel"
+ },
+ {
+  "name": "Restaurant--fine",
+  "slug": "restaurant--fine",
+  "category": "Travel"
+ },
+ {
+  "name": "Road",
+  "slug": "road",
+  "category": "Travel"
+ },
+ {
+  "name": "Road--weather",
+  "slug": "road--weather",
+  "category": "Travel"
+ },
+ {
+  "name": "Scooter",
+  "slug": "scooter",
+  "category": "Travel"
+ },
+ {
+  "name": "Scooter--front",
+  "slug": "scooter--front",
+  "category": "Travel"
+ },
+ {
+  "name": "Service-desk",
+  "slug": "service-desk",
+  "category": "Travel"
+ },
+ {
+  "name": "Shuttle",
+  "slug": "shuttle",
+  "category": "Travel"
+ },
+ {
+  "name": "Stop-sign",
+  "slug": "stop-sign",
+  "category": "Travel"
+ },
+ {
+  "name": "Stop-sign--filled",
+  "slug": "stop-sign--filled",
+  "category": "Travel"
+ },
+ {
+  "name": "Swim",
+  "slug": "swim",
+  "category": "Travel"
+ },
+ {
+  "name": "Tank",
+  "slug": "tank",
+  "category": "Travel"
+ },
+ {
+  "name": "Taxi",
+  "slug": "taxi",
+  "category": "Travel"
+ },
+ {
+  "name": "Theater",
+  "slug": "theater",
+  "category": "Travel"
+ },
+ {
+  "name": "Traffic--event",
+  "slug": "traffic--event",
+  "category": "Travel"
+ },
+ {
+  "name": "Traffic--flow",
+  "slug": "traffic--flow",
+  "category": "Travel"
+ },
+ {
+  "name": "Traffic--flow-incident",
+  "slug": "traffic--flow-incident",
+  "category": "Travel"
+ },
+ {
+  "name": "Traffic--incident",
+  "slug": "traffic--incident",
+  "category": "Travel"
+ },
+ {
+  "name": "Traffic--weather-incident",
+  "slug": "traffic--weather-incident",
+  "category": "Travel"
+ },
+ {
+  "name": "Traffic-cone",
+  "slug": "traffic-cone",
+  "category": "Travel"
+ },
+ {
+  "name": "Train",
+  "slug": "train",
+  "category": "Travel"
+ },
+ {
+  "name": "Train--heart",
+  "slug": "train--heart",
+  "category": "Travel"
+ },
+ {
+  "name": "Train--profile",
+  "slug": "train--profile",
+  "category": "Travel"
+ },
+ {
+  "name": "Train--speed",
+  "slug": "train--speed",
+  "category": "Travel"
+ },
+ {
+  "name": "Train--ticket",
+  "slug": "train--ticket",
+  "category": "Travel"
+ },
+ {
+  "name": "Train--time",
+  "slug": "train--time",
+  "category": "Travel"
+ },
+ {
+  "name": "Tram",
+  "slug": "tram",
+  "category": "Travel"
+ },
+ {
+  "name": "Van",
+  "slug": "van",
+  "category": "Travel"
+ },
+ {
+  "name": "Worship",
+  "slug": "worship",
+  "category": "Travel"
+ },
+ {
+  "name": "Worship--christian",
+  "slug": "worship--christian",
+  "category": "Travel"
+ },
+ {
+  "name": "Worship--jewish",
+  "slug": "worship--jewish",
+  "category": "Travel"
+ },
+ {
+  "name": "Worship--muslim",
+  "slug": "worship--muslim",
+  "category": "Travel"
+ },
+ {
+  "name": "Accessibility",
+  "slug": "accessibility",
+  "category": "User"
+ },
+ {
+  "name": "Accessibility--alt",
+  "slug": "accessibility--alt",
+  "category": "User"
+ },
+ {
+  "name": "Accessibility--color",
+  "slug": "accessibility--color",
+  "category": "User"
+ },
+ {
+  "name": "Accessibility--color--filled",
+  "slug": "accessibility--color--filled",
+  "category": "User"
+ },
+ {
+  "name": "Collaborate",
+  "slug": "collaborate",
+  "category": "User"
+ },
+ {
+  "name": "Cough",
+  "slug": "cough",
+  "category": "User"
+ },
+ {
+  "name": "Credentials",
+  "slug": "credentials",
+  "category": "User"
+ },
+ {
+  "name": "Customer",
+  "slug": "customer",
+  "category": "User"
+ },
+ {
+  "name": "Customer-service",
+  "slug": "customer-service",
+  "category": "User"
+ },
+ {
+  "name": "Dog-walker",
+  "slug": "dog-walker",
+  "category": "User"
+ },
+ {
+  "name": "Education",
+  "slug": "education",
+  "category": "User"
+ },
+ {
+  "name": "Events",
+  "slug": "events",
+  "category": "User"
+ },
+ {
+  "name": "Events--alt",
+  "slug": "events--alt",
+  "category": "User"
+ },
+ {
+  "name": "Face--activated",
+  "slug": "face--activated",
+  "category": "User"
+ },
+ {
+  "name": "Face--activated--add",
+  "slug": "face--activated--add",
+  "category": "User"
+ },
+ {
+  "name": "Face--activated--filled",
+  "slug": "face--activated--filled",
+  "category": "User"
+ },
+ {
+  "name": "Face--add",
+  "slug": "face--add",
+  "category": "User"
+ },
+ {
+  "name": "Face--cool",
+  "slug": "face--cool",
+  "category": "User"
+ },
+ {
+  "name": "Face--dissatisfied",
+  "slug": "face--dissatisfied",
+  "category": "User"
+ },
+ {
+  "name": "Face--dissatisfied--filled",
+  "slug": "face--dissatisfied--filled",
+  "category": "User"
+ },
+ {
+  "name": "Face--dizzy",
+  "slug": "face--dizzy",
+  "category": "User"
+ },
+ {
+  "name": "Face--dizzy--filled",
+  "slug": "face--dizzy--filled",
+  "category": "User"
+ },
+ {
+  "name": "Face--mask",
+  "slug": "face--mask",
+  "category": "User"
+ },
+ {
+  "name": "Face--neutral",
+  "slug": "face--neutral",
+  "category": "User"
+ },
+ {
+  "name": "Face--neutral--filled",
+  "slug": "face--neutral--filled",
+  "category": "User"
+ },
+ {
+  "name": "Face--pending",
+  "slug": "face--pending",
+  "category": "User"
+ },
+ {
+  "name": "Face--pending--filled",
+  "slug": "face--pending--filled",
+  "category": "User"
+ },
+ {
+  "name": "Face--satisfied",
+  "slug": "face--satisfied",
+  "category": "User"
+ },
+ {
+  "name": "Face--satisfied--filled",
+  "slug": "face--satisfied--filled",
+  "category": "User"
+ },
+ {
+  "name": "Face--wink",
+  "slug": "face--wink",
+  "category": "User"
+ },
+ {
+  "name": "Face--wink--filled",
+  "slug": "face--wink--filled",
+  "category": "User"
+ },
+ {
+  "name": "Friendship",
+  "slug": "friendship",
+  "category": "User"
+ },
+ {
+  "name": "Gender--female",
+  "slug": "gender--female",
+  "category": "User"
+ },
+ {
+  "name": "Gender--male",
+  "slug": "gender--male",
+  "category": "User"
+ },
+ {
+  "name": "Group",
+  "slug": "group",
+  "category": "User"
+ },
+ {
+  "name": "Group--presentation",
+  "slug": "group--presentation",
+  "category": "User"
+ },
+ {
+  "name": "Identification",
+  "slug": "identification",
+  "category": "User"
+ },
+ {
+  "name": "Partnership",
+  "slug": "partnership",
+  "category": "User"
+ },
+ {
+  "name": "Person",
+  "slug": "person",
+  "category": "User"
+ },
+ {
+  "name": "Person--favorite",
+  "slug": "person--favorite",
+  "category": "User"
+ },
+ {
+  "name": "Running",
+  "slug": "running",
+  "category": "User"
+ },
+ {
+  "name": "Sales-ops",
+  "slug": "sales-ops",
+  "category": "User"
+ },
+ {
+  "name": "Sight",
+  "slug": "sight",
+  "category": "User"
+ },
+ {
+  "name": "Transgender",
+  "slug": "transgender",
+  "category": "User"
+ },
+ {
+  "name": "User",
+  "slug": "user",
+  "category": "User"
+ },
+ {
+  "name": "User--access",
+  "slug": "user--access",
+  "category": "User"
+ },
+ {
+  "name": "User--access-locked",
+  "slug": "user--access-locked",
+  "category": "User"
+ },
+ {
+  "name": "User--access-unlocked",
+  "slug": "user--access-unlocked",
+  "category": "User"
+ },
+ {
+  "name": "User--activity",
+  "slug": "user--activity",
+  "category": "User"
+ },
+ {
+  "name": "User--admin",
+  "slug": "user--admin",
+  "category": "User"
+ },
+ {
+  "name": "User--avatar",
+  "slug": "user--avatar",
+  "category": "User"
+ },
+ {
+  "name": "User--avatar--filled",
+  "slug": "user--avatar--filled",
+  "category": "User"
+ },
+ {
+  "name": "User--avatar--filled--alt",
+  "slug": "user--avatar--filled--alt",
+  "category": "User"
+ },
+ {
+  "name": "User--certification",
+  "slug": "user--certification",
+  "category": "User"
+ },
+ {
+  "name": "User--data",
+  "slug": "user--data",
+  "category": "User"
+ },
+ {
+  "name": "User--favorite",
+  "slug": "user--favorite",
+  "category": "User"
+ },
+ {
+  "name": "User--favorite--alt",
+  "slug": "user--favorite--alt",
+  "category": "User"
+ },
+ {
+  "name": "User--favorite--alt--filled",
+  "slug": "user--favorite--alt--filled",
+  "category": "User"
+ },
+ {
+  "name": "User--feedback",
+  "slug": "user--feedback",
+  "category": "User"
+ },
+ {
+  "name": "User--filled",
+  "slug": "user--filled",
+  "category": "User"
+ },
+ {
+  "name": "User--follow",
+  "slug": "user--follow",
+  "category": "User"
+ },
+ {
+  "name": "User--identification",
+  "slug": "user--identification",
+  "category": "User"
+ },
+ {
+  "name": "User--military",
+  "slug": "user--military",
+  "category": "User"
+ },
+ {
+  "name": "User--multiple",
+  "slug": "user--multiple",
+  "category": "User"
+ },
+ {
+  "name": "User--online",
+  "slug": "user--online",
+  "category": "User"
+ },
+ {
+  "name": "User--profile",
+  "slug": "user--profile",
+  "category": "User"
+ },
+ {
+  "name": "User--role",
+  "slug": "user--role",
+  "category": "User"
+ },
+ {
+  "name": "User--service",
+  "slug": "user--service",
+  "category": "User"
+ },
+ {
+  "name": "User--service-desk",
+  "slug": "user--service-desk",
+  "category": "User"
+ },
+ {
+  "name": "User--settings",
+  "slug": "user--settings",
+  "category": "User"
+ },
+ {
+  "name": "User--simulation",
+  "slug": "user--simulation",
+  "category": "User"
+ },
+ {
+  "name": "User--speaker",
+  "slug": "user--speaker",
+  "category": "User"
+ },
+ {
+  "name": "User--sponsor",
+  "slug": "user--sponsor",
+  "category": "User"
+ },
+ {
+  "name": "User--x-ray",
+  "slug": "user--x-ray",
+  "category": "User"
+ },
+ {
+  "name": "User-profile--alt",
+  "slug": "user-profile--alt",
+  "category": "User"
+ },
+ {
+  "name": "Voice-activate",
+  "slug": "voice-activate",
+  "category": "User"
+ },
+ {
+  "name": "Accumulation--ice",
+  "slug": "accumulation--ice",
+  "category": "Weather"
+ },
+ {
+  "name": "Accumulation--precipitation",
+  "slug": "accumulation--precipitation",
+  "category": "Weather"
+ },
+ {
+  "name": "Accumulation--rain",
+  "slug": "accumulation--rain",
+  "category": "Weather"
+ },
+ {
+  "name": "Accumulation--snow",
+  "slug": "accumulation--snow",
+  "category": "Weather"
+ },
+ {
+  "name": "Agriculture-analytics",
+  "slug": "agriculture-analytics",
+  "category": "Weather"
+ },
+ {
+  "name": "Buoy",
+  "slug": "buoy",
+  "category": "Weather"
+ },
+ {
+  "name": "Carbon-accounting",
+  "slug": "carbon-accounting",
+  "category": "Weather"
+ },
+ {
+  "name": "Cloud",
+  "slug": "cloud",
+  "category": "Weather"
+ },
+ {
+  "name": "Cloud-ceiling",
+  "slug": "cloud-ceiling",
+  "category": "Weather"
+ },
+ {
+  "name": "Cloudy",
+  "slug": "cloudy",
+  "category": "Weather"
+ },
+ {
+  "name": "Crop-growth",
+  "slug": "crop-growth",
+  "category": "Weather"
+ },
+ {
+  "name": "Crop-health",
+  "slug": "crop-health",
+  "category": "Weather"
+ },
+ {
+  "name": "Dew-point",
+  "slug": "dew-point",
+  "category": "Weather"
+ },
+ {
+  "name": "Dew-point--filled",
+  "slug": "dew-point--filled",
+  "category": "Weather"
+ },
+ {
+  "name": "Drought",
+  "slug": "drought",
+  "category": "Weather"
+ },
+ {
+  "name": "Earthquake",
+  "slug": "earthquake",
+  "category": "Weather"
+ },
+ {
+  "name": "Energy--renewable",
+  "slug": "energy--renewable",
+  "category": "Weather"
+ },
+ {
+  "name": "Flood",
+  "slug": "flood",
+  "category": "Weather"
+ },
+ {
+  "name": "Flood--warning",
+  "slug": "flood--warning",
+  "category": "Weather"
+ },
+ {
+  "name": "Fog",
+  "slug": "fog",
+  "category": "Weather"
+ },
+ {
+  "name": "Forecast--hail",
+  "slug": "forecast--hail",
+  "category": "Weather"
+ },
+ {
+  "name": "Forecast--hail-30",
+  "slug": "forecast--hail-30",
+  "category": "Weather"
+ },
+ {
+  "name": "Forecast--lightning",
+  "slug": "forecast--lightning",
+  "category": "Weather"
+ },
+ {
+  "name": "Forecast--lightning-30",
+  "slug": "forecast--lightning-30",
+  "category": "Weather"
+ },
+ {
+  "name": "Hail",
+  "slug": "hail",
+  "category": "Weather"
+ },
+ {
+  "name": "Haze",
+  "slug": "haze",
+  "category": "Weather"
+ },
+ {
+  "name": "Haze--night",
+  "slug": "haze--night",
+  "category": "Weather"
+ },
+ {
+  "name": "Humidity",
+  "slug": "humidity",
+  "category": "Weather"
+ },
+ {
+  "name": "Humidity--alt",
+  "slug": "humidity--alt",
+  "category": "Weather"
+ },
+ {
+  "name": "Hurricane",
+  "slug": "hurricane",
+  "category": "Weather"
+ },
+ {
+  "name": "Ice--accretion",
+  "slug": "ice--accretion",
+  "category": "Weather"
+ },
+ {
+  "name": "Ice--vision",
+  "slug": "ice--vision",
+  "category": "Weather"
+ },
+ {
+  "name": "Lightning",
+  "slug": "lightning",
+  "category": "Weather"
+ },
+ {
+  "name": "Map-boundary--vegetation",
+  "slug": "map-boundary--vegetation",
+  "category": "Weather"
+ },
+ {
+  "name": "Marine-warning",
+  "slug": "marine-warning",
+  "category": "Weather"
+ },
+ {
+  "name": "Mixed-rain-hail",
+  "slug": "mixed-rain-hail",
+  "category": "Weather"
+ },
+ {
+  "name": "Moon",
+  "slug": "moon",
+  "category": "Weather"
+ },
+ {
+  "name": "Moon --filled",
+  "slug": "moon---filled",
+  "category": "Weather"
+ },
+ {
+  "name": "Moonrise",
+  "slug": "moonrise",
+  "category": "Weather"
+ },
+ {
+  "name": "Moonset",
+  "slug": "moonset",
+  "category": "Weather"
+ },
+ {
+  "name": "Mostly-cloudy",
+  "slug": "mostly-cloudy",
+  "category": "Weather"
+ },
+ {
+  "name": "Mostly-cloudy--night",
+  "slug": "mostly-cloudy--night",
+  "category": "Weather"
+ },
+ {
+  "name": "Not-available",
+  "slug": "not-available",
+  "category": "Weather"
+ },
+ {
+  "name": "Observed--hail",
+  "slug": "observed--hail",
+  "category": "Weather"
+ },
+ {
+  "name": "Observed--lightning",
+  "slug": "observed--lightning",
+  "category": "Weather"
+ },
+ {
+  "name": "Outlook-severe",
+  "slug": "outlook-severe",
+  "category": "Weather"
+ },
+ {
+  "name": "Partly-cloudy",
+  "slug": "partly-cloudy",
+  "category": "Weather"
+ },
+ {
+  "name": "Partly-cloudy--night",
+  "slug": "partly-cloudy--night",
+  "category": "Weather"
+ },
+ {
+  "name": "Pest",
+  "slug": "pest",
+  "category": "Weather"
+ },
+ {
+  "name": "Pressure",
+  "slug": "pressure",
+  "category": "Weather"
+ },
+ {
+  "name": "Pressure--filled",
+  "slug": "pressure--filled",
+  "category": "Weather"
+ },
+ {
+  "name": "Radar--enhanced",
+  "slug": "radar--enhanced",
+  "category": "Weather"
+ },
+ {
+  "name": "Radar--weather",
+  "slug": "radar--weather",
+  "category": "Weather"
+ },
+ {
+  "name": "Rain",
+  "slug": "rain",
+  "category": "Weather"
+ },
+ {
+  "name": "Rain--drizzle",
+  "slug": "rain--drizzle",
+  "category": "Weather"
+ },
+ {
+  "name": "Rain--heavy",
+  "slug": "rain--heavy",
+  "category": "Weather"
+ },
+ {
+  "name": "Rain--scattered",
+  "slug": "rain--scattered",
+  "category": "Weather"
+ },
+ {
+  "name": "Rain--scattered--night",
+  "slug": "rain--scattered--night",
+  "category": "Weather"
+ },
+ {
+  "name": "Rain-drop",
+  "slug": "rain-drop",
+  "category": "Weather"
+ },
+ {
+  "name": "Ref-evapotranspiration",
+  "slug": "ref-evapotranspiration",
+  "category": "Weather"
+ },
+ {
+  "name": "Sailboat--coastal",
+  "slug": "sailboat--coastal",
+  "category": "Weather"
+ },
+ {
+  "name": "Sailboat--offshore",
+  "slug": "sailboat--offshore",
+  "category": "Weather"
+ },
+ {
+  "name": "Satellite--radar",
+  "slug": "satellite--radar",
+  "category": "Weather"
+ },
+ {
+  "name": "Satellite--weather",
+  "slug": "satellite--weather",
+  "category": "Weather"
+ },
+ {
+  "name": "Sleet",
+  "slug": "sleet",
+  "category": "Weather"
+ },
+ {
+  "name": "Smoke",
+  "slug": "smoke",
+  "category": "Weather"
+ },
+ {
+  "name": "Snow",
+  "slug": "snow",
+  "category": "Weather"
+ },
+ {
+  "name": "Snow--blizzard",
+  "slug": "snow--blizzard",
+  "category": "Weather"
+ },
+ {
+  "name": "Snow--heavy",
+  "slug": "snow--heavy",
+  "category": "Weather"
+ },
+ {
+  "name": "Snow--scattered",
+  "slug": "snow--scattered",
+  "category": "Weather"
+ },
+ {
+  "name": "Snow--scattered--night",
+  "slug": "snow--scattered--night",
+  "category": "Weather"
+ },
+ {
+  "name": "Snow-density",
+  "slug": "snow-density",
+  "category": "Weather"
+ },
+ {
+  "name": "Snowflake",
+  "slug": "snowflake",
+  "category": "Weather"
+ },
+ {
+  "name": "Soil-moisture",
+  "slug": "soil-moisture",
+  "category": "Weather"
+ },
+ {
+  "name": "Soil-moisture--field",
+  "slug": "soil-moisture--field",
+  "category": "Weather"
+ },
+ {
+  "name": "Soil-moisture--global",
+  "slug": "soil-moisture--global",
+  "category": "Weather"
+ },
+ {
+  "name": "Soil-temperature",
+  "slug": "soil-temperature",
+  "category": "Weather"
+ },
+ {
+  "name": "Soil-temperature--field",
+  "slug": "soil-temperature--field",
+  "category": "Weather"
+ },
+ {
+  "name": "Soil-temperature--global",
+  "slug": "soil-temperature--global",
+  "category": "Weather"
+ },
+ {
+  "name": "Solar-panel",
+  "slug": "solar-panel",
+  "category": "Weather"
+ },
+ {
+  "name": "Stay-inside",
+  "slug": "stay-inside",
+  "category": "Weather"
+ },
+ {
+  "name": "Storm-tracker",
+  "slug": "storm-tracker",
+  "category": "Weather"
+ },
+ {
+  "name": "Sun",
+  "slug": "sun",
+  "category": "Weather"
+ },
+ {
+  "name": "Sunrise",
+  "slug": "sunrise",
+  "category": "Weather"
+ },
+ {
+  "name": "Sunset",
+  "slug": "sunset",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature",
+  "slug": "temperature",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--celsius",
+  "slug": "temperature--celsius",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--celsius--alt",
+  "slug": "temperature--celsius--alt",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--fahrenheit",
+  "slug": "temperature--fahrenheit",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--fahrenheit--alt",
+  "slug": "temperature--fahrenheit--alt",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--feels-like",
+  "slug": "temperature--feels-like",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--frigid",
+  "slug": "temperature--frigid",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--hot",
+  "slug": "temperature--hot",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--inversion",
+  "slug": "temperature--inversion",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--max",
+  "slug": "temperature--max",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--min",
+  "slug": "temperature--min",
+  "category": "Weather"
+ },
+ {
+  "name": "Temperature--water",
+  "slug": "temperature--water",
+  "category": "Weather"
+ },
+ {
+  "name": "Thunderstorm",
+  "slug": "thunderstorm",
+  "category": "Weather"
+ },
+ {
+  "name": "Thunderstorm--scattered",
+  "slug": "thunderstorm--scattered",
+  "category": "Weather"
+ },
+ {
+  "name": "Thunderstorm--scattered--night",
+  "slug": "thunderstorm--scattered--night",
+  "category": "Weather"
+ },
+ {
+  "name": "Thunderstorm--severe",
+  "slug": "thunderstorm--severe",
+  "category": "Weather"
+ },
+ {
+  "name": "Thunderstorm--strong",
+  "slug": "thunderstorm--strong",
+  "category": "Weather"
+ },
+ {
+  "name": "Tides",
+  "slug": "tides",
+  "category": "Weather"
+ },
+ {
+  "name": "Tornado",
+  "slug": "tornado",
+  "category": "Weather"
+ },
+ {
+  "name": "Tornado-warning",
+  "slug": "tornado-warning",
+  "category": "Weather"
+ },
+ {
+  "name": "Tree--fall-risk",
+  "slug": "tree--fall-risk",
+  "category": "Weather"
+ },
+ {
+  "name": "Tropical-storm",
+  "slug": "tropical-storm",
+  "category": "Weather"
+ },
+ {
+  "name": "Tropical-storm--model-tracks",
+  "slug": "tropical-storm--model-tracks",
+  "category": "Weather"
+ },
+ {
+  "name": "Tropical-storm--tracks",
+  "slug": "tropical-storm--tracks",
+  "category": "Weather"
+ },
+ {
+  "name": "Tropical-warning",
+  "slug": "tropical-warning",
+  "category": "Weather"
+ },
+ {
+  "name": "Tsunami",
+  "slug": "tsunami",
+  "category": "Weather"
+ },
+ {
+  "name": "Uv-index",
+  "slug": "uv-index",
+  "category": "Weather"
+ },
+ {
+  "name": "Uv-index--alt",
+  "slug": "uv-index--alt",
+  "category": "Weather"
+ },
+ {
+  "name": "Uv-index--filled",
+  "slug": "uv-index--filled",
+  "category": "Weather"
+ },
+ {
+  "name": "Vegetation--asset",
+  "slug": "vegetation--asset",
+  "category": "Weather"
+ },
+ {
+  "name": "Vegetation--encroachment",
+  "slug": "vegetation--encroachment",
+  "category": "Weather"
+ },
+ {
+  "name": "Vegetation--height",
+  "slug": "vegetation--height",
+  "category": "Weather"
+ },
+ {
+  "name": "Wave-direction",
+  "slug": "wave-direction",
+  "category": "Weather"
+ },
+ {
+  "name": "Wave-height",
+  "slug": "wave-height",
+  "category": "Weather"
+ },
+ {
+  "name": "Wave-period",
+  "slug": "wave-period",
+  "category": "Weather"
+ },
+ {
+  "name": "Weather-front--cold",
+  "slug": "weather-front--cold",
+  "category": "Weather"
+ },
+ {
+  "name": "Weather-front--stationary",
+  "slug": "weather-front--stationary",
+  "category": "Weather"
+ },
+ {
+  "name": "Weather-front--warm",
+  "slug": "weather-front--warm",
+  "category": "Weather"
+ },
+ {
+  "name": "Weather-station",
+  "slug": "weather-station",
+  "category": "Weather"
+ },
+ {
+  "name": "Wind-gusts",
+  "slug": "wind-gusts",
+  "category": "Weather"
+ },
+ {
+  "name": "Wind-power",
+  "slug": "wind-power",
+  "category": "Weather"
+ },
+ {
+  "name": "Wind-stream",
+  "slug": "wind-stream",
+  "category": "Weather"
+ },
+ {
+  "name": "Windy",
+  "slug": "windy",
+  "category": "Weather"
+ },
+ {
+  "name": "Windy--dust",
+  "slug": "windy--dust",
+  "category": "Weather"
+ },
+ {
+  "name": "Windy--snow",
+  "slug": "windy--snow",
+  "category": "Weather"
+ },
+ {
+  "name": "Windy--strong",
+  "slug": "windy--strong",
+  "category": "Weather"
+ },
+ {
+  "name": "Winter-warning",
+  "slug": "winter-warning",
+  "category": "Weather"
+ },
+ {
+  "name": "Wintry-mix",
+  "slug": "wintry-mix",
+  "category": "Weather"
+ }
+]

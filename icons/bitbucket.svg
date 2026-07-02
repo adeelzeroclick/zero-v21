@@ -1,0 +1,14 @@
+<svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icons / Bitbucket">
+<g id="Vector">
+</g>
+<path id="Vector_2" d="M1.45435 1.50004C1.32184 1.49827 1.19535 1.55711 1.10882 1.66076C1.02229 1.76441 0.984573 1.90227 1.00579 2.03736L2.90994 13.9742C2.95891 14.2757 3.21047 14.4974 3.50652 14.5H12.6415C12.8637 14.5029 13.0545 14.3374 13.0901 14.1109L14.9942 2.03968C15.0154 1.90459 14.9777 1.76673 14.8912 1.66308C14.8046 1.55942 14.6782 1.50059 14.5456 1.50235L1.45435 1.50004ZM9.47241 10.1273H6.55675L5.76728 5.86809H10.1789L9.47241 10.1273Z" fill="currentColor" style="fill-opacity:1"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M14.3887 5.86809H10.1789L9.47245 10.1273H6.55679L3.11407 14.3471C3.22319 14.4445 3.36232 14.4987 3.50657 14.5H12.6438C12.866 14.5029 13.0568 14.3374 13.0923 14.1109L14.3887 5.86809Z" fill="currentColor"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_8" x1="15.3621" y1="7.06085" x2="10.288" y2="14.0376" gradientUnits="userSpaceOnUse">
+<stop offset="0.18" style="stop-color:black;stop-opacity:1"/>
+<stop offset="1" stop-color="white" style="stop-color:white;stop-opacity:1"/>
+</linearGradient>
+</defs>
+</svg>

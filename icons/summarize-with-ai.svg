@@ -1,0 +1,6 @@
+<svg viewBox="0 0 12 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="icon" d="M9.9 5.1L9 3L8.1 5.1L6 6L8.1 6.9L9 9L9.9 6.9L12 6L9.9 5.1Z" fill="currentColor" style="fill-opacity:1"/>
+<rect id="btn" width="12" height="1" fill="currentColor" style="fill-opacity:1"/>
+<rect id="btn_2" y="4" width="5" height="1" fill="currentColor" style="fill-opacity:1"/>
+<rect id="btn_3" y="8" width="4" height="1" fill="currentColor" style="fill-opacity:1"/>
+</svg>
