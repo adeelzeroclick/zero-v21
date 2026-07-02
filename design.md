@@ -309,7 +309,7 @@ Pad the last row with `<span class="tile is-empty"></span>` so the grid always c
 
 - **Browse:** https://adeelzeroclick.github.io/zero-v21/icons/ — gallery of every icon by category, click any to open its SVG
 - **Manifest:** https://adeelzeroclick.github.io/zero-v21/icons/icons.json — `[{name, slug, category}]` for programmatic lookup
-- **Fetch one:** `https://adeelzeroclick.github.io/zero-v21/icons/<slug>.svg` (slug = lowercase DS name, e.g. `star`, `grid`, `currency--dollar`, `activity`, `chevron--right`, `alarm--add`)
+- **Fetch one:** `https://adeelzeroclick.github.io/zero-v21/icons/<slug>.svg` (e.g. `star`, `grid`, `currency--dollar`, `activity`, `chevron--right`, `alarm--add`). Slugs are usually the lowercase DS name, but a few are irregular (`Edit with ai` → `edit-with-ai`, `Moon --filled` → `moon---filled`) — **when in doubt, look the exact slug up in the manifest instead of guessing.**
 
 ```bash
 curl -s https://adeelzeroclick.github.io/zero-v21/icons/star.svg
